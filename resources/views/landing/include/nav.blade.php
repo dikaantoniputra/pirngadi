@@ -16,7 +16,7 @@
                             <li class="kingster-center-nav-menu-item">
                                 <div class="kingster-logo kingster-item-pdlr">
                                     <div class="kingster-logo-inner">
-                                        <a class="" href="/"><img src="{{ asset('') }}/upload/logo.png" alt="" width="200" height="200" title="logo HP" /></a>
+                                        <a class="" href="/"><img src="{{ asset('upload/logo.png') }}" alt="" width="200" height="200" title="logo HP" /></a>
                                     </div>
                                 </div>
                             </li>

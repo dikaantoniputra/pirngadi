@@ -19,7 +19,9 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>Pirngadi </title>
+    <title>pirngadi </title>
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ asset('upload/logo.png') }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('upload/logo.png') }}">
 
     <link rel="stylesheet" href="css/common-skeleton.mind41d.css?" type="text/css" media="all" />
     <link rel="stylesheet" href="css/tooltip.min.css" type="text/css" media="all" />
