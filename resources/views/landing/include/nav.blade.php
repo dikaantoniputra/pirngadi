@@ -29,7 +29,7 @@
                                 <div class="sf-mega sf-mega-full" style="background-image: url('upload/mega-menu-bg.jpg'); background-position: bottom right; background-repeat: no-repeat;">
                                     <ul class="sub-menu">
                                         <li class="menu-item menu-item-has-children " data-size="15">
-                                            <a class="sf-with-ul-pre">Sistem</a>
+                                            <a class="sf-with-ul-pre">Sistem Absensi</a>
                                             <ul class="sub-menu">
                                                 <li class="menu-item">
                                                     <a href="pengembangan-pirngadi">Absensi Guru</a>
