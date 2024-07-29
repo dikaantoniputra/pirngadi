@@ -984,7 +984,7 @@ Bukti Pembayaran
                                                                 </span>
                                                             </div>
                                                             <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 24px; font-weight: 500; letter-spacing: 1px;">
-                                                                <a href="#">Kingster Public Safety Survey open through Nov. 30</a>
+                                                                <a href="#">PIRNGADI Public Safety Survey open through Nov. 30</a>
                                                             </h3>
                                                             <div class="gdlr-core-blog-content clearfix">
                                                                 <a class="gdlr-core-excerpt-read-more gdlr-core-plain-text" href="#">

@@ -5,7 +5,7 @@
                 <div id="text-2" class="widget widget_text kingster-widget">
                     <div class="textwidget">
                         <p>
-                            <img src="upload/logo-HP.png" alt="" width="90" /><br />
+                            <img src="{{ asset('upload/logo.png') }}" alt="" width="90" /><br />
                             <span class="gdlr-core-space-shortcode" style="margin-top: 0px;"></span><br />
                             PIRNGADI<br />
                             Sekolah Pirngadi

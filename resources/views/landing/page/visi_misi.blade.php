@@ -47,7 +47,7 @@ Bukti Pembayaran
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
                                         <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 40px; font-weight: 700; letter-spacing: 0px; text-transform: none; color: #ffffff;">Scholarships</h3>
+                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 40px; font-weight: 700; letter-spacing: 0px; text-transform: none; color: #ffffff;">Visi & Misi</h3>
                                         </div>
                                     </div>
                                 </div>
@@ -68,8 +68,7 @@ Bukti Pembayaran
                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px;">
                                         <div class="gdlr-core-text-box-item-content" style="font-size: 18px; text-transform: none; color: #ffffff;">
                                             <p>
-                                                Kingster University offers a variety of scholarships and fellowships designed to help you and your family pay for university. Scholarships and grants are types of gift aid that
-                                                do not have to be repaid. They may take the form of University scholarships, federal or state grants, or outside scholarships.
+                                                PIRNGADI Berkontribusi dalam pengembangan sumber daya manusia yang berkualitas melalui dukungan pendidikan yang komprehensif
                                             </p>
                                         </div>
                                     </div>
@@ -92,7 +91,7 @@ Bukti Pembayaran
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
                                         <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 22px; font-weight: 600; letter-spacing: 0px; text-transform: none;">Requirements</h3>
+                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 22px; font-weight: 600; letter-spacing: 0px; text-transform: none;">Visi</h3>
                                         </div>
                                     </div>
                                 </div>
@@ -145,7 +144,7 @@ Bukti Pembayaran
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
                                         <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 22px; font-weight: 600; letter-spacing: 0px; text-transform: none;">Guidance and Advice</h3>
+                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 22px; font-weight: 600; letter-spacing: 0px; text-transform: none;">Misi</h3>
                                         </div>
                                     </div>
                                 </div>
@@ -178,7 +177,7 @@ Bukti Pembayaran
                                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 20px;">
                                         <div class="gdlr-core-title-item-title-wrap clearfix">
                                             <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 19px; font-weight: 600; letter-spacing: 0px; text-transform: none;">
-                                                Featured Student (Scholarship)
+                                                Ketua Pengurus (Yusuf Martin Bagio)
                                             </h3>
                                         </div>
                                     </div>
@@ -187,8 +186,7 @@ Bukti Pembayaran
                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 35px;">
                                         <div class="gdlr-core-text-box-item-content" style="font-size: 17px; text-transform: none; color: #8f8f8f;">
                                             <p>
-                                                Far far away, behind the word mountains, far.there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A
-                                                small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic.
+                                                Sebagai Ketua Pengurus, saya merasa bangga dan berterima kasih atas kepercayaan yang telah diberikan kepada kami dalam mendidik dan membimbing generasi penerus bangsa. Sekolah Pirngadi berdedikasi untuk menyediakan pendidikan berkualitas tinggi yang tidak hanya mengedepankan aspek akademis, tetapi juga karakter dan moral yang mulia.
                                             </p>
                                         </div>
                                     </div>
@@ -210,7 +208,7 @@ Bukti Pembayaran
                                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 35px;">
                                         <div class="gdlr-core-title-item-title-wrap clearfix">
                                             <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 24px; font-weight: 600; letter-spacing: 0px; text-transform: none; color: #1a1a1a;">
-                                                Contact For Scholarship
+                                                Kontak Sekolah
                                             </h3>
                                         </div>
                                     </div>
@@ -218,7 +216,7 @@ Bukti Pembayaran
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 15px;">
                                         <div class="gdlr-core-text-box-item-content" style="font-size: 16px; text-transform: none; color: #414141;">
-                                            <p>We are opn on Monday &#8211; Friday at 11am and 3pm, except on holidays.</p>
+                                            <p>Melayani &#8211; Senin - Jum'at.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -229,7 +227,7 @@ Bukti Pembayaran
                                                 class="gdlr-core-title-item-title gdlr-core-skin-title gdlr-core-title-font"
                                                 style="font-size: 16px; font-weight: 700; letter-spacing: 0px; text-transform: none; color: #414141;"
                                             >
-                                                Charlie’s Admissions Center
+                                               Admin Sekolah
                                             </div>
                                         </div>
                                     </div>
@@ -238,8 +236,8 @@ Bukti Pembayaran
                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 5px;">
                                         <div class="gdlr-core-text-box-item-content" style="font-size: 16px; text-transform: none; color: #8f8f8f;">
                                             <p>
-                                                223 Campus Way NE<br />
-                                                Bothell, WA 98011-8246
+                                                Nama Penangung Jawab<br />
+                                                Jl.pirngadi 4-14
                                             </p>
                                         </div>
                                     </div>

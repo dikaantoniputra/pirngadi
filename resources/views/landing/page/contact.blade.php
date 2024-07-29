@@ -25,9 +25,9 @@ Bukti Pembayaran
                     <div class="gdlr-core-pbf-element">
                         <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix gdlr-core-center-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr">
                             <div class="gdlr-core-title-item-title-wrap clearfix">
-                                <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 75px; font-weight: 700; letter-spacing: 0px; text-transform: none; color: #ffffff;">Contact Us</h3>
+                                <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 75px; font-weight: 700; letter-spacing: 0px; text-transform: none; color: #ffffff;">Kontak Kami</h3>
                             </div>
-                            <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 25px; font-style: normal; color: #f2f2f2; margin-top: 25px;">Get Intouch</span>
+                            <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 25px; font-style: normal; color: #f2f2f2; margin-top: 25px;">Hubungi Kami</span>
                         </div>
                     </div>
                 </div>
@@ -49,19 +49,19 @@ Bukti Pembayaran
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 25px;">
                                         <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 26px; letter-spacing: 0px; text-transform: none;">Phone</h3>
+                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 26px; letter-spacing: 0px; text-transform: none;">Telp</h3>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px;">
-                                        <div class="gdlr-core-text-box-item-content" style="font-size: 16px;"><p>A wonderful serenity has taken possession of my entire soul, like these.</p></div>
+                                        <div class="gdlr-core-text-box-item-content" style="font-size: 16px;"><p>Kami Akan Melayani anda dengan sepenuh hati</p></div>
                                     </div>
                                 </div>
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
                                         <div class="gdlr-core-text-box-item-content" style="font-size: 16px; text-transform: none; color: #3db166;">
-                                            <p><a href="#">+1-2345-2345</a></p>
+                                            <p><a href="#">0315343741</a></p>
                                         </div>
                                     </div>
                                 </div>
@@ -86,14 +86,14 @@ Bukti Pembayaran
                                 </div>
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px;">
-                                        <div class="gdlr-core-text-box-item-content" style="font-size: 16px;"><p>A wonderful serenity has taken possession of my entire soul, like these.</p></div>
+                                        <div class="gdlr-core-text-box-item-content" style="font-size: 16px;"><p>Kami Akan Melayani anda dengan sepenuh hati</p></div>
                                     </div>
                                 </div>
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
                                         <div class="gdlr-core-text-box-item-content" style="font-size: 16px;">
                                             <p>
-                                                <a href="#"><span class="__cf_email__" data-cfemail="5d1e3233293c3e291d3a323239313c24382f2e733e3230">[email&#160;protected]</span></a>
+                                                <a href="#"><span class="__cf_email__" data-cfemail="5d1e3233293c3e291d3a323239313c24382f2e733e3230">Alamat Email</span></a>
                                             </p>
                                         </div>
                                     </div>
@@ -113,7 +113,7 @@ Bukti Pembayaran
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 25px;">
                                         <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 26px; letter-spacing: 0px; text-transform: none;">Location</h3>
+                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 26px; letter-spacing: 0px; text-transform: none;">Alamat</h3>
                                         </div>
                                     </div>
                                 </div>
@@ -121,8 +121,8 @@ Bukti Pembayaran
                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px;">
                                         <div class="gdlr-core-text-box-item-content" style="font-size: 16px;">
                                             <p>
-                                                4 apt. Flawing Street. The Grand Avenue.<br />
-                                                Liverpool, UK 33342
+                                               Jalan Pirngadi No.4-14 Surabaya
+                                                
                                             </p>
                                         </div>
                                     </div>
@@ -130,7 +130,7 @@ Bukti Pembayaran
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
                                         <div class="gdlr-core-text-box-item-content" style="font-size: 16px;">
-                                            <p><a href="#">View On Google Map</a></p>
+                                            <p><a href="https://www.google.com/maps/place/Pirngadi/@-7.2525513,112.7349433,15z/data=!4m2!3m1!1s0x0:0x4e19e511ae8e3f61?sa=X&ved=1t:2428&ictx=111&hl=id">View On Google Map</a></p>
                                         </div>
                                     </div>
                                 </div>
@@ -140,88 +140,8 @@ Bukti Pembayaran
                 </div>
             </div>
         </div>
-        <div class="gdlr-core-pbf-wrapper" style="padding: 115px 0px 40px 0px;">
-            <div class="gdlr-core-pbf-background-wrap" style="background-color: #f3f3f3;"></div>
-            <div class="gdlr-core-pbf-wrapper-content gdlr-core-js">
-                <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                    <div class="gdlr-core-pbf-column gdlr-core-column-60 gdlr-core-column-first">
-                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js">
-                            <div class="gdlr-core-pbf-background-wrap"></div>
-                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js" style="max-width: 760px;">
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix gdlr-core-center-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr" style="padding-bottom: 60px;">
-                                        <div class="gdlr-core-title-item-title-wrap clearfix"><h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 39px;">Leave us your info</h3></div>
-                                        <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 19px; font-style: normal; text-transform: uppercase;">
-                                            and we will get back to you.
-                                        </span>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-contact-form-7-item gdlr-core-item-pdlr gdlr-core-item-pdb">
-                                        <div role="form" class="wpcf7" id="wpcf7-f1979-p1964-o1" lang="en-US" dir="ltr">
-                                            <div class="screen-reader-response" role="alert" aria-live="polite"></div>
-                                            <form class="quform" action="https://max-themes.net/demos/kingster/college/plugins/quform/process.php" method="post" enctype="multipart/form-data" onclick="">
-
-                                                <div class="quform-elements">
-                                                    <div class="quform-element">
-                                                        <p>
-
-                                                            <span class="wpcf7-form-control-wrap your-name">
-                                                                <input id="name" type="text" name="name" size="40" class="input1" aria-required="true" aria-invalid="false" placeholder="Name*">
-                                                            </span> 
-                                                        </p>
-                                                    </div>
-                                                    <div class="quform-element">
-                                                        <p>
-
-                                                            <span class="wpcf7-form-control-wrap your-email">
-                                                                <input id="email" type="text" name="email" size="40" class="input1" aria-required="true" aria-invalid="false" placeholder="Email*">
-                                                            </span> 
-                                                        </p>
-                                                    </div>
-                                                    <div class="quform-element">
-                                                        <p>
-
-                                                            <span class="wpcf7-form-control-wrap your-message">
-                                                                <textarea  id="message" name="message" cols="40" rows="10" class="input1" aria-invalid="false" placeholder="Message*"></textarea>
-                                                            </span>
-                                                        </p>
-                                                    </div>
-                                                    <p>
-                                                        <!-- Begin Submit button -->
-                                                        <div class="quform-submit">
-                                                            <div class="quform-submit-inner">
-                                                                <button type="submit" class="submit-button"><span>Send</span></button>
-                                                            </div>
-                                                            <div class="quform-loading-wrap"><span class="quform-loading"></span></div>
-                                                        </div>
-                                                    </p>
-                                                </div>
-                                            </form>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="gdlr-core-pbf-wrapper" style="padding: 0px 0px 0px 0px;">
-            <div class="gdlr-core-pbf-background-wrap"></div>
-            <div class="gdlr-core-pbf-wrapper-content gdlr-core-js">
-                <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-pbf-wrapper-full-no-space">
-                    <div class="gdlr-core-pbf-element">
-                        <div class="gdlr-core-wp-google-map-plugin-item gdlr-core-item-pdlr gdlr-core-item-pdb" style="padding-bottom: 0px;">
-                            <div class="wpgmp_map_container wpgmp-map-" rel="map">
-                                <iframe style="width:100%; height:400px; border:0" src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d19905.696399556287!2d-0.3007084089960577!3d51.417531259591925!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1s2334+Peterson+Street+Kingston+UK+London+H14D!5e0!3m2!1sen!2s!4v1546697086219" width="600" height="450" ></iframe>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+       
+       
         <div class="gdlr-core-pbf-wrapper" style="padding: 80px 0px 50px 0px;">
             <div class="gdlr-core-pbf-background-wrap" style="background-color: #ffffff;"></div>
             <div class="gdlr-core-pbf-wrapper-content gdlr-core-js">
