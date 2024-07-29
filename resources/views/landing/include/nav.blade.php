@@ -22,7 +22,7 @@
                             </li>
                             <li class="menu-item kingster-normal-menu"><a href="pengembangan-pirngadi">TK PIRNGADI</a></li>
                             <li class="menu-item kingster-normal-menu"><a href="pengembangan-pirngadi">DAYCARE</a></li>
-                            <li class="menu-item kingster-normal-menu"><a href="ybppkpirngadi.or.id">YBPPK PIRNGADI</a></li>
+                            <li class="menu-item kingster-normal-menu"><a href="https://ybppkpirngadi.or.id/">YBPPK PIRNGADI</a></li>
                          
                             <li class="menu-itemmenu-item-has-children  kingster-mega-menu">
                                 <a href="bachelor-of-science-in-business-administration.html" class="sf-with-ul-pre">E-PIRNGADI</a>

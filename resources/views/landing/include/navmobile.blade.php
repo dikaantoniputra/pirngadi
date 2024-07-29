@@ -37,7 +37,7 @@
                             <li class="menu-item"><a href="pengembangan-pirngadi">SD PIRNGADI</a></li>
                             <li class="menu-item"><a href="pengembangan-pirngadi">TK PIRNGADI</a></li>
                             <li class="menu-item"><a href="pengembangan-pirngadi">DAYCARE</a></li>
-                            <li class="menu-item"><a href="ybppkpirngadi.or.id">YBPPK PIRNGADI</a></li>
+                            <li class="menu-item"><a href="https://ybppkpirngadi.or.id/">YBPPK PIRNGADI</a></li>
                             <li class="menu-itemmenu-item-has-children ">
                                 <a href="blog-full-right-sidebar-with-frame.html">E-PIRNGADI</a>
                                 <ul class="sub-menu">
