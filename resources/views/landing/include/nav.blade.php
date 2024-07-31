@@ -26,7 +26,7 @@
                          
                             <li class="menu-itemmenu-item-has-children  kingster-mega-menu">
                                 <a href="bachelor-of-science-in-business-administration.html" class="sf-with-ul-pre">E-PIRNGADI</a>
-                                <div class="sf-mega sf-mega-full" style="background-image: url('upload/mega-menu-bg.jpg'); background-position: bottom right; background-repeat: no-repeat;">
+                                <div class="sf-mega sf-mega-full" style="background-image: url('upload/mega-menu-bg.jpg'); background-position: bottom right; background-repeat: no-repeat;"  alt="pirngadi">
                                     <ul class="sub-menu">
                                         <li class="menu-item menu-item-has-children " data-size="15">
                                             <a class="sf-with-ul-pre">Sistem Absensi</a>

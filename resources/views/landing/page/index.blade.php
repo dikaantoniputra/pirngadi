@@ -22,10 +22,11 @@ Bukti Pembayaran
                             <rs-module-wrap id="rev_slider_1_1_wrapper" data-source="gallery" style="background: transparent; padding: 0; margin: 0px auto; margin-top: 0; margin-bottom: 0;">
                                 <rs-module id="rev_slider_1_1" style="" data-version="6.2.22">
                                     <rs-slides>
-                                        <rs-slide data-key="rs-1" data-title="Slide" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
+                                        <rs-slide data-key="rs-1" data-title="sekolah pirngadi" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
                                             <img
                                                 src="upload/slider-1.jpg"
                                                 title="slider-1"
+                                                alt="pirngadi"
                                                 width="2000"
                                                 height="1200"
                                                 data-panzoom="d:7000ms;ss:100%;se:103%;"
@@ -169,7 +170,7 @@ Bukti Pembayaran
                                             MENUJU PERJALANAN DI DEPAN
                                         </span>
                                         <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 42px; font-weight: 400; color: #222222;">PENGALAMAN DALAM KEPEMIMPINAN SEKOLAH DAN PENGAJARAN</h3>
+                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 42px; font-weight: 400; color: #222222;">Sekolah Merdeka Belajar</h3>
                                         </div>
                                     </div>
                                 </div>
@@ -184,29 +185,7 @@ Bukti Pembayaran
                                         </div>
                                     </div>
                                 </div>
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align" style="padding-bottom: 0px;">
-                                        <a
-                                            class="gdlr-core-button gdlr-core-button-transparent gdlr-core-center-align gdlr-core-button-with-border"
-                                            href="#"
-                                            style="
-                                                font-size: 13px;
-                                                font-weight: 600;
-                                                letter-spacing: 1px;
-                                                color: #777777;
-                                                padding: 0px 0px 2px 0px;
-                                                text-transform: uppercase;
-                                                border-radius: 0px;
-                                                -moz-border-radius: 0px;
-                                                -webkit-border-radius: 0px;
-                                                border-width: 0px 0px 1px 0px;
-                                                border-color: #777777;
-                                            "
-                                        >
-                                            <span class="gdlr-core-content">Learn More</span>
-                                        </a>
-                                    </div>
-                                </div>
+                             
                             </div>
                         </div>
                     </div>
@@ -224,7 +203,7 @@ Bukti Pembayaran
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-image-item gdlr-core-item-pdb gdlr-core-center-align" style="padding-bottom: 25px;">
                                         <div class="gdlr-core-image-item-wrap gdlr-core-media-image gdlr-core-image-item-style-rectangle" style="border-width: 0px;">
-                                            <img src="upload/Img1.jpg" alt="" width="640" height="449" title="Img1" />
+                                            <img src="upload/Img1.jpg" alt="" width="640" height="449" title="sekolah pirngadi merdeka" alt="pirngadi merdeka"/>
                                         </div>
                                     </div>
                                 </div>
@@ -273,7 +252,7 @@ Bukti Pembayaran
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-image-item gdlr-core-item-pdb gdlr-core-center-align" style="padding-bottom: 25px;">
                                         <div class="gdlr-core-image-item-wrap gdlr-core-media-image gdlr-core-image-item-style-rectangle" style="border-width: 0px;">
-                                            <img src="upload/Img2-1.jpg" alt="" width="640" height="449" title="Img2" />
+                                            <img src="upload/Img2-1.jpg" alt="" width="640" height="449" title="sekolah pirngadi " alt="pirngadi" />
                                         </div>
                                     </div>
                                 </div>
@@ -503,7 +482,7 @@ Bukti Pembayaran
                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px;">
                                         <div class="gdlr-core-text-box-item-content" style="font-size: 18px; font-weight: 400; letter-spacing: 0px; text-transform: none; color: #373737;">
                                             <p>
-                                                Di Pirngadi Merdeke, kami melihat kurikulum sebagai sesuatu yang mencakup lebih atau kurang segala sesuatu yang dilakukan oleh seorang siswa. Anda mungkin bertanya mengapa kami melihat kurikulum dengan cara ini. Bagi banyak sekolah, kurikulum hanyalah bagian akademik dari apa yang dipelajari seorang siswa. Namun, itu tidak benar-benar menggambarkan apa sebenarnya pendidikan itu.
+                                                Di Pirngadi Merdeke, kami melihat kurikulum sebagai sesuatu <br/> yang mencakup lebih atau kurang segala sesuatu  yang dilakukan oleh seorang siswa. Anda mungkin bertanya mengapa kami <br/> melihat kurikulum dengan cara ini. Bagi banyak sekolah, kurikulum hanyalah bagian akademik dari apa yang dipelajari seorang siswa. Namun, itu tidak benar-benar menggambarkan apa sebenarnya pendidikan itu.
                                             </p>
                                         </div>
                                     </div>
@@ -817,7 +796,7 @@ Bukti Pembayaran
                 </div>
             </div>
         </div>
-        <div class="gdlr-core-pbf-wrapper gdlr-core-hide-in-tablet-mobile" style="margin: -448px 0px 0px 0px; padding: 0px 0px 90px 0px;" id="gdlr-core-wrapper-7">
+        {{-- <div class="gdlr-core-pbf-wrapper gdlr-core-hide-in-tablet-mobile" style="margin: -448px 0px 0px 0px; padding: 0px 0px 90px 0px;" id="gdlr-core-wrapper-7">
             <div class="gdlr-core-pbf-background-wrap"></div>
             <div class="gdlr-core-pbf-wrapper-content gdlr-core-js">
                 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
@@ -1003,7 +982,7 @@ Bukti Pembayaran
                     </div>
                 </div>
             </div>
-        </div>
+        </div> --}}
      
        
     </div>
