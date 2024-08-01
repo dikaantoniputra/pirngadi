@@ -53,7 +53,7 @@ Bukti Pembayaran
                                         <div class="gdlr-core-pbf-element">
                                             <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 15px;">
                                                 <div class="gdlr-core-title-item-title-wrap clearfix">
-                                                    <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 29px; font-weight: 700; letter-spacing: 0px; text-transform: none;">Kingster’s History</h3>
+                                                    <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 29px; font-weight: 700; letter-spacing: 0px; text-transform: none;">SEJARAH SINGKAT</h3>
                                                 </div>
                                             </div>
                                         </div>
@@ -74,9 +74,9 @@ Bukti Pembayaran
                                             <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
                                                 <div class="gdlr-core-text-box-item-content" style="text-transform: none;">
                                                     <p>
-                                                        If you would like to study in the university in the heart of the city that focus on chaning the world for better to morrow, you’re choosin the right place. We do not use
-                                                        special formulas to select students. We look at every single applicant&#8217;s application, academic and personal, to select students who suit to our community with a full
-                                                        range of backgrounds. If you would like to study
+                                                        Yayasan Badan Pendidkan dan Pengajaran Kristen Pirngadi didirikan pada tanggal 13 Mei 1950, berdasarkan Akte Notaris Thedoor Robert Willem Vermeulen.
+                                                        Pada awal berdirinya Yayasan Badan Pendidikan dan Penagajan Kristen Pirngadi  memiliki dua jenjang pendidikan yaitu Sekolah Dasar Latihan (SD Latihan) dan Sekoloh Guru (SPG).
+                                                        
                                                     </p>
                                                 </div>
                                             </div>
@@ -91,8 +91,7 @@ Bukti Pembayaran
                                             <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
                                                 <div class="gdlr-core-text-box-item-content" style="text-transform: none;">
                                                     <p>
-                                                        If you would like to study in the university in the heart of the city that focus on chaning the world for better to morrow, you’re choosin the right place. We do not use
-                                                        special formulas to select students. We look at every single applicantt&#8217;s application, academic and personal, to select students who suit to our community.
+                                                        The Pirngadi Christian Education and Teaching Foundation was established on May 13, 1950, based on the Notary Deed of Thedoor Robert Willem Vermeulen. At the beginning of its establishment, the Pirngadi Christian Education and Teaching Foundation had two levels of education, namely Elementary Training School (SD Latihan) and Teacher School (SPG).
                                                     </p>
                                                 </div>
                                             </div>
@@ -125,7 +124,7 @@ Bukti Pembayaran
                                         <div class="gdlr-core-pbf-element">
                                             <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 25px;">
                                                 <div class="gdlr-core-title-item-title-wrap clearfix">
-                                                    <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 30px; font-weight: 600; letter-spacing: 0px; text-transform: none;">Special Campus Tour</h3>
+                                                    <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 30px; font-weight: 600; letter-spacing: 0px; text-transform: none;">Perkembangan Yayasan TK  </h3>
                                                 </div>
                                             </div>
                                         </div>
@@ -133,8 +132,9 @@ Bukti Pembayaran
                                             <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
                                                 <div class="gdlr-core-text-box-item-content" style="font-size: 17px; text-transform: none;">
                                                     <p>
-                                                        Campus on a tour designed for prospective graduate and professional students. You will see how our university like, facilities, studenst and life in this university. Meet our
-                                                        graduate admissions representative to learn more about our graduate programs and decide what it the best for you.
+                                                        01 Agustus 1957 didirikanlah sekolah Taman Kanak-kanak Kristen Pirngadi 
+                                                        <br/>
+                                                        Pada tanggal 1 Agustus 1957, dengan penuh semangat dan dedikasi, didirikanlah Taman Kanak-kanak Kristen Pirngadi. Sebuah lembaga pendidikan yang bertujuan untuk menanamkan nilai-nilai Kristiani dan dasar-dasar pengetahuan kepada generasi muda. Melalui komitmen dan usaha tanpa henti dari para pendiri, guru, dan staf, TK Kristen Pirngadi telah menjadi tempat bagi anak-anak untuk bertumbuh, belajar, dan berkembang dalam iman dan pengetahuan.
                                                     </p>
                                                 </div>
                                             </div>
@@ -187,7 +187,7 @@ Bukti Pembayaran
                                         <div class="gdlr-core-pbf-element">
                                             <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 25px;">
                                                 <div class="gdlr-core-title-item-title-wrap clearfix">
-                                                    <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 30px; font-weight: 600; letter-spacing: 0px; text-transform: none;">Graduation</h3>
+                                                    <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 30px; font-weight: 600; letter-spacing: 0px; text-transform: none;">Perkembangan Yayasan SMP</h3>
                                                 </div>
                                             </div>
                                         </div>
@@ -195,8 +195,7 @@ Bukti Pembayaran
                                             <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
                                                 <div class="gdlr-core-text-box-item-content" style="font-size: 17px; text-transform: none;">
                                                     <p>
-                                                        Campus on a tour designed for prospective graduate and professional students. You will see how our university like, facilities, studenst and life in this university. Meet our
-                                                        graduate admissions representative to learn more about our graduate programs and decide what it the best for you.
+                                                        Pada tanggal 19 Januari 1967, didirikanlah Sekolah Menengah Pertama Kristen Pirngadi (SMP) dengan visi mulia untuk memberikan pendidikan yang bermutu dan berbasis nilai-nilai Kristiani. Dengan dedikasi dan kerja keras dari para pendiri, guru, dan staf, SMP Kristen Pirngadi telah menjadi tempat bagi para siswa untuk mengembangkan potensi mereka, baik dalam akademis maupun karakter. Kami berharap, semangat untuk memberikan pendidikan yang berkualitas dan berlandaskan iman akan terus menjadi landasan bagi sekolah ini, dalam mendidik dan membentuk generasi penerus yang berintegritas dan berprestasi.
                                                     </p>
                                                 </div>
                                             </div>
@@ -225,7 +224,7 @@ Bukti Pembayaran
                                         <div class="gdlr-core-pbf-element">
                                             <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 25px;">
                                                 <div class="gdlr-core-title-item-title-wrap clearfix">
-                                                    <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 30px; font-weight: 600; letter-spacing: 0px; text-transform: none;">Powerful Alumni</h3>
+                                                    <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 30px; font-weight: 600; letter-spacing: 0px; text-transform: none;">Perkembangan Yayasan SMA</h3>
                                                 </div>
                                             </div>
                                         </div>
@@ -233,8 +232,7 @@ Bukti Pembayaran
                                             <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
                                                 <div class="gdlr-core-text-box-item-content" style="font-size: 17px; text-transform: none;">
                                                     <p>
-                                                        Campus on a tour designed for prospective graduate and professional students. You will see how our university like, facilities, studenst and life in this university. Meet our
-                                                        graduate admissions representative to learn more about our graduate programs and decide what it the best for you.
+                                                        Pada tanggal 1 Juni 1978, dengan penuh tekad dan visi yang jelas, didirikanlah Sekolah Menengah Atas Kristen Pirngadi (SMA). Sebagai institusi yang berkomitmen pada pendidikan yang unggul dan berbasis nilai-nilai Kristiani, SMA Kristen Pirngadi terus berusaha untuk membekali siswa-siswinya dengan pengetahuan, keterampilan, dan karakter yang kokoh. Melalui dedikasi para pendiri, guru, dan staf, sekolah ini telah menjadi tempat yang menginspirasi dan membentuk para pemimpin masa depan. Semoga semangat dan komitmen yang sama terus menyertai perjalanan sekolah ini dalam mendidik generasi penerus bangsa.
                                                     </p>
                                                 </div>
                                             </div>
@@ -272,14 +270,14 @@ Bukti Pembayaran
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
                                         <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 22px; font-weight: 600; letter-spacing: 0px; text-transform: none;">Event and Traditions</h3>
+                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 22px; font-weight: 600; letter-spacing: 0px; text-transform: none;">Acara dan Tradisi</h3>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px;">
                                         <div class="gdlr-core-text-box-item-content" style="font-size: 19px; text-transform: none; color: #0082fa;">
-                                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in</p>
+                                            <p>Setiap pagi sebelum memulai pelajaran, siswa, guru, dan staf melakuka dan mengucapkan doa bersama. Doa pagi ini bertujuan untuk memohon bimbingan dan perlindungan Tuhan sepanjang hari.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -287,9 +285,7 @@ Bukti Pembayaran
                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
                                         <div class="gdlr-core-text-box-item-content" style="font-size: 16px; text-transform: none; color: #8f8f8f;">
                                             <p>
-                                                Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the
-                                                necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind
-                                                texts it is an almost unorthographic life.
+                                                Setiap hari Senin, seluruh siswa, guru, dan staf berkumpul untuk mengikuti upacara bendera. Acara ini tidak hanya meningkatkan rasa nasionalisme, tetapi juga memupuk disiplin dan kebersamaan..
                                             </p>
                                         </div>
                                     </div>
@@ -375,7 +371,7 @@ Bukti Pembayaran
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 28px;">
                                         <div class="gdlr-core-text-box-item-content" style="font-size: 16px; text-transform: none; color: #8f8f8f;">
-                                            <p><strong>There are many options to travel in the campus.</strong></p>
+                                            <p><strong>Dekat dengan Halte Bus dan area Parkir.</strong></p>
                                             <p>
                                                 There live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place
                                                 and supplies it with the necessary regelialia. It is a paradisematic. It is a paradise matic country, in which roasted parts of sentences fly into.
