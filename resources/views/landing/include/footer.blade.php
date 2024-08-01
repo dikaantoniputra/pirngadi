@@ -13,10 +13,10 @@
                         </p>
                         <p>
                             
-                            <span style="font-size: 15px; color: #ffffff;">+62 812-3522-0760</span><br />
+                            <span style="font-size: 15px; color: #ffffff;">+031-5343741</span><br />
                             <span class="gdlr-core-space-shortcode" style="margin-top: -20px;"></span><br />
                             <a style="font-size: 15px; color: #8dd7e5;" href="#">
-                                <span class="__cf_email__">rmail@gmail</span>
+                                <span class="__cf_email__">sekretariat@pirngadi.sch.id</span>
                             </a><br/>
                             <span style="font-size: 15px; color: #ffffff;">Jl. Pirngadi No. 4-14 Surabaya</span><br />
                         </p>
@@ -50,7 +50,7 @@
                             <li class="menu-item  kingster-normal-menu"><a href="#">Pendaftaran SMA</a></li>
                             <li class="menu-item  kingster-normal-menu"><a href="#">Pendaftaran SMP</a></li>
                             <li class="menu-item  kingster-normal-menu"><a href="#">Pendaftaran SD</a></li>
-                            <li class="menu-item  kingster-normal-menu"><a href="#">Pendaftaran TK</a></li>
+                            <li class="menu-item  kingster-normal-menu"><a href="https://tk-kristen.pirngadi.sch.id/">Pendaftaran TK</a></li>
                         </ul>
                     </div>
                 </div>
@@ -61,10 +61,10 @@
                     <span class="clear"></span>
                     <div class="menu-academics-container">
                         <ul id="menu-academics" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-plain">
-                            <li class="menu-item  kingster-normal-menu"><a href="#">Tentang Kami</a></li>
-                            <li class="menu-item  kingster-normal-menu"><a href="#">Visi & Misi</a></li>
-                            <li class="menu-item  kingster-normal-menu"><a href="#">Kontak</a></li>
-                            <li class="menu-item  kingster-normal-menu"><a href="#">Blog</a></li>
+                            <li class="menu-item  kingster-normal-menu"><a href="tentang-pirngadi">Tentang Kami</a></li>
+                            <li class="menu-item  kingster-normal-menu"><a href="visi-misi-pirngadi">Visi & Misi</a></li>
+                            <li class="menu-item  kingster-normal-menu"><a href="kontak-pirngadi">Kontak</a></li>
+                            <li class="menu-item  kingster-normal-menu"><a href="pengembangan-pirngadi">Blog</a></li>
                            
                         </ul>
                     </div>

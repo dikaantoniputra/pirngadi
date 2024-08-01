@@ -20,7 +20,7 @@
                                     </div>
                                 </div>
                             </li>
-                            <li class="menu-item kingster-normal-menu"><a href="pengembangan-pirngadi">TK PIRNGADI</a></li>
+                            <li class="menu-item kingster-normal-menu"><a href="https://tk-kristen.pirngadi.sch.id/">TK PIRNGADI</a></li>
                             <li class="menu-item kingster-normal-menu"><a href="pengembangan-pirngadi">DAYCARE</a></li>
                             <li class="menu-item kingster-normal-menu"><a href="https://ybppkpirngadi.or.id/">YBPPK PIRNGADI</a></li>
                          

@@ -308,11 +308,10 @@ Bukti Pembayaran
                                                         <img src="upload/icon-activity.png" alt="" width="43" height="32" title="icon-activity" />
                                                     </div>
                                                     <div class="gdlr-core-flipbox-content-wrap">
-                                                        <h3 class="gdlr-core-flipbox-item-title">Student Activities</h3>
+                                                        <h3 class="gdlr-core-flipbox-item-title">Sekolah Pirngadi akademik dan aktivitas Olaraga</h3>
                                                         <div class="gdlr-core-flipbox-item-content" style="font-size: 16px;">
                                                             <p>
-                                                                Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies
-                                                                it with the necessary regelialia. It is a paradisematic country
+                                                                Di sekolah kami, keseimbangan antara akademik dan aktivitas fisik sangat diutamakan. Kami rutin mengadakan berbagai kegiatan olahraga yang bertujuan untuk mengembangkan keterampilan fisik dan kesehatan siswa. Dengan fasilitas yang lengkap dan bimbingan dari pelatih yang berpengalaman, siswa kami dapat berlatih dan bertanding dalam suasana yang positif dan mendukung. Melalui kegiatan olahraga, siswa belajar tentang kerja sama, disiplin, dan semangat kompetitif yang sehat.
                                                             </p>
                                                         </div>
                                                     </div>
@@ -328,11 +327,10 @@ Bukti Pembayaran
                                                         <img src="upload/icon-trophy.png" alt="" width="28" height="33" title="icon-trophy" />
                                                     </div>
                                                     <div class="gdlr-core-flipbox-content-wrap">
-                                                        <h3 class="gdlr-core-flipbox-item-title">Social Life</h3>
+                                                        <h3 class="gdlr-core-flipbox-item-title">Kegiatan Olimpiade</h3>
                                                         <div class="gdlr-core-flipbox-item-content" style="font-size: 16px;">
                                                             <p>
-                                                                Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary
-                                                                regelialia. It is a paradisematic country, in which roasted parts.
+                                                                Sekolah kami juga berkomitmen untuk mendukung prestasi siswa dalam olimpiade, baik di tingkat lokal maupun nasional. Dengan persiapan yang matang dan dukungan penuh dari guru-guru, siswa kami mampu bersinar di berbagai ajang kompetisi akademik. Partisipasi dalam olimpiade tidak hanya meningkatkan pengetahuan dan keterampilan siswa, tetapi juga membangun rasa percaya diri dan semangat juang yang tinggi. Kami bangga melihat siswa kami membawa nama baik sekolah dengan prestasi dan dedikasi mereka.
                                                             </p>
                                                         </div>
                                                         <a class="gdlr-core-flipbox-link" href="#" target="_self"></a>
@@ -373,8 +371,7 @@ Bukti Pembayaran
                                         <div class="gdlr-core-text-box-item-content" style="font-size: 16px; text-transform: none; color: #8f8f8f;">
                                             <p><strong>Dekat dengan Halte Bus dan area Parkir.</strong></p>
                                             <p>
-                                                There live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place
-                                                and supplies it with the necessary regelialia. It is a paradisematic. It is a paradise matic country, in which roasted parts of sentences fly into.
+                                                Terletak strategis di jantung kota, sekolah kami memiliki lokasi yang sangat mudah dijangkau. Berada di dekat halte bus dan gereja, para siswa dan orang tua dapat menikmati kemudahan akses transportasi umum serta lingkungan yang tenang dan penuh berkah. Kedekatan dengan gereja juga memungkinkan siswa untuk lebih dekat dengan kegiatan rohani dan nilai-nilai Kristiani yang menjadi landasan pendidikan di sekolah kami.
                                             </p>
                                         </div>
                                     </div>
@@ -395,8 +392,9 @@ Bukti Pembayaran
                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 35px;">
                                         <div class="gdlr-core-text-box-item-content" style="font-size: 16px; text-transform: none; color: #8f8f8f;">
                                             <p>
-                                                More than 1000 parking lots avilable in the west side of the compus. <strong>The parking is available 24 hours</strong> with 24hours security. We make sure that everything is
-                                                under control.
+                                                Tentu, berikut adalah kata-kata yang dapat digunakan untuk menggambarkan fasilitas area parkir yang disediakan untuk guru dan siswa:
+                                                Sekolah kami tidak hanya terletak strategis di dekat halte dan gereja, tetapi juga dilengkapi dengan fasilitas area parkir yang luas dan aman. Kami menyediakan area parkir yang nyaman bagi guru dan siswa, sehingga mereka dapat datang dan pergi dengan mudah serta fokus pada kegiatan belajar mengajar tanpa khawatir mengenai tempat parkir.
+                                                Semoga kata-kata ini sesuai dengan kebutuhan Anda.
                                             </p>
                                         </div>
                                     </div>
