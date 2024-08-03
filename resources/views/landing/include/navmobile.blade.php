@@ -3,7 +3,7 @@
         <div class="kingster-mobile-header-container kingster-container clearfix">
             <div class="kingster-logo kingster-item-pdlr kingster-mobile-logo-center">
                 <div class="kingster-logo-inner">
-                    <a class="" href="index.html"><img src="upload/logo-HP.png" alt="" width="200" height="200" title="logo HP" /></a>
+                    <a class="" href="index.html"><img src="{{ asset('upload/logo.png') }}" alt="" width="200" height="200" title="logo HP" /></a>
                 </div>
             </div>
             <div class="kingster-mobile-menu-right">

@@ -10,9 +10,10 @@
                             <li class="menu-itemmenu-item-home current-menu-item page_item page-item-6208 current_page_item  kingster-normal-menu">
                                 <a href="/">Home</a>
                             </li>
-                            <li class="menu-item kingster-normal-menu"><a href="pengembangan-pirngadi">SMA PIRNGADI</a></li>
-                            <li class="menu-item kingster-normal-menu"><a href="pengembangan-pirngadi">SMP PIRNGADI</a></li>
-                            <li class="menu-item kingster-normal-menu"><a href="pengembangan-pirngadi">SD PIRNGADI</a></li>
+                            <li class="menu-item kingster-normal-menu"><a href="pengembangan-pirngadi">SMA</a></li>
+                            <li class="menu-item kingster-normal-menu"><a href="pengembangan-pirngadi">SMP</a></li>
+                            <li class="menu-item kingster-normal-menu"><a href="pengembangan-pirngadi">SD</a></li>
+                            <li class="menu-item kingster-normal-menu"><a href="https://tk-kristen.pirngadi.sch.id/">Montessori Kindergarten</a></li>
                             <li class="kingster-center-nav-menu-item">
                                 <div class="kingster-logo kingster-item-pdlr">
                                     <div class="kingster-logo-inner">
@@ -20,9 +21,9 @@
                                     </div>
                                 </div>
                             </li>
-                            <li class="menu-item kingster-normal-menu"><a href="https://tk-kristen.pirngadi.sch.id/">TK PIRNGADI</a></li>
-                            <li class="menu-item kingster-normal-menu"><a href="pengembangan-pirngadi">DAYCARE</a></li>
-                            <li class="menu-item kingster-normal-menu"><a href="https://ybppkpirngadi.or.id/">YBPPK PIRNGADI</a></li>
+                          
+                            <li class="menu-item kingster-normal-menu"><a href="https://tk-kristen.pirngadi.sch.id/">Montessori Daycare</a></li>                            </a></li>
+                            <li class="menu-item kingster-normal-menu"><a href="https://ybppkpirngadi.or.id/">YBPPK Pirngadi</a></li>
                          
                             <li class="menu-itemmenu-item-has-children  kingster-mega-menu">
                                 <a href="bachelor-of-science-in-business-administration.html" class="sf-with-ul-pre">E-PIRNGADI</a>
