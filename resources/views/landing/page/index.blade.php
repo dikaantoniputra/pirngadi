@@ -650,7 +650,7 @@ Bukti Pembayaran
                                                 </div>
                                                 <div class="gdlr-core-personnel-list-content-wrap" style="padding-right: 0px; padding-left: 25px; padding-bottom: 0px; border-bottom-width: 0px;">
                                                     <h3 class="gdlr-core-personnel-list-title" style="font-size: 22px; font-weight: 400; letter-spacing: 0px;">
-                                                        <a href="#">Enggar Tjahyani</a>
+                                                        <a href="#">Enggar Tjahyani, S.Sos</a>
                                                     </h3>
                                                     <div
                                                         class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
@@ -690,7 +690,7 @@ Bukti Pembayaran
                                                 </div>
                                                 <div class="gdlr-core-personnel-list-content-wrap" style="padding-right: 0px; padding-left: 25px; padding-bottom: 0px; border-bottom-width: 0px;">
                                                     <h3 class="gdlr-core-personnel-list-title" style="font-size: 22px; font-weight: 400; letter-spacing: 0px;">
-                                                        <a href="#">Ibu Novita</a>
+                                                        <a href="#">Rovita Devi N. S.aPsi</a>
                                                     </h3>
                                                     <div
                                                         class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
