@@ -34,9 +34,9 @@
                             </li>
                             <li class="menu-item"><a href="pengembangan-pirngadi">SMA PIRNGADI</a></li>
                             <li class="menu-item"><a href="pengembangan-pirngadi">SMP PIRNGADI</a></li>
-                            <li class="menu-item"><a href="pengembangan-pirngadi">SD PIRNGADI</a></li>
-                            <li class="menu-item"><a href="pengembangan-pirngadi">TK PIRNGADI</a></li>
-                            <li class="menu-item"><a href="pengembangan-pirngadi">DAYCARE</a></li>
+                            <li class="menu-item"><a href="https://sd-kristen.pirngadi.sch.id/">SD PIRNGADI</a></li>
+                            <li class="menu-item"><a href="https://tk-kristen.pirngadi.sch.id/">TK PIRNGADI</a></li>
+                            <li class="menu-item"><a href="https://daycare-montessori.pirngadi.sch.id/">DAYCARE</a></li>
                             <li class="menu-item"><a href="https://ybppkpirngadi.or.id/">YBPPK PIRNGADI</a></li>
                             <li class="menu-itemmenu-item-has-children ">
                                 <a href="blog-full-right-sidebar-with-frame.html">E-PIRNGADI</a>

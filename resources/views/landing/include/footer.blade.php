@@ -31,9 +31,9 @@
                         <ul id="menu-our-campus" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-plain">
                             <li class="menu-item  kingster-normal-menu"><a href="#">SEKOLAH SMA</a></li>
                             <li class="menu-item  kingster-normal-menu"><a href="#">SEKOLAH SMP</a></li>
-                            <li class="menu-item  kingster-normal-menu"><a href="#">SEKOLAH SD</a></li>
-                            <li class="menu-item  kingster-normal-menu"><a href="#">SEKOLAH TK</a></li>
-                            <li class="menu-item  kingster-normal-menu"><a href="#">DAYCARE</a></li>
+                            <li class="menu-item  kingster-normal-menu"><a href="https://sd-kristen.pirngadi.sch.id/">SEKOLAH SD</a></li>
+                            <li class="menu-item  kingster-normal-menu"><a href="https://tk-kristen.pirngadi.sch.id/">SEKOLAH TK</a></li>
+                            <li class="menu-item  kingster-normal-menu"><a href="https://daycare-montessori.pirngadi.sch.id/">DAYCARE</a></li>
                            
                         </ul>
                     </div>

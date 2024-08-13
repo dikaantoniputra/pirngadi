@@ -12,7 +12,7 @@
                             </li>
                             <li class="menu-item kingster-normal-menu"><a href="pengembangan-pirngadi">SMA</a></li>
                             <li class="menu-item kingster-normal-menu"><a href="pengembangan-pirngadi">SMP</a></li>
-                            <li class="menu-item kingster-normal-menu"><a href="pengembangan-pirngadi">SD</a></li>
+                            <li class="menu-item kingster-normal-menu"><a href="https://sd-kristen.pirngadi.sch.id/">SD</a></li>
                             <li class="menu-item kingster-normal-menu"><a href="https://tk-kristen.pirngadi.sch.id/">Montessori Kindergarten</a></li>
                             <li class="kingster-center-nav-menu-item">
                                 <div class="kingster-logo kingster-item-pdlr">
@@ -22,7 +22,7 @@
                                 </div>
                             </li>
                           
-                            <li class="menu-item kingster-normal-menu"><a href="https://tk-kristen.pirngadi.sch.id/">Montessori Daycare</a></li>                            </a></li>
+                            <li class="menu-item kingster-normal-menu"><a href="https://daycare-montessori.pirngadi.sch.id/">Montessori Daycare</a></li>                            </a></li>
                             <li class="menu-item kingster-normal-menu"><a href="https://ybppkpirngadi.or.id/">YBPPK Pirngadi</a></li>
                          
                             <li class="menu-itemmenu-item-has-children  kingster-mega-menu">
