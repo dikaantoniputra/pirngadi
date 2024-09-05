@@ -532,7 +532,7 @@ Bukti Pembayaran
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-counter-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align">
                                         <div class="gdlr-core-counter-item-number gdlr-core-skin-title gdlr-core-title-font" style="font-size: 52px; font-weight: 400; margin-bottom: 20px;">
-                                            <span class="gdlr-core-counter-item-count gdlr-core-js" data-duration="" data-counter-start="0" data-counter-end="1200">0</span><span class="gdlr-core-counter-item-suffix">+</span>
+                                            <span class="gdlr-core-counter-item-count gdlr-core-js" data-duration="" data-counter-start="0" data-counter-end="180">0</span><span class="gdlr-core-counter-item-suffix">+</span>
                                         </div>
                                         <div class="gdlr-core-counter-item-bottom-text gdlr-core-skin-content" style="font-size: 18px; font-weight: 400;">Siswa</div>
                                     </div>
@@ -555,7 +555,7 @@ Bukti Pembayaran
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-counter-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align">
                                         <div class="gdlr-core-counter-item-number gdlr-core-skin-title gdlr-core-title-font" style="font-size: 52px; font-weight: 400; margin-bottom: 20px;">
-                                            <span class="gdlr-core-counter-item-count gdlr-core-js" data-duration="" data-counter-start="0" data-counter-end="700">0</span><span class="gdlr-core-counter-item-suffix">+</span>
+                                            <span class="gdlr-core-counter-item-count gdlr-core-js" data-duration="" data-counter-start="0" data-counter-end="50">0</span><span class="gdlr-core-counter-item-suffix">+</span>
                                         </div>
                                         <div class="gdlr-core-counter-item-bottom-text gdlr-core-skin-content" style="font-size: 18px; font-weight: 400;">Guru</div>
                                     </div>
@@ -645,7 +645,7 @@ Bukti Pembayaran
                                         <div class="gdlr-core-personnel-list-column gdlr-core-column-12 gdlr-core-column-first gdlr-core-item-pdlr">
                                             <div class="gdlr-core-personnel-list clearfix">
                                                 <div class="gdlr-core-personnel-list-image gdlr-core-media-image">
-                                                    <a href="#"><img src="upload/portrait1-600x733.jpg" alt="" width="600" height="733" title="portrait1" /></a>
+                                                    <a href="#"><img src="{{ asset('images/kepsek/DSC03204.JPG') }}" alt="" width="600" height="733" title="portrait1" /></a>
                                                     <div class="gdlr-core-hover-opacity"></div>
                                                 </div>
                                                 <div class="gdlr-core-personnel-list-content-wrap" style="padding-right: 0px; padding-left: 25px; padding-bottom: 0px; border-bottom-width: 0px;">
@@ -664,7 +664,7 @@ Bukti Pembayaran
                                         <div class="gdlr-core-personnel-list-column gdlr-core-column-12 gdlr-core-item-pdlr">
                                             <div class="gdlr-core-personnel-list clearfix">
                                                 <div class="gdlr-core-personnel-list-image gdlr-core-media-image">
-                                                    <a href="#"><img src="upload/Portrait2-600x733.jpg" alt="" width="600" height="733" title="Portrait2" /></a>
+                                                    <a href="#"><img src="{{ asset('images/kepsek/SMP.jpg') }}" alt="" width="600" height="733" title="Portrait2" /></a>
                                                     <div class="gdlr-core-hover-opacity"></div>
                                                 </div>
                                                 <div class="gdlr-core-personnel-list-content-wrap" style="padding-right: 0px; padding-left: 25px; padding-bottom: 0px; border-bottom-width: 0px;">
@@ -684,7 +684,7 @@ Bukti Pembayaran
                                             <div class="gdlr-core-personnel-list clearfix">
                                                 <div class="gdlr-core-personnel-list-image gdlr-core-media-image">
                                                     <a href="#">
-                                                        <img src="upload/Portrait3-600x733.jpg" alt="" width="600" height="733" title="Portrait3" />
+                                                        <img src="{{ asset('images/kepsek/sd.jpg') }}" alt="" width="600" height="733" title="Portrait3" />
                                                     </a>
                                                     <div class="gdlr-core-hover-opacity"></div>
                                                 </div>
@@ -704,7 +704,7 @@ Bukti Pembayaran
                                         <div class="gdlr-core-personnel-list-column gdlr-core-column-12 gdlr-core-item-pdlr">
                                             <div class="gdlr-core-personnel-list clearfix">
                                                 <div class="gdlr-core-personnel-list-image gdlr-core-media-image">
-                                                    <a href="#"><img src="upload/Portrait4-600x733.jpg" alt="" width="600" height="733" title="Portrait4" /></a>
+                                                    <a href="#"><img src="{{ asset('images/kepsek/team1.jpg') }}" alt="" width="600" height="733" title="Portrait4" /></a>
                                                     <div class="gdlr-core-hover-opacity"></div>
                                                 </div>
                                                 <div class="gdlr-core-personnel-list-content-wrap" style="padding-right: 0px; padding-left: 25px; padding-bottom: 0px; border-bottom-width: 0px;">

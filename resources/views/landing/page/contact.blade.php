@@ -93,7 +93,7 @@ Bukti Pembayaran
                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
                                         <div class="gdlr-core-text-box-item-content" style="font-size: 16px;">
                                             <p>
-                                                <a href="#"><span class="__cf_email__" data-cfemail="5d1e3233293c3e291d3a323239313c24382f2e733e3230">Alamat Email</span></a>
+                                                <a href="#"><span class="__cf_email__" data-cfemail="5d1e3233293c3e291d3a323239313c24382f2e733e3230">sekretariat@pirngadi.sch.id</span></a>
                                             </p>
                                         </div>
                                     </div>
