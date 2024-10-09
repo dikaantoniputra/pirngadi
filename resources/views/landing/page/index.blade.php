@@ -170,7 +170,7 @@ Bukti Pembayaran
                                             MENUJU PERJALANAN DI DEPAN
                                         </span>
                                         <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 42px; font-weight: 400; color: #222222;">Sekolah Merdeka Belajar</h3>
+                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 42px; font-weight: 400; color: #222222;">Sekolah Berbasis Montessori </h3>
                                         </div>
                                     </div>
                                 </div>
@@ -178,9 +178,7 @@ Bukti Pembayaran
                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align gdlr-core-no-p-space" style="padding-bottom: 48px;">
                                         <div class="gdlr-core-text-box-item-content" style="font-size: 18px; font-weight: 400; letter-spacing: 0px; text-transform: none; color: #373737;">
                                             <p>
-                                                Kami sedang menciptakan sekolah yang luar biasa dan unik. Sekolah Pirngadi adalah institusi global dan modern pertama yang melayani anak-anak dari usia 3 hingga 18 tahun. Kami tidak hanya ingin meningkatkan kehidupan siswa kami, tetapi juga berharap dapat berkontribusi pada dunia pendidikan di setiap daerah.
-
-
+                                                Kami sedang menciptakan pengalaman belajar yang luar biasa dan unik. Sekolah Pirngadi adalah institusi global dan modern pertama yang mengadopsi filosofi Montessori, melayani anak-anak dari usia 0 hingga 18 tahun. Kami tidak hanya ingin meningkatkan kehidupan siswa kami melalui pembelajaran yang berpusat pada anak, tetapi juga berharap dapat berkontribusi pada dunia pendidikan di setiap daerah, mendorong kemandirian, kreativitas, dan rasa ingin tahu yang mendalam dalam diri setiap siswa.
                                             </p>
                                         </div>
                                     </div>

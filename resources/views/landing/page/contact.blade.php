@@ -61,7 +61,7 @@ Bukti Pembayaran
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
                                         <div class="gdlr-core-text-box-item-content" style="font-size: 16px; text-transform: none; color: #3db166;">
-                                            <p><a href="#">0315343741</a></p>
+                                            <p>  <a href="https://wa.me/6281803977779?text=Halo%20Saya%20ingin%20mendapatkan%20informasi">+62 818-0397-7779</a></p>
                                         </div>
                                     </div>
                                 </div>

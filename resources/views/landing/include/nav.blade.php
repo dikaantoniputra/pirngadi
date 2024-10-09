@@ -26,7 +26,7 @@
                             <li class="menu-item kingster-normal-menu"><a href="https://ybppkpirngadi.or.id/">YBPPK Pirngadi</a></li>
                          
                             <li class="menu-itemmenu-item-has-children  kingster-mega-menu">
-                                <a href="bachelor-of-science-in-business-administration.html" class="sf-with-ul-pre">E-PIRNGADI</a>
+                                <a href="#" class="sf-with-ul-pre">E-PIRNGADI</a>
                                 <div class="sf-mega sf-mega-full" style="background-image: url('upload/mega-menu-bg.jpg'); background-position: bottom right; background-repeat: no-repeat;"  alt="pirngadi">
                                     <ul class="sub-menu">
                                         <li class="menu-item menu-item-has-children " data-size="15">
@@ -42,10 +42,19 @@
                                         <li class="menu-item menu-item-has-children " data-size="15">
                                             <a href="#" class="sf-with-ul-pre">PPDB Pirngadi</a>
                                             <ul class="sub-menu">
-                                                <li class="menu-item"><a href="pengembangan-pirngadi">Pendaftaran SMA</a></li>
-                                                <li class="menu-item"><a href="pengembangan-pirngadi">Pendaftaran SMP</a></li>
-                                                <li class="menu-item "><a href="pengembangan-pirngadi">Pendaftaran SD</a></li>
-                                                <li class="menu-item "><a href="#">Pendaftaran TK</a></li>
+                                                <li class="menu-item">
+                                                    <a href="https://wa.me/6281803977779?text=Cara%20pendaftaran%20PPDB%20untuk%20SMA" style="color: inherit;">Pendaftaran SMA</a>
+                                                </li>
+                                                <li class="menu-item">
+                                                    <a href="https://wa.me/6281803977779?text=Cara%20pendaftaran%20PPDB%20untuk%20SMP" style="color: inherit;">Pendaftaran SMP</a>
+                                                </li>
+                                                <li class="menu-item">
+                                                    <a href="https://wa.me/6281803977779?text=Cara%20pendaftaran%20PPDB%20untuk%20SD" style="color: inherit;">Pendaftaran SD</a>
+                                                </li>
+                                                <li class="menu-item">
+                                                    <a href="https://wa.me/6281803977779?text=Cara%20pendaftaran%20PPDB%20untuk%20TK" style="color: inherit;">Pendaftaran TK</a>
+                                                </li>
+                                                
                                             
                                             </ul>
                                         </li>
