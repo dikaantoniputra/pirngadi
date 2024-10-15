@@ -17,17 +17,18 @@ Route::get('/', function () {
     return view('landing.page.index');
 });
 
-Route::get('/ybppk-pirngadi-sejarah', function () {
-    return view('landing.page.sejarah');
+Route::get('/tentang-pirngadi', function () {
+    return view('landing.page.about');
 });
 
-Route::get('/ybppk-pirngadi-lambang', function () {
-    return view('landing.page.lambang');
+Route::get('/kontak-pirngadi', function () {
+    return view('landing.page.contact');
 });
 
-Route::get('/ybppk-pirngadi-visi&misi', function () {
+Route::get('/visi-misi-pirngadi', function () {
     return view('landing.page.visi_misi');
 });
 
-
-
+Route::get('/pengembangan-pirngadi', function () {
+    return view('landing.page.maintace');
+});

@@ -5,7 +5,7 @@
                 <div id="text-2" class="widget widget_text kingster-widget">
                     <div class="textwidget">
                         <p>
-                            <img src="{{asset('upload/logo.png')}}" alt="" width="90" /><br />
+                            <img src="{{ asset('upload/logo.png') }}" alt="" width="90" /><br />
                             <span class="gdlr-core-space-shortcode" style="margin-top: 0px;"></span><br />
                             PIRNGADI<br />
                             Sekolah Pirngadi
@@ -13,7 +13,8 @@
                         </p>
                         <p>
                             
-                            <span style="font-size: 15px; color: #ffffff;">+62 812-3522-0760</span><br />
+                            <a href="https://wa.me/6281803977779?text=Halo%20Saya%20ingin%20mendapatkan%20informasi" style="font-size: 15px; color: #ffffff;">+62 818-0397-7779</a><br />
+
                             <span class="gdlr-core-space-shortcode" style="margin-top: -20px;"></span><br />
                             <a style="font-size: 15px; color: #8dd7e5;" href="#">
                                 <span class="__cf_email__">sekretariat@pirngadi.sch.id</span>
@@ -29,13 +30,11 @@
                     <span class="clear"></span>
                     <div class="menu-our-campus-container">
                         <ul id="menu-our-campus" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-plain">
-                            <li class="menu-item  kingster-normal-menu"><a href="#">SMA</a></li>
-                            <li class="menu-item  kingster-normal-menu"><a href="#">SMP</a></li>
-                            <li class="menu-item  kingster-normal-menu"><a href="#">SD</a></li>
-                    
-                            <li class="menu-item  kingster-normal-menu"><a href="https://tk-kristen.pirngadi.sch.id/">Montessori Kindergarten</a></li>
-                            <li class="menu-item  kingster-normal-menu"><a href="#">Montessori Playgroup</a></li>
-                            <li class="menu-item  kingster-normal-menu"><a href="#">Montessori Daycare</a></li>
+                            <li class="menu-item  kingster-normal-menu"><a href="https://sma-kristen.pirngadi.sch.id/">SEKOLAH SMA</a></li>
+                            <li class="menu-item  kingster-normal-menu"><a href="https://smp-kristen.pirngadi.sch.id/">SEKOLAH SMP</a></li>
+                            <li class="menu-item  kingster-normal-menu"><a href="https://sd-kristen.pirngadi.sch.id/">SEKOLAH SD</a></li>
+                            <li class="menu-item  kingster-normal-menu"><a href="https://tk-kristen.pirngadi.sch.id/">SEKOLAH TK</a></li>
+                            <li class="menu-item  kingster-normal-menu"><a href="https://daycare-montessori.pirngadi.sch.id/">DAYCARE</a></li>
                            
                         </ul>
                     </div>
@@ -49,10 +48,19 @@
                         <ul id="menu-academics" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-plain">
                             <li class="menu-item  kingster-normal-menu"><a href="#">Absensi Guru</a></li>
                             <li class="menu-item  kingster-normal-menu"><a href="#">Absensi Siswa</a></li>
-                            <li class="menu-item  kingster-normal-menu"><a href="#">Pendaftaran SMA</a></li>
-                            <li class="menu-item  kingster-normal-menu"><a href="#">Pendaftaran SMP</a></li>
-                            <li class="menu-item  kingster-normal-menu"><a href="#">Pendaftaran SD</a></li>
-                            <li class="menu-item  kingster-normal-menu"><a href="#">Pendaftaran TK</a></li>
+                            <li class="menu-item kingster-normal-menu">
+                                <a href="https://wa.me/6281803977779?text=Cara%20pendaftaran%20PPDB%20untuk%20SMA" style="color: inherit;">Pendaftaran SMA</a>
+                            </li>
+                            <li class="menu-item kingster-normal-menu">
+                                <a href="https://wa.me/6281803977779?text=Cara%20pendaftaran%20PPDB%20untuk%20SMP" style="color: inherit;">Pendaftaran SMP</a>
+                            </li>
+                            <li class="menu-item kingster-normal-menu">
+                                <a href="https://wa.me/6281803977779?text=Cara%20pendaftaran%20PPDB%20untuk%20SD" style="color: inherit;">Pendaftaran SD</a>
+                            </li>
+                            <li class="menu-item kingster-normal-menu">
+                                <a href="https://tk-kristen.pirngadi.sch.id/">Pendaftaran TK</a>
+                            </li>
+                            
                         </ul>
                     </div>
                 </div>
@@ -63,11 +71,10 @@
                     <span class="clear"></span>
                     <div class="menu-academics-container">
                         <ul id="menu-academics" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-plain">
-                            <li class="menu-item"><a href="ybppk-pirngadi-sejarah">Sejarah</a></li>
-                            <li class="menu-item"><a href="ybppk-pirngadi-lambang">Lambang</a></li>
-                            <li class="menu-item"><a href="ybppk-pirngadi-visi&misi"> Visi & Misi</a></li>
-                            <li class="menu-item"><a href="ybppk-pirngadi-pengurus">Pengurus Yayasan</a></li>
-                            <li class="menu-item"><a href="ybppk-pirngadi-manajerial">Manajerial</a></li>
+                            <li class="menu-item  kingster-normal-menu"><a href="tentang-pirngadi">Tentang Kami</a></li>
+                            <li class="menu-item  kingster-normal-menu"><a href="visi-misi-pirngadi">Visi & Misi</a></li>
+                            <li class="menu-item  kingster-normal-menu"><a href="kontak-pirngadi">Kontak</a></li>
+                            <li class="menu-item  kingster-normal-menu"><a href="pengembangan-pirngadi">Blog</a></li>
                            
                         </ul>
                     </div>
