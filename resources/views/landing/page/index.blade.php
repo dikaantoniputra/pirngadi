@@ -178,7 +178,7 @@ Bukti Pembayaran
                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align gdlr-core-no-p-space" style="padding-bottom: 48px;">
                                         <div class="gdlr-core-text-box-item-content" style="font-size: 18px; font-weight: 400; letter-spacing: 0px; text-transform: none; color: #373737;">
                                             <p>
-                                                Kami sedang menciptakan pengalaman belajar yang luar biasa dan unik. Sekolah Pirngadi adalah institusi global dan modern pertama yang mengadopsi filosofi Montessori, melayani anak-anak dari usia 0 hingga 18 tahun. Kami tidak hanya ingin meningkatkan kehidupan siswa kami melalui pembelajaran yang berpusat pada anak, tetapi juga berharap dapat berkontribusi pada dunia pendidikan di setiap daerah, mendorong kemandirian, kreativitas, dan rasa ingin tahu yang mendalam dalam diri setiap siswa.
+                                                Kami sedang menciptakan pengalaman belajar yang luar biasa dan unik. Sekolah Pirngadi adalah institusi global dan modern pertama yang mengadopsi filosofi Montessori, melayani anak-anak dari usia 0 hingga 18 tahun. Kami tidak hanya ingin meningkatkan kehidupan siswa kami melalui pembelajaran yang berpusat pada anak, tetapi juga berharap dapat berkontribusi pada dunia pendidikan di setiap area, mendorong kemandirian, kreativitas, dan rasa ingin tahu yang mendalam dalam diri setiap siswa.
                                             </p>
                                         </div>
                                     </div>
