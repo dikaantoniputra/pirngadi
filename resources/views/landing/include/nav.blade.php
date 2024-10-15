@@ -1,95 +1,40 @@
-<div class="kingster-header-background-transparent">
-               
-    <header class="kingster-header-wrap kingster-header-style-plain kingster-style-splitted-menu kingster-sticky-navigation kingster-style-slide clearfix" data-navigation-offset="75px">
-        <div class="kingster-header-background"></div>
-        <div class="kingster-header-container kingster-container">
-            <div class="kingster-header-container-inner clearfix">
-                <div class="kingster-navigation kingster-item-pdlr clearfix">
-                    <div class="kingster-main-menu" id="kingster-main-menu">
-                        <ul id="menu-main-navigation-1" class="sf-menu">
-                            <li class="menu-itemmenu-item-home current-menu-item page_item page-item-6208 current_page_item  kingster-normal-menu">
-                                <a href="/">Home</a>
-                            </li>
-                            <li class="menu-item kingster-normal-menu"><a href="https://sma-kristen.pirngadi.sch.id/">SMA</a></li>
-                            <li class="menu-item kingster-normal-menu"><a href="https://smp-kristen.pirngadi.sch.id/">SMP</a></li>
-                            <li class="menu-item kingster-normal-menu"><a href="https://sd-kristen.pirngadi.sch.id/">SD</a></li>
-                            <li class="menu-item kingster-normal-menu"><a href="https://tk-kristen.pirngadi.sch.id/">Montessori Kindergarten</a></li>
-                            <li class="kingster-center-nav-menu-item">
-                                <div class="kingster-logo kingster-item-pdlr">
-                                    <div class="kingster-logo-inner">
-                                        <a class="" href="/"><img src="{{ asset('upload/logo.png') }}" alt="" width="200" height="200" title="logo HP" /></a>
-                                    </div>
-                                </div>
-                            </li>
-                          
-                            <li class="menu-item kingster-normal-menu"><a href="https://daycare-montessori.pirngadi.sch.id/">Montessori Daycare</a></li>                            </a></li>
-                            <li class="menu-item kingster-normal-menu"><a href="https://ybppkpirngadi.or.id/">YBPPK Pirngadi</a></li>
-                         
-                            <li class="menu-itemmenu-item-has-children  kingster-mega-menu">
-                                <a href="#" class="sf-with-ul-pre">E-PIRNGADI</a>
-                                <div class="sf-mega sf-mega-full" style="background-image: url('upload/mega-menu-bg.jpg'); background-position: bottom right; background-repeat: no-repeat;"  alt="pirngadi">
-                                    <ul class="sub-menu">
-                                        <li class="menu-item menu-item-has-children " data-size="15">
-                                            <a class="sf-with-ul-pre">Sistem Absensi</a>
-                                            <ul class="sub-menu">
-                                                <li class="menu-item">
-                                                    <a href="pengembangan-pirngadi">Absensi Guru</a>
-                                                </li>
-                                                <li class="menu-item"><a href="pengembangan-pirngadi">Absensi Siswa</a></li>
-                                                
-                                            </ul>
-                                        </li>
-                                        <li class="menu-item menu-item-has-children " data-size="15">
-                                            <a href="#" class="sf-with-ul-pre">PPDB Pirngadi</a>
-                                            <ul class="sub-menu">
-                                                <li class="menu-item">
-                                                    <a href="https://wa.me/6281803977779?text=Cara%20pendaftaran%20PPDB%20untuk%20SMA" style="color: inherit;">Pendaftaran SMA</a>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <a href="https://wa.me/6281803977779?text=Cara%20pendaftaran%20PPDB%20untuk%20SMP" style="color: inherit;">Pendaftaran SMP</a>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <a href="https://wa.me/6281803977779?text=Cara%20pendaftaran%20PPDB%20untuk%20SD" style="color: inherit;">Pendaftaran SD</a>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <a href="https://wa.me/6281803977779?text=Cara%20pendaftaran%20PPDB%20untuk%20TK" style="color: inherit;">Pendaftaran TK</a>
-                                                </li>
-                                                
-                                            
-                                            </ul>
-                                        </li>
-                                        <li class="menu-item menu-item-has-children " data-size="15">
-                                            <a href="#" class="sf-with-ul-pre">Info</a>
-                                            <ul class="sub-menu">
-                                              
-                                                <li class="menu-item">
-                                                    <a href="tentang-pirngadi">Tentang Kami</a>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <a href="visi-misi-pirngadi">Visi & Misi</a>
-                                                </li>
-                                                <li class="menu-item "><a href="kontak-pirngadi">Kontak</a></li>
-                                                <li class="menu-item "><a href="pengembangan-pirngadi">Blog</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="menu-item " data-size="15">
-                                            <div class="kingster-mega-menu-section-content">
-                                                <img src="upload/logo-HP.png" style="margin-bottom: 13px;" alt="" /><br />
-                                                <span style="font-size: 14px; font-weight: 500;">Mengenal Tuhan adalah langkah pertama dalam memperoleh ilmu."</span>
-                                            </div>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                   
+<header
+    class="kingster-header-wrap kingster-header-style-plain  kingster-style-menu-right kingster-sticky-navigation kingster-style-fixed"
+    data-navigation-offset="75px">
+    <div class="kingster-header-background"></div>
+    <div class="kingster-header-container  kingster-container">
+        <div class="kingster-header-container-inner clearfix">
+            <div class="kingster-logo  kingster-item-pdlr">
+                <div class="kingster-logo-inner">
+                    <a class="" href="/"><img src="upload/logo.png" alt="" style="height: 75px" />YBPPK
+                        PIRNGADI</a>
                 </div>
-                <!-- kingster-navigation -->
             </div>
-            <!-- kingster-header-inner -->
+            <div class="kingster-navigation kingster-item-pdlr clearfix ">
+                <div class="kingster-main-menu" id="kingster-main-menu">
+                    <ul id="menu-main-navigation-1" class="sf-menu">
+                        <li
+                            class="menu-item menu-item-home current-menu-item menu-item-has-children kingster-normal-menu">
+                            <a href="/" class="sf-with-ul-pre">Home</a>
+
+                        </li>
+
+                        <li class="menu-item kingster-normal-menu"><a href="ybppk-pirngadi-sejarah">Sejarah</a></li>
+                        <li class="menu-item kingster-normal-menu"><a href="ybppk-pirngadi-lambang">Lambang</a></li>
+                        <li class="menu-item kingster-normal-menu"><a href="ybppk-pirngadi-visi&misi"> Visi & Misi</a></li>
+                        <li class="menu-item kingster-normal-menu"><a href="https://sma-kristen.pirngadi.sch.id/">SMA</a></li>
+                        <li class="menu-item kingster-normal-menu"><a href="https://smp-kristen.pirngadi.sch.id/">SMP</a></li>
+                        <li class="menu-item kingster-normal-menu"><a href="https://sd-kristen.pirngadi.sch.id/">SD</a></li>
+                        <li class="menu-item kingster-normal-menu"><a href="https://tk-kristen.pirngadi.sch.id/">PAUD</a></li>
+                        <li class="menu-item kingster-normal-menu"><a href="https://daycare-montessori.pirngadi.sch.id/">Daycare</a></li>                            </a></li>
+
+
+
+                    </ul>
+                    <div class="kingster-navigation-slide-bar" id="kingster-navigation-slide-bar"></div>
+                </div>
+
+            </div>
         </div>
-        <!-- kingster-header-container -->
-    </header>
-    <!-- header -->
-</div>
+    </div>
+</header>

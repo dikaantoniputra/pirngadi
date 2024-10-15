@@ -5,788 +5,160 @@ Bukti Pembayaran
 @endsection
 
 @push('after-style')
-
+<style>
+    .color-white{
+        color: #ffffff
+    }
+</style>
 @endpush
 
 @section('content')
 <div class="kingster-page-wrapper" id="kingster-page-wrapper">
     <div class="gdlr-core-page-builder-body">
-        <div class="gdlr-core-pbf-wrapper" style="padding: 0px 0px 0px 0px;">
-            <div class="gdlr-core-pbf-background-wrap"></div>
-            <div class="gdlr-core-pbf-wrapper-content gdlr-core-js">
+        <div class="gdlr-core-pbf-wrapper " style="padding: 0px 0px 0px 0px;">
+            <div class="gdlr-core-pbf-background-wrap" style="background-color: #192f59 ;"></div>
+            <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-pbf-wrapper-full-no-space">
                     <div class="gdlr-core-pbf-element">
-                        <div class="gdlr-core-revolution-slider-item gdlr-core-item-pdlr gdlr-core-item-pdb" style="padding-bottom: 0px;">
-                            <!-- START Homepage College REVOLUTION SLIDER 6.2.22 -->
-                            <p class="rs-p-wp-fix"></p>
-                            <rs-module-wrap id="rev_slider_1_1_wrapper" data-source="gallery" style="background: transparent; padding: 0; margin: 0px auto; margin-top: 0; margin-bottom: 0;">
-                                <rs-module id="rev_slider_1_1" style="" data-version="6.2.22">
-                                    <rs-slides>
-                                        <rs-slide data-key="rs-1" data-title="sekolah pirngadi" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
-                                            <img
-                                                src="upload/slider-1.jpg"
-                                                title="slider-1"
-                                                alt="pirngadi"
-                                                width="2000"
-                                                height="1200"
-                                                data-panzoom="d:7000ms;ss:100%;se:103%;"
-                                                class="rev-slidebg"
-                                                data-no-retina
-                                            />
-                                            <!--                        -->
-                                            <rs-layer
-                                                id="slider-1-slide-1-layer-3"
-                                                class="lebeaune-font"
-                                                data-type="text"
-                                                data-rsp_ch="on"
-                                                data-xy="x:c;y:m;yo:18px,18px,18px,88px;"
-                                                data-text="w:normal;s:110,110,110,53;l:100,100,100,37;a:center;"
-                                                data-dim="w:616px,616px,616px,301px;"
-                                                data-frame_1="st:250;sR:250;"
-                                                data-frame_999="o:0;st:w;sR:8450;"
-                                                style="z-index: 10; font-family: Verdana, Geneva, sans-serif;"
-                                            >
-                                                PIRNGADI
-                                            </rs-layer>
-                                            <!--                        -->
-                                            <rs-layer
-                                                id="slider-1-slide-1-layer-5"
-                                                class="lebeaune-font"
-                                                data-type="text"
-                                                data-rsp_ch="on"
-                                                data-xy="x:c;xo:0,0,0,1px;y:m;yo:-110px,-110px,-110px,131px;"
-                                                data-text="s:22,22,22,16;l:30;ls:0,0,0,1px;fw:400,400,400,700;a:center;"
-                                                data-dim="w:243px,243px,243px,358px;"
-                                                data-frame_1="st:460;sR:460;"
-                                                data-frame_999="o:0;st:w;sR:8240;"
-                                                style="z-index: 11; font-family: Poppins;"
-                                            >
-                                                Selamat Datang Di
-                                            </rs-layer>
-                                            <!--                        -->
-                                            <rs-layer
-                                                id="slider-1-slide-1-layer-9"
-                                                class="jost-font"
-                                                data-type="text"
-                                                data-rsp_ch="on"
-                                                data-xy="x:c;xo:16px,16px,16px,0;yo:687px,687px,687px,198px;"
-                                                data-text="w:normal;s:20,20,20,19;l:30;ls:1px;a:center;"
-                                                data-dim="w:505px,505px,505px,358px;h:40px,40px,40px,auto;"
-                                                data-frame_1="st:620;sR:620;"
-                                                data-frame_999="o:0;st:w;sR:8080;"
-                                                style="z-index: 9; font-family: Jost;"
-                                            >
-                                                Selamat Datang Di Sekolah Pirngadi
-                                            </rs-layer>
-                                            <!--                        -->
-                                            <a
-                                                id="slider-1-slide-1-layer-14"
-                                                class="rs-layer lebeaune-font"
-                                                href="#"
-                                                target="_self"
-                                                rel="nofollow"
-                                                data-type="text"
-                                                data-rsp_ch="on"
-                                                data-xy="x:c;y:m;yo:347px,347px,347px,129px;"
-                                                data-text="w:normal;s:15,15,15,5;l:25,25,25,9;fw:500;a:center;"
-                                                data-dim="w:182px,182px,182px,67px;"
-                                                data-frame_1="st:990;sR:990;"
-                                                data-frame_999="o:0;st:w;sR:7710;"
-                                                style="z-index: 8; font-family: Jost;"
-                                            >
-                                                Lihat Sekarang 
-                                            </a>
-                                            <!--                        -->
-                                            <rs-layer
-                                                id="slider-1-slide-1-layer-16"
-                                                data-type="shape"
-                                                data-rsp_ch="on"
-                                                data-xy="x:c;xo:1px,1px,1px,0;yo:931px,931px,931px,348px;"
-                                                data-text="w:normal;s:20,20,20,7;l:0,0,0,9;"
-                                                data-dim="w:1px;h:150px,150px,150px,56px;"
-                                                data-frame_1="st:480;sR:480;"
-                                                data-frame_999="o:0;st:w;sR:8220;"
-                                                style="z-index: 13; background-color: #ffffff;"
-                                            >
-                                            </rs-layer>
-                                            <!--                        -->
-                                            <rs-layer
-                                                id="slider-1-slide-1-layer-21"
-                                                data-type="shape"
-                                                data-rsp_ch="on"
-                                                data-xy="x:c;xo:-4px,-4px,-4px,0;yo:291px,291px,291px,108px;"
-                                                data-text="w:normal;s:20,20,20,7;l:0,0,0,9;"
-                                                data-dim="w:1px;h:100px,100px,100px,37px;"
-                                                data-frame_1="st:480;sR:480;"
-                                                data-frame_999="o:0;st:w;sR:8220;"
-                                                style="z-index: 12; background-color: #ffffff;"
-                                            >
-                                            </rs-layer>
-                                            <!-- -->
-                                        </rs-slide>
-                                    </rs-slides>
-                                </rs-module>
+                        <div class="gdlr-core-revolution-slider-item gdlr-core-item-pdlr gdlr-core-item-pdb " style="padding-bottom: 0px ;">
 
-                            </rs-module-wrap>
-                            <!-- END REVOLUTION SLIDER -->
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="gdlr-core-pbf-section">
-            <div class="gdlr-core-pbf-section-container gdlr-core-container clearfix">
-                <div class="gdlr-core-pbf-column gdlr-core-column-60 gdlr-core-column-first gdlr-core-hide-in-mobile" id="gdlr-core-column-35275" style="z-index: 9;">
-                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js" style="margin: 0px 0px 0px 0px;">
-                        <div class="gdlr-core-pbf-background-wrap"></div>
-                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js">
-                            <div class="gdlr-core-pbf-element">
-                                <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-item-pdlr gdlr-core-center-align gdlr-core-style-vertical" style="margin-bottom: 50px;">
-                                    <div class="gdlr-core-divider-line gdlr-core-skin-divider" style="border-color: #d1d1d1; height: 100px;"></div>
+                            <div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-source="gallery" style="margin:0px auto;background:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
+                                <div id="rev_slider_1_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.4.8">
+                                    <ul>
+                                        <li data-index="rs-3" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="upload/slider-1-2-100x50.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description=""> <img src="upload/slider-1-2.jpg" alt="" title="slider-1-2" width="1800" height="1119" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                                            <div class="tp-caption   tp-resizeme" id="slide-3-layer-1" data-x="38" data-y="center" data-voffset="-146" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":10,"speed":300,"frame":"0","from":"x:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5; white-space: nowrap; font-size: 33px; line-height: 33px; font-weight: 300; color: #ffffff; letter-spacing: 0px;font-family:Poppins;">YAYASAN BADAN PENDIDIKAN DAN PENGAJARAN KRISTEN</div>
+                                            <div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme" id="slide-3-layer-4" data-x="33" data-y="center" data-voffset="-44" data-width="['830']" data-height="['118']" data-type="shape" data-responsive_offset="on" data-frames='[{"delay":330,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 6;background-color:rgba(24,36,59,0.9);border-radius:3px 3px 3px 3px;"></div>
+                                            <div class="tp-caption   tp-resizeme" id="slide-3-layer-2" data-x="55" data-y="center" data-voffset="-52" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":360,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 7; white-space: nowrap; font-size: 88px; line-height: 88px; font-weight: 700; color: #ffffff; letter-spacing: 0px;font-family:Playfair Display;">PIRNGADI</div>
+
+                                            <div class="tp-caption rev-btn rev-hiddenicon " id="slide-3-layer-6" data-x="34" data-y="center" data-voffset="80" data-width="['auto']" data-height="['auto']" data-type="button" data-responsive_offset="on" data-frames='[{"delay":660,"speed":300,"frame":"0","from":"x:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgb(1,61,135);bg:rgba(255,255,255,1);bw:0 0 0 5px;"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[19,19,19,19]" data-paddingright="[21,21,21,21]" data-paddingbottom="[19,19,19,19]" data-paddingleft="[21,21,21,21]" style="z-index: 9; white-space: nowrap; font-size: 17px; line-height: 16px; font-weight: 600; color: #2d2d2d; letter-spacing: 0px;font-family:Poppins;background-color:rgb(255,255,255);border-color:rgb(61,177,102);border-style:solid;border-width:0px 0px 0px 5px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">Take A Tour</div>
+                                        </li>
+                                        <li data-index="rs-1" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="upload/slider-2-100x50.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description=""> <img src="upload/slider-2.jpg" alt="" title="slider-2" width="1800" height="1119" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                                            <div class="tp-caption   tp-resizeme" id="slide-1-layer-1" data-x="36" data-y="center" data-voffset="-120" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":10,"speed":300,"frame":"0","from":"x:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5; white-space: nowrap; font-size: 33px; line-height: 33px; font-weight: 300; color: #ffffff; letter-spacing: 0px;font-family:Poppins;">YAYASAN BADAN PENDIDIKAN DAN PENGAJARAN KRISTEN</div>
+                                            <div class="tp-caption   tp-resizeme" id="slide-1-layer-2" data-x="33" data-y="center" data-voffset="-31" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"delay":370,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 6; white-space: nowrap; font-size: 83px; line-height: 83px; font-weight: 600; color: #ffffff; letter-spacing: 0px;font-family:Poppins;">PIRNGADI</div>
+                                            <div class="tp-caption rev-btn rev-hiddenicon " id="slide-1-layer-6" data-x="34" data-y="center" data-voffset="80" data-width="['auto']" data-height="['auto']" data-type="button" data-responsive_offset="on" data-frames='[{"delay":740,"speed":300,"frame":"0","from":"x:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgb(0,64,132);bg:rgba(255,255,255,1);bw:0 0 0 5px;"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[19,19,19,19]" data-paddingright="[21,21,21,21]" data-paddingbottom="[19,19,19,19]" data-paddingleft="[21,21,21,21]" style="z-index: 7; white-space: nowrap; font-size: 17px; line-height: 16px; font-weight: 600; color: #2d2d2d; letter-spacing: 0px;font-family:Poppins;background-color:rgb(255,255,255);border-color:rgb(61,177,102);border-style:solid;border-width:0px 0px 0px 5px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">Take A Tour</div>
+                                        </li>
+                                    </ul>
+                                    <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>
                                 </div>
+
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="gdlr-core-pbf-wrapper" style="padding: 0px 0px 100px 0px;" id="gdlr-core-wrapper-1">
+        <div class="gdlr-core-pbf-wrapper  hp1-col-services"  data-skin="Blue Title" id="gdlr-core-wrapper-1">
             <div class="gdlr-core-pbf-background-wrap"></div>
-            <div class="gdlr-core-pbf-wrapper-content gdlr-core-js">
-                <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                    <div class="gdlr-core-pbf-column gdlr-core-column-60 gdlr-core-column-first" id="gdlr-core-column-19513">
-                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js" style="padding-bottom: 80px;">
-                            <div class="gdlr-core-pbf-background-wrap"></div>
-                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js" style="max-width: 700px;">
-                                <div class="gdlr-core-pbf-element">
-                                    <div
-                                        class="gdlr-core-title-item gdlr-core-item-pdb clearfix gdlr-core-center-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr"
-                                        style="padding-bottom: 28px;"
-                                        id="gdlr-core-title-item-1" >
-                                        <span
-                                            class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption"
-                                            style="font-size: 15px; font-style: normal; letter-spacing: 1px; text-transform: uppercase; color: #999999; margin-bottom: 20px;"
-                                        >
-                                            MENUJU PERJALANAN DI DEPAN
-                                        </span>
-                                        <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 42px; font-weight: 400; color: #222222;">Sekolah Berbasis Montessori </h3>
+            <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
+                <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-pbf-wrapper-full-no-space">
+                    <div class="gdlr-core-pbf-wrapper-container-inner gdlr-core-item-mglr clearfix" id="div_1dd7_0">
+                        <div class="gdlr-core-pbf-column gdlr-core-column-15 gdlr-core-column-first">
+                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js" id="div_1dd7_1">
+                                <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js">
+                                    <div class="gdlr-core-pbf-element">
+                                        <div class="gdlr-core-column-service-item gdlr-core-item-pdb gdlr-core-left-align gdlr-core-column-service-icon-left gdlr-core-with-caption gdlr-core-item-pdlr" id="div_1dd7_2">
+                                            <div class="gdlr-core-column-service-media gdlr-core-media-image"><img src="upload/icon-1.png" alt="" width="40" height="40" title="icon-1" /></div>
+                                            <div class="gdlr-core-column-service-content-wrapper">
+                                                <div class="gdlr-core-column-service-title-wrap">
+                                                    <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" id="h3_1dd7_0">Sekolah TK Kristen</h3>
+                                                
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align gdlr-core-no-p-space" style="padding-bottom: 48px;">
-                                        <div class="gdlr-core-text-box-item-content" style="font-size: 18px; font-weight: 400; letter-spacing: 0px; text-transform: none; color: #373737;">
-                                            <p>
-                                                Kami sedang menciptakan pengalaman belajar yang luar biasa dan unik. Sekolah Pirngadi adalah institusi global dan modern pertama yang mengadopsi filosofi Montessori, melayani anak-anak dari usia 0 hingga 18 tahun. Kami tidak hanya ingin meningkatkan kehidupan siswa kami melalui pembelajaran yang berpusat pada anak, tetapi juga berharap dapat berkontribusi pada dunia pendidikan di setiap area, mendorong kemandirian, kreativitas, dan rasa ingin tahu yang mendalam dalam diri setiap siswa.
-                                            </p>
+                            </div>
+                        </div>
+                        <div class="gdlr-core-pbf-column gdlr-core-column-15" id="gdlr-core-column-1">
+                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js" id="div_1dd7_4">
+                                <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js">
+                                    <div class="gdlr-core-pbf-element">
+                                        <div class="gdlr-core-column-service-item gdlr-core-item-pdb gdlr-core-left-align gdlr-core-column-service-icon-left gdlr-core-with-caption gdlr-core-item-pdlr" id="div_1dd7_5">
+                                            <div class="gdlr-core-column-service-media gdlr-core-media-image"><img src="upload/icon-1.png" alt="" width="44" height="40" title="icon-2" /></div>
+                                            <div class="gdlr-core-column-service-content-wrapper">
+                                                <div class="gdlr-core-column-service-title-wrap">
+                                                    <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" id="h3_1dd7_1">Sekolah SD Kristen</h3>
+                                                    {{-- <div class="gdlr-core-column-service-caption gdlr-core-info-font gdlr-core-skin-caption" id="div_1dd7_6">Kisah Kesuksesan Alumni</div> --}}
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                             
+                            </div>
+                        </div>
+                        <div class="gdlr-core-pbf-column gdlr-core-column-15" id="gdlr-core-column-2">
+                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js" id="div_1dd7_7">
+                                <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js">
+                                    <div class="gdlr-core-pbf-element">
+                                        <div class="gdlr-core-column-service-item gdlr-core-item-pdb gdlr-core-left-align gdlr-core-column-service-icon-left gdlr-core-with-caption gdlr-core-item-pdlr" id="div_1dd7_8">
+                                            <div class="gdlr-core-column-service-media gdlr-core-media-image"><img src="upload/icon-1.png" alt="" width="44" height="39" title="icon-3" /></div>
+                                            <div class="gdlr-core-column-service-content-wrapper">
+                                                <div class="gdlr-core-column-service-title-wrap">
+                                                    <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" id="h3_1dd7_2">Sekolah SMP Kristen</h3>
+                                                    {{-- <div class="gdlr-core-column-service-caption gdlr-core-info-font gdlr-core-skin-caption" id="div_1dd7_9">Kegiatan Olahraga di Panti</div> --}}
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="gdlr-core-pbf-column gdlr-core-column-15" id="gdlr-core-column-3">
+                            <div class="gdlr-core-pbf-column-content-margin gdlr-core-js" id="div_1dd7_10">
+                                <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js">
+                                    <div class="gdlr-core-pbf-element">
+                                        <div class="gdlr-core-column-service-item gdlr-core-item-pdb gdlr-core-left-align gdlr-core-column-service-icon-left gdlr-core-with-caption gdlr-core-item-pdlr" id="div_1dd7_11">
+                                            <div class="gdlr-core-column-service-media gdlr-core-media-image"><img src="upload/icon-1.png" alt="" width="41" height="41" title="icon-4" /></div>
+                                            <div class="gdlr-core-column-service-content-wrapper">
+                                                <div class="gdlr-core-column-service-title-wrap">
+                                                    <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" id="h3_1dd7_3">Sekolah SMA Kristen</h3>
+                                                    {{-- <div class="gdlr-core-column-service-caption gdlr-core-info-font gdlr-core-skin-caption" id="div_1dd7_12">Kegiatan Sosial dan Keagamaan di Pirngadi</div> --}}
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
+                    
                 </div>
             </div>
         </div>
-        <div class="gdlr-core-pbf-wrapper" style="padding: 0px 0px 35px 0px;">
-            <div class="gdlr-core-pbf-background-wrap" style="background-color: #f3f3f3;"></div>
-            <div class="gdlr-core-pbf-wrapper-content gdlr-core-js">
-                <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                    <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first" id="gdlr-core-column-40608">
-                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js" style="margin-top: -100px; margin-right: 15px; margin-left: 15px; padding-left: 0px;">
-                            <div class="gdlr-core-pbf-background-wrap"></div>
-                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js">
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-image-item gdlr-core-item-pdb gdlr-core-center-align" style="padding-bottom: 25px;">
-                                        <div class="gdlr-core-image-item-wrap gdlr-core-media-image gdlr-core-image-item-style-rectangle" style="border-width: 0px;">
-                                            <img src="upload/Img1.jpg" alt="" width="640" height="449" title="sekolah pirngadi merdeka" alt="pirngadi merdeka"/>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
-                                        <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 22px; font-weight: 400; letter-spacing: 0px; color: #222222;">Pembelajaran Merdeka</h3>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align gdlr-core-no-p-space" style="padding-bottom: 25px; margin-left: 0px;">
-                                        <div class="gdlr-core-text-box-item-content" style="font-size: 18px; font-weight: 400; text-transform: none; color: #696969;">
-                                            <p>Kurikulum ini dirancang berdasarkan prinsip "Kurikulum Merdeka" untuk memberikan pendidikan yang komprehensif dengan mengintegrasikan berbagai disiplin ilmu. Tujuannya adalah untuk mengembangkan siswa secara menyeluruh, baik dari segi akademis, emosional, maupun sosial, sehingga mereka siap menghadapi tantangan global dengan mandiri dan percaya diri. Siswa diberikan kebebasan untuk mengeksplorasi minat dan bakat mereka, sehingga menciptakan pengalaman belajar yang lebih bermakna dan relevan.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 50px;">
-                                        <a
-                                            class="gdlr-core-button gdlr-core-button-transparent gdlr-core-left-align gdlr-core-button-no-border"
-                                            href="#"
-                                            style="
-                                                font-size: 13px;
-                                                font-weight: 600;
-                                                letter-spacing: 1px;
-                                                color: #777777;
-                                                padding: 0px 0px 0px 0px;
-                                                text-transform: uppercase;
-                                                border-radius: 0px;
-                                                -moz-border-radius: 0px;
-                                                -webkit-border-radius: 0px;
-                                            "
-                                        >
-
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="gdlr-core-pbf-column gdlr-core-column-30" id="gdlr-core-column-50951">
-                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js" style="margin-top: -100px; margin-right: 15px; margin-left: 15px; padding-left: 0px;">
-                            <div class="gdlr-core-pbf-background-wrap"></div>
-                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js">
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-image-item gdlr-core-item-pdb gdlr-core-center-align" style="padding-bottom: 25px;">
-                                        <div class="gdlr-core-image-item-wrap gdlr-core-media-image gdlr-core-image-item-style-rectangle" style="border-width: 0px;">
-                                            <img src="upload/Img2-1.jpg" alt="" width="640" height="449" title="sekolah pirngadi " alt="pirngadi" />
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
-                                        <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 22px; font-weight: 400; letter-spacing: 0px; color: #222222;">Pendidikan Karakter dan Kepemimpinan</h3>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align gdlr-core-no-p-space" style="padding-bottom: 25px; margin-left: 0px;">
-                                        <div class="gdlr-core-text-box-item-content" style="font-size: 18px; font-weight: 400; text-transform: none; color: #696969;">
-                                            <p>Kurikulum ini fokus pada pengembangan karakter dan keterampilan kepemimpinan siswa. Melalui berbagai kegiatan dan program, siswa diajarkan nilai-nilai seperti integritas, tanggung jawab, dan empati, serta dilatih untuk menjadi pemimpin yang inspiratif dan beretika.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 50px;">
-                                        <a
-                                            class="gdlr-core-button gdlr-core-button-transparent gdlr-core-left-align gdlr-core-button-no-border"
-                                            href="#"
-                                            style="
-                                                font-size: 13px;
-                                                font-weight: 600;
-                                                letter-spacing: 1px;
-                                                color: #777777;
-                                                padding: 0px 0px 0px 0px;
-                                                text-transform: uppercase;
-                                                border-radius: 0px;
-                                                -moz-border-radius: 0px;
-                                                -webkit-border-radius: 0px;
-                                            "
-                                        >
-
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first" id="gdlr-core-column-41511">
-                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js" style="margin-right: 15px; margin-left: 15px; padding-left: 0px;">
-                            <div class="gdlr-core-pbf-background-wrap"></div>
-                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js">
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-image-item gdlr-core-item-pdb gdlr-core-center-align" style="padding-bottom: 25px;">
-                                        <div class="gdlr-core-image-item-wrap gdlr-core-media-image gdlr-core-image-item-style-rectangle" style="border-width: 0px;">
-                                            <img src="upload/Img-3.jpg" alt="" width="640" height="449" title="Img 3" />
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
-                                        <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 22px; font-weight: 400; letter-spacing: 0px; color: #222222;">Teknologi dan Inovasi</h3>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align gdlr-core-no-p-space" style="padding-bottom: 25px; margin-left: 0px;">
-                                        <div class="gdlr-core-text-box-item-content" style="font-size: 18px; font-weight: 400; text-transform: none; color: #696969;">
-                                            <p>Kurikulum ini menekankan pentingnya literasi teknologi dan keterampilan inovatif dalam era digital. Siswa akan diajarkan pemrograman dasar, desain grafis, dan penggunaan alat teknologi canggih untuk mempersiapkan mereka dalam menghadapi dunia kerja masa depan yang berbasis teknologi.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 50px;">
-                                        <a
-                                            class="gdlr-core-button gdlr-core-button-transparent gdlr-core-left-align gdlr-core-button-no-border"
-                                            href="#"
-                                            style="
-                                                font-size: 13px;
-                                                font-weight: 600;
-                                                letter-spacing: 1px;
-                                                color: #777777;
-                                                padding: 0px 0px 0px 0px;
-                                                text-transform: uppercase;
-                                                border-radius: 0px;
-                                                -moz-border-radius: 0px;
-                                                -webkit-border-radius: 0px;
-                                            "
-                                        >
-
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="gdlr-core-pbf-column gdlr-core-column-30" id="gdlr-core-column-69824">
-                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js" style="margin-right: 15px; margin-left: 15px; padding-left: 0px;">
-                            <div class="gdlr-core-pbf-background-wrap"></div>
-                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js">
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-image-item gdlr-core-item-pdb gdlr-core-center-align" style="padding-bottom: 25px;">
-                                        <div class="gdlr-core-image-item-wrap gdlr-core-media-image gdlr-core-image-item-style-rectangle" style="border-width: 0px;">
-                                            <img src="upload/Img-4.jpg" alt="" width="640" height="449" title="Img 4" />
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
-                                        <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 22px; font-weight: 400; letter-spacing: 0px; color: #222222;">Seni dan Kreativitas</h3>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align gdlr-core-no-p-space" style="padding-bottom: 25px; margin-left: 0px;">
-                                        <div class="gdlr-core-text-box-item-content" style="font-size: 18px; font-weight: 400; text-transform: none; color: #696969;">
-                                            <p>Kurikulum ini bertujuan untuk mengembangkan kreativitas dan apresiasi seni siswa. Melalui pelajaran musik, seni rupa, teater, dan tarian, siswa diajak untuk mengekspresikan diri mereka secara artistik dan mengembangkan bakat serta minat mereka dalam bidang seni.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 50px;">
-                                        <a
-                                            class="gdlr-core-button gdlr-core-button-transparent gdlr-core-left-align gdlr-core-button-no-border"
-                                            href="#"
-                                            style="
-                                                font-size: 13px;
-                                                font-weight: 600;
-                                                letter-spacing: 1px;
-                                                color: #777777;
-                                                padding: 0px 0px 0px 0px;
-                                                text-transform: uppercase;
-                                                border-radius: 0px;
-                                                -moz-border-radius: 0px;
-                                                -webkit-border-radius: 0px;
-                                            "
-                                        >
-
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="gdlr-core-pbf-wrapper" style="padding: 100px 0px 100px 0px;" id="gdlr-core-wrapper-2">
+        <div class="gdlr-core-pbf-wrapper "  id="gdlr-core-wrapper-2">
             <div class="gdlr-core-pbf-background-wrap">
-                <div
-                    class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js"
-                    style="background-image: url(upload/university.jpg); background-size: cover; background-position: center;"
-                    data-parallax-speed="0"
-                ></div>
+                <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" id="div_1dd7_13" data-parallax-speed="0.8"></div>
             </div>
-            <div class="gdlr-core-pbf-wrapper-content gdlr-core-js">
-                <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                    <div class="gdlr-core-pbf-column gdlr-core-column-60 gdlr-core-column-first" id="gdlr-core-column-88905">
-                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js">
-                            <div class="gdlr-core-pbf-background-wrap"></div>
-                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js" style="max-width: 700px;">
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix gdlr-core-center-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 60px;">
-                                        <span
-                                            class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption"
-                                            style="font-size: 15px; font-style: normal; letter-spacing: 1px; text-transform: uppercase; color: #ffffff;"
-                                        >
-                                            KAMI MENYAMBUT ANDA UNTUK MENGENAL LEBIH LANJUT TENTANG PROSES PENDAFTARAN KAMI. 
-                                        </span>
-                                        <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 50px; font-weight: 400; color: #ffffff;">KAMI SELALU SENANG MENDENGAR DARI ANDA.</h3>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align" style="padding-bottom: 0px;">
-                                        <a
-                                            class="gdlr-core-button gdlr-core-button-gradient gdlr-core-center-align gdlr-core-button-no-border"
-                                            href="#"
-                                            style="
-                                                font-size: 13px;
-                                                font-weight: 600;
-                                                letter-spacing: 1px;
-                                                color: #ffffff;
-                                                padding: 17px 38px 17px 38px;
-                                                text-transform: uppercase;
-                                                border-radius: 4px;
-                                                -moz-border-radius: 4px;
-                                                -webkit-border-radius: 4px;
-                                                background: #0082fa;
-                                            "
-                                        >
-                                            <span class="gdlr-core-content">Contact Us</span>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="gdlr-core-pbf-wrapper" style="padding: 100px 0px 40px 0px;" id="gdlr-core-wrapper-3">
-            <div class="gdlr-core-pbf-background-wrap"></div>
-            <div class="gdlr-core-pbf-wrapper-content gdlr-core-js">
-                <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                    <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first" id="gdlr-core-column-43113">
-                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js" data-sync-height="Kingster College height">
-                            <div class="gdlr-core-pbf-background-wrap"></div>
-                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js gdlr-core-sync-height-content" style="max-width: 600px;">
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-item-pdlr gdlr-core-left-align gdlr-core-style-vertical" style="margin-bottom: 50px;">
-                                        <div class="gdlr-core-divider-line gdlr-core-skin-divider" style="border-color: #d1d1d1; height: 100px;"></div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
-                                        <span
-                                            class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption"
-                                            style="font-size: 15px; font-style: normal; letter-spacing: 1px; text-transform: uppercase; color: #999999;"
-                                        >
-                                            KURIKULUM MERDEKA PIRNGADI
-                                        </span>
-                                        <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 42px; font-weight: 400; letter-spacing: 0px; color: #222222;">
-                                            KAMI MENGUNDANG ANDA UNTUK MENGETAHUI LEBIH BANYAK TENTANG KAMI
-                                            </h3>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px;">
-                                        <div class="gdlr-core-text-box-item-content" style="font-size: 18px; font-weight: 400; letter-spacing: 0px; text-transform: none; color: #373737;">
-                                            <p>
-                                                Di Pirngadi Merdeke, kami melihat kurikulum sebagai sesuatu <br/> yang mencakup lebih atau kurang segala sesuatu  yang dilakukan oleh seorang siswa. Anda mungkin bertanya mengapa kami <br/> melihat kurikulum dengan cara ini. Bagi banyak sekolah, kurikulum hanyalah bagian akademik dari apa yang dipelajari seorang siswa. Namun, itu tidak benar-benar menggambarkan apa sebenarnya pendidikan itu.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="gdlr-core-pbf-column gdlr-core-column-30" id="gdlr-core-column-70394">
-                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js" style="margin-top: 100px; margin-bottom: 0px; margin-left: -100px; padding-top: 0px; padding-bottom: 0px;">
-                            <div class="gdlr-core-pbf-background-wrap"></div>
-                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js">
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-image-item gdlr-core-item-pdb gdlr-core-center-align gdlr-core-item-pdlr" style="padding-bottom: 0px;">
-                                        <div class="gdlr-core-image-item-wrap gdlr-core-media-image gdlr-core-image-item-style-rectangle" style="border-width: 0px;">
-                                            <img src="upload/classroom.jpg" alt="" width="834" height="660" title="classroom" />
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="gdlr-core-pbf-wrapper" style="padding: 90px 0px 95px 0px;" data-skin="Counter HP color" id="gdlr-core-wrapper-4">
-            <div class="gdlr-core-pbf-background-wrap">
-                <div
-                    class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js"
-                    style="background-image: url(upload/group-student.jpg); background-size: cover; background-position: center;"
-                    data-parallax-speed="0"
-                ></div>
-            </div>
-            <div class="gdlr-core-pbf-wrapper-content gdlr-core-js">
-                <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                    <div class="gdlr-core-pbf-column gdlr-core-column-15 gdlr-core-column-first" id="gdlr-core-column-51328">
-                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js">
-                            <div class="gdlr-core-pbf-background-wrap"></div>
-                            <div class="gdlr-core-page-builder-column-right-divider" style="height: 100px; margin-top: -50px; border-color: #97989d; border-style: solid;"></div>
-                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js">
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-image-item gdlr-core-item-pdb gdlr-core-center-align gdlr-core-item-pdlr" style="padding-bottom: 20px;">
-                                        <div class="gdlr-core-image-item-wrap gdlr-core-media-image gdlr-core-image-item-style-rectangle" style="border-width: 0px; max-width: 50px;">
-                                            <img src="upload/icon1.png" alt="" width="100" height="130" title="icon1" />
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-counter-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align">
-                                        <div class="gdlr-core-counter-item-number gdlr-core-skin-title gdlr-core-title-font" style="font-size: 52px; font-weight: 400; margin-bottom: 20px;">
-                                            <span class="gdlr-core-counter-item-count gdlr-core-js" data-duration="" data-counter-start="0" data-counter-end="180">0</span><span class="gdlr-core-counter-item-suffix">+</span>
-                                        </div>
-                                        <div class="gdlr-core-counter-item-bottom-text gdlr-core-skin-content" style="font-size: 18px; font-weight: 400;">Siswa</div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="gdlr-core-pbf-column gdlr-core-column-15" id="gdlr-core-column-51984">
-                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js">
-                            <div class="gdlr-core-pbf-background-wrap"></div>
-                            <div class="gdlr-core-page-builder-column-right-divider" style="height: 100px; margin-top: -50px; border-color: #97989d; border-style: solid;"></div>
-                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js">
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-image-item gdlr-core-item-pdb gdlr-core-center-align gdlr-core-item-pdlr" style="padding-bottom: 20px;">
-                                        <div class="gdlr-core-image-item-wrap gdlr-core-media-image gdlr-core-image-item-style-rectangle" style="border-width: 0px; max-width: 65px;">
-                                            <img src="upload/icon2.png" alt="" width="130" height="130" title="icon2" />
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-counter-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align">
-                                        <div class="gdlr-core-counter-item-number gdlr-core-skin-title gdlr-core-title-font" style="font-size: 52px; font-weight: 400; margin-bottom: 20px;">
-                                            <span class="gdlr-core-counter-item-count gdlr-core-js" data-duration="" data-counter-start="0" data-counter-end="50">0</span><span class="gdlr-core-counter-item-suffix">+</span>
-                                        </div>
-                                        <div class="gdlr-core-counter-item-bottom-text gdlr-core-skin-content" style="font-size: 18px; font-weight: 400;">Guru</div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="gdlr-core-pbf-column gdlr-core-column-15" id="gdlr-core-column-58330">
-                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js">
-                            <div class="gdlr-core-pbf-background-wrap"></div>
-                            <div class="gdlr-core-page-builder-column-right-divider" style="height: 100px; margin-top: -50px; border-color: #97989d; border-style: solid;"></div>
-                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js">
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-image-item gdlr-core-item-pdb gdlr-core-center-align gdlr-core-item-pdlr" style="padding-bottom: 20px;">
-                                        <div class="gdlr-core-image-item-wrap gdlr-core-media-image gdlr-core-image-item-style-rectangle" style="border-width: 0px; max-width: 65px;">
-                                            <img src="upload/icon3.png" alt="" width="130" height="130" title="icon3" />
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-counter-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align">
-                                        <div class="gdlr-core-counter-item-number gdlr-core-skin-title gdlr-core-title-font" style="font-size: 52px; font-weight: 400; margin-bottom: 20px;">
-                                            <span class="gdlr-core-counter-item-count gdlr-core-js" data-duration="" data-counter-start="0" data-counter-end="35">0</span><span class="gdlr-core-counter-item-suffix">+</span>
-                                        </div>
-                                        <div class="gdlr-core-counter-item-bottom-text gdlr-core-skin-content" style="font-size: 18px; font-weight: 400;">Penghargaan</div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="gdlr-core-pbf-column gdlr-core-column-15" id="gdlr-core-column-5837">
-                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js">
-                            <div class="gdlr-core-pbf-background-wrap"></div>
-                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js">
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-image-item gdlr-core-item-pdb gdlr-core-center-align gdlr-core-item-pdlr" style="padding-bottom: 20px;">
-                                        <div class="gdlr-core-image-item-wrap gdlr-core-media-image gdlr-core-image-item-style-rectangle" style="border-width: 0px; max-width: 48px;">
-                                            <img src="upload/icon4.png" alt="" width="96" height="130" title="icon4" />
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-counter-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align">
-                                        <div class="gdlr-core-counter-item-number gdlr-core-skin-title gdlr-core-title-font" style="font-size: 52px; font-weight: 400; margin-bottom: 20px;">
-                                            <span class="gdlr-core-counter-item-count gdlr-core-js" data-duration="" data-counter-start="0" data-counter-end="400">0</span><span class="gdlr-core-counter-item-suffix">+</span>
-                                        </div>
-                                        <div class="gdlr-core-counter-item-bottom-text gdlr-core-skin-content" style="font-size: 18px; font-weight: 400;">Alumni</div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="gdlr-core-pbf-wrapper" style="margin: 0px -20px 0px -20px; padding: 100px 0px 0px 0px;" id="gdlr-core-wrapper-5">
-            <div class="gdlr-core-pbf-background-wrap"></div>
-            <div class="gdlr-core-pbf-wrapper-content gdlr-core-js">
-                <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-pbf-wrapper-full">
-                    <div class="gdlr-core-pbf-column gdlr-core-column-60 gdlr-core-column-first">
-                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js">
-                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js">
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-item-pdlr gdlr-core-center-align gdlr-core-style-vertical" style="margin-bottom: 50px;">
-                                        <div class="gdlr-core-divider-line gdlr-core-skin-divider" style="border-color: #d1d1d1; height: 100px;"></div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix gdlr-core-center-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 85px;">
-                                        <span
-                                            class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption"
-                                            style="font-size: 15px; font-style: normal; letter-spacing: 1px; text-transform: uppercase; color: #999999;"
-                                        >
-                                        INFORMASI PIRNGADI
-                                       
-                                        </span>
-                                        <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 42px; font-weight: 400; letter-spacing: 0px; color: #222222;"> KEPALA SEKOLAH PIRNGADI</h3>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="gdlr-core-pbf-element">
-                                    <div
-                                        class="gdlr-core-personnel-item gdlr-core-item-pdb clearfix gdlr-core-left-align gdlr-core-personnel-item-style-grid-with-background gdlr-core-personnel-style-grid gdlr-core-with-background"
-                                        style="padding-bottom: 0px;"
-                                    >
-                                        <div class="gdlr-core-personnel-list-column gdlr-core-column-12 gdlr-core-column-first gdlr-core-item-pdlr">
-                                            <div class="gdlr-core-personnel-list clearfix">
-                                                <div class="gdlr-core-personnel-list-image gdlr-core-media-image">
-                                                    <a href="#"><img src="{{ asset('images/kepsek/DSC03204.JPG') }}" alt="" width="600" height="733" title="portrait1" /></a>
-                                                    <div class="gdlr-core-hover-opacity"></div>
-                                                </div>
-                                                <div class="gdlr-core-personnel-list-content-wrap" style="padding-right: 0px; padding-left: 25px; padding-bottom: 0px; border-bottom-width: 0px;">
-                                                    <h3 class="gdlr-core-personnel-list-title" style="font-size: 22px; font-weight: 400; letter-spacing: 0px;">
-                                                        <a href="#">Enggar Tjahyani, S.Sos</a>
-                                                    </h3>
-                                                    <div
-                                                        class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                        style="font-size: 18px; font-weight: 400; font-style: normal; letter-spacing: 0px;"
-                                                    >
-                                                        Kepala Sekolah SMA
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="gdlr-core-personnel-list-column gdlr-core-column-12 gdlr-core-item-pdlr">
-                                            <div class="gdlr-core-personnel-list clearfix">
-                                                <div class="gdlr-core-personnel-list-image gdlr-core-media-image">
-                                                    <a href="#"><img src="{{ asset('images/kepsek/SMP.jpg') }}" alt="" width="600" height="733" title="Portrait2" /></a>
-                                                    <div class="gdlr-core-hover-opacity"></div>
-                                                </div>
-                                                <div class="gdlr-core-personnel-list-content-wrap" style="padding-right: 0px; padding-left: 25px; padding-bottom: 0px; border-bottom-width: 0px;">
-                                                    <h3 class="gdlr-core-personnel-list-title" style="font-size: 22px; font-weight: 400; letter-spacing: 0px;">
-                                                        <a href="#">Josef Gerard Laisina, S.si</a>
-                                                    </h3>
-                                                    <div
-                                                        class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                        style="font-size: 18px; font-weight: 400; font-style: normal; letter-spacing: 0px;"
-                                                    >
-                                                        Kepala Sekolah SMP
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="gdlr-core-personnel-list-column gdlr-core-column-12 gdlr-core-item-pdlr">
-                                            <div class="gdlr-core-personnel-list clearfix">
-                                                <div class="gdlr-core-personnel-list-image gdlr-core-media-image">
-                                                    <a href="#">
-                                                        <img src="{{ asset('images/kepsek/sd.jpg') }}" alt="" width="600" height="733" title="Portrait3" />
-                                                    </a>
-                                                    <div class="gdlr-core-hover-opacity"></div>
-                                                </div>
-                                                <div class="gdlr-core-personnel-list-content-wrap" style="padding-right: 0px; padding-left: 25px; padding-bottom: 0px; border-bottom-width: 0px;">
-                                                    <h3 class="gdlr-core-personnel-list-title" style="font-size: 22px; font-weight: 400; letter-spacing: 0px;">
-                                                        <a href="#">Rovita Devi N. S.aPsi</a>
-                                                    </h3>
-                                                    <div
-                                                        class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                        style="font-size: 18px; font-weight: 400; font-style: normal; letter-spacing: 0px;"
-                                                    >
-                                                        KEPALA SEKOLAH SD
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="gdlr-core-personnel-list-column gdlr-core-column-12 gdlr-core-item-pdlr">
-                                            <div class="gdlr-core-personnel-list clearfix">
-                                                <div class="gdlr-core-personnel-list-image gdlr-core-media-image">
-                                                    <a href="#"><img src="{{ asset('images/kepsek/team1.jpg') }}" alt="" width="600" height="733" title="Portrait4" /></a>
-                                                    <div class="gdlr-core-hover-opacity"></div>
-                                                </div>
-                                                <div class="gdlr-core-personnel-list-content-wrap" style="padding-right: 0px; padding-left: 25px; padding-bottom: 0px; border-bottom-width: 0px;">
-                                                    <h3 class="gdlr-core-personnel-list-title" style="font-size: 22px; font-weight: 400; letter-spacing: 0px;">
-                                                        <a href="#">Dra.SARTJE SUKRISTIANI</a>
-                                                    </h3>
-                                                    <div
-                                                        class="gdlr-core-personnel-list-position gdlr-core-info-font gdlr-core-skin-caption"
-                                                        style="font-size: 18px; font-weight: 400; font-style: normal; letter-spacing: 0px;"
-                                                    >
-                                                        Kepala Sekolah TK
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                       
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="gdlr-core-pbf-wrapper" style="padding: 100px 0px 450px 0px;" id="gdlr-core-wrapper-6">
-            <div class="gdlr-core-pbf-background-wrap" style="background-color: #f3f3f3;">
-                <div
-                    class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js"
-                    style="background-image: url(upload/Post01.jpg); background-repeat: no-repeat; background-position: top center;"
-                    data-parallax-speed="0.15"
-                ></div>
-            </div>
-            <div class="gdlr-core-pbf-wrapper-content gdlr-core-js">
-                <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
+            <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
+                <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container-custom">
                     <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first">
-                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js">
-                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js">
+                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " id="div_1dd7_14" data-sync-height="height-1">
+                            <div class="gdlr-core-pbf-background-wrap">
+                                <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" id="div_1dd7_15" data-parallax-speed="0"></div>
+                            </div>
+                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content"></div>
+                        </div>
+                    </div>
+                    <div class="gdlr-core-pbf-column gdlr-core-column-30" id="gdlr-core-column-4">
+                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " id="div_1dd7_16" data-sync-height="height-1">
+                            <div class="gdlr-core-pbf-background-wrap">
+                                <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" id="div_1dd7_17" data-parallax-speed="0.1"></div>
+                            </div>
+                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content">
                                 <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-item-pdlr gdlr-core-left-align gdlr-core-style-vertical" style="margin-bottom: 50px;">
-                                        <div class="gdlr-core-divider-line gdlr-core-skin-divider" style="border-color: #d1d1d1; height: 100px;"></div>
-                                    </div>
+                                    <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr" id="div_1dd7_18">
+                                        <div class="gdlr-core-title-item-title-wrap clearfix">
+                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" id="h3_1dd7_4">Detail Sejarah Singkat</h3></div><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_0">YBPPK PIRNGADI 1950</span></div>
                                 </div>
                                 <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
-                                        <span
-                                            class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption"
-                                            style="font-size: 15px; font-style: normal; letter-spacing: 1px; text-transform: uppercase; color: #333333;"
-                                        >
-                                            Kegiatan Pirngadi
-                                        </span>
-                                        <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 42px; font-weight: 400; letter-spacing: 0px; color: #222222;">Kegiatan Terbaru Kami dan ikuti kegiatan kami</h3>
+                                    <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" id="div_1dd7_19">
+                                        <div class="gdlr-core-text-box-item-content" id="div_1dd7_20">
+                                            <p class="color-white">Yayasan Pirngadi Surabaya merupakan lembaga yang didirikan pada awal abad ke-20 oleh Dr. Radjiman Wedyodiningrat dengan tujuan meningkatkan kesehatan dan pendidikan masyarakat di Surabaya dan sekitarnya. Dengan awal yang sederhana sebagai klinik kecil, yayasan ini berkembang menjadi rumah sakit dan institusi pendidikan medis yang dikenal luas.</p>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="gdlr-core-pbf-column gdlr-core-column-30" id="gdlr-core-column-89816">
-                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js" style="padding-top: 240px;">
-                            <div class="gdlr-core-pbf-background-wrap"></div>
-                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js">
                                 <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-right-align">
-                                        <a
-                                            class="gdlr-core-button gdlr-core-button-transparent gdlr-core-right-align gdlr-core-button-with-border"
-                                            href="#"
-                                            style="
-                                                font-size: 13px;
-                                                font-weight: 600;
-                                                letter-spacing: 1px;
-                                                color: #222222;
-                                                padding: 0px 0px 2px 0px;
-                                                text-transform: uppercase;
-                                                border-radius: 0px;
-                                                -moz-border-radius: 0px;
-                                                -webkit-border-radius: 0px;
-                                                border-width: 0px 0px 1px 0px;
-                                                border-color: #c5c5c5;
-                                            "
-                                        >
-                                            <span class="gdlr-core-content">SEMUA KEGIATAN KAMI</span><i class="gdlr-core-pos-right fa fa-long-arrow-right" style="font-size: 15px; color: #222222;"></i>
-                                        </a>
-                                    </div>
+                                    <div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align"><a class="gdlr-core-button  gdlr-core-button-solid gdlr-core-button-no-border" href="ybppk-pirngadi-sejarah" id="a_1dd7_0"><span class="gdlr-core-content" >Lihat Detail</span></a></div>
                                 </div>
                             </div>
                         </div>
@@ -794,184 +166,85 @@ Bukti Pembayaran
                 </div>
             </div>
         </div>
-        {{-- <div class="gdlr-core-pbf-wrapper gdlr-core-hide-in-tablet-mobile" style="margin: -448px 0px 0px 0px; padding: 0px 0px 90px 0px;" id="gdlr-core-wrapper-7">
-            <div class="gdlr-core-pbf-background-wrap"></div>
-            <div class="gdlr-core-pbf-wrapper-content gdlr-core-js">
+       
+        <div class="gdlr-core-pbf-wrapper " id="div_1dd7_30" data-skin="Column Service">
+            <div class="gdlr-core-pbf-background-wrap" id="div_1dd7_31"></div>
+            <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                    <div class="gdlr-core-pbf-column gdlr-core-column-60 gdlr-core-column-first" id="gdlr-core-column-37730" style="z-index: 9;">
-                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js gdlr-core-item-mglr gdlr-core-item-mgb" style="margin: 0px 0px 0px 0px; padding-top: 50px; padding-bottom: 0px;">
-                            <div class="gdlr-core-pbf-background-wrap"></div>
+                    <div class="gdlr-core-pbf-column gdlr-core-column-15 gdlr-core-column-first">
+                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js">
                             <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js">
                                 <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-blog-item gdlr-core-item-pdb clearfix gdlr-core-style-blog-column-with-frame gdlr-core-item-pdlr" style="padding-bottom: 0px;">
-                                        <div
-                                            class="gdlr-core-flexslider flexslider gdlr-core-js-2 gdlr-core-bullet-style-round3 gdlr-core-color-bullet"
-                                            data-type="carousel"
-                                            data-column="2"
-                                            data-move="1"
-                                            data-nav="bullet"
-                                            data-nav-parent="gdlr-core-blog-item"
-                                            data-controls-top-margin="70px"
-                                        >
-                                            <ul class="slides">
-                                                <li class="gdlr-core-item-mglr">
-                                                    <div
-                                                        class="gdlr-core-blog-grid gdlr-core-style-4 gdlr-core-js gdlr-core-left-button gdlr-core-blog-grid-with-frame gdlr-core-item-mgb gdlr-core-skin-e-background gdlr-core-outer-frame-element gdlr-core-with-thumbnail"
-                                                        style="box-shadow: 0 20px 35px rgba(10, 10, 10, 0.1); -moz-box-shadow: 0 20px 35px rgba(10, 10, 10, 0.1); -webkit-box-shadow: 0 20px 35px rgba(10, 10, 10, 0.1);"
-                                                        data-sync-height="blog-item-1"
-                                                    >
-                                                        <div class="gdlr-core-blog-thumbnail gdlr-core-media-image gdlr-core-opacity-on-hover">
-                                                            <a href="#">
-                                                                <img src="upload/3454568-1-700x450.jpg" alt="" width="700" height="450" title="3454568" />
-                                                            </a>
-                                                        </div>
-                                                        <div class="gdlr-core-blog-grid-frame gdlr-core-sync-height-space-position clearfix">
-                                                            <div class="gdlr-core-blog-grid-top-info clearfix">
-                                                                <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">
-                                                                    <a href="#">June 6, 2016</a>
-                                                                </span>
-                                                                <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-tag">
-                                                                    <a href="#" rel="tag">Admission</a><span class="gdlr-core-sep">,</span> <a href="#" rel="tag">Student</a>
-                                                                </span>
-                                                            </div>
-                                                            <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 24px; font-weight: 500; letter-spacing: 1px;">
-                                                                <a href="#">The Forum hosts a discussion with Niall Ferguson</a>
-                                                            </h3>
-                                                            <div class="gdlr-core-blog-content clearfix">
-                                                                <a class="gdlr-core-excerpt-read-more gdlr-core-plain-text" href="#">
-                                                                    Read More<i class="fa fa-long-arrow-right"></i>
-                                                                </a>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </li>
-                                                <li class="gdlr-core-item-mglr">
-                                                    <div
-                                                        class="gdlr-core-blog-grid gdlr-core-style-4 gdlr-core-js gdlr-core-left-button gdlr-core-blog-grid-with-frame gdlr-core-item-mgb gdlr-core-skin-e-background gdlr-core-outer-frame-element gdlr-core-with-thumbnail"
-                                                        style="box-shadow: 0 20px 35px rgba(10, 10, 10, 0.1); -moz-box-shadow: 0 20px 35px rgba(10, 10, 10, 0.1); -webkit-box-shadow: 0 20px 35px rgba(10, 10, 10, 0.1);"
-                                                        data-sync-height="blog-item-1"
-                                                    >
-                                                        <div class="gdlr-core-blog-thumbnail gdlr-core-media-image gdlr-core-opacity-on-hover">
-                                                            <a href="#">
-                                                                <img src="upload/shutterstock_62838724-700x450.jpg" alt="" width="700" height="450" title="shutterstock_62838724" />
-                                                            </a>
-                                                        </div>
-                                                        <div class="gdlr-core-blog-grid-frame gdlr-core-sync-height-space-position clearfix">
-                                                            <div class="gdlr-core-blog-grid-top-info clearfix">
-                                                                <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">
-                                                                    <a href="#">June 6, 2016</a>
-                                                                </span>
-                                                                <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-tag">
-                                                                    <a href="#" rel="tag">Hot</a><span class="gdlr-core-sep">,</span> <a href="#" rel="tag">Updates</a>
-                                                                </span>
-                                                            </div>
-                                                            <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 24px; font-weight: 500; letter-spacing: 1px;">
-                                                                <a href="#">Can Biology and Chemistry work to save the world?</a>
-                                                            </h3>
-                                                            <div class="gdlr-core-blog-content clearfix">
-                                                                <a class="gdlr-core-excerpt-read-more gdlr-core-plain-text" href="#">
-                                                                    Read More<i class="fa fa-long-arrow-right"></i>
-                                                                </a>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </li>
-                                                <li class="gdlr-core-item-mglr">
-                                                    <div
-                                                        class="gdlr-core-blog-grid gdlr-core-style-4 gdlr-core-js gdlr-core-left-button gdlr-core-blog-grid-with-frame gdlr-core-item-mgb gdlr-core-skin-e-background gdlr-core-outer-frame-element gdlr-core-with-thumbnail"
-                                                        style="box-shadow: 0 20px 35px rgba(10, 10, 10, 0.1); -moz-box-shadow: 0 20px 35px rgba(10, 10, 10, 0.1); -webkit-box-shadow: 0 20px 35px rgba(10, 10, 10, 0.1);"
-                                                        data-sync-height="blog-item-1"
-                                                    >
-                                                        <div class="gdlr-core-blog-thumbnail gdlr-core-media-image gdlr-core-opacity-on-hover">
-                                                            <a href="#">
-                                                                <img src="upload/shutterstock_1102460810-700x450.jpg" alt="" width="700" height="450" title="shutterstock_1102460810" />
-                                                            </a>
-                                                        </div>
-                                                        <div class="gdlr-core-blog-grid-frame gdlr-core-sync-height-space-position clearfix">
-                                                            <div class="gdlr-core-blog-grid-top-info clearfix">
-                                                                <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">
-                                                                    <a href="#">June 6, 2016</a>
-                                                                </span>
-                                                                <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-tag">
-                                                                    <a href="#" rel="tag">Admission</a><span class="gdlr-core-sep">,</span> <a href="#" rel="tag">Event</a>
-                                                                </span>
-                                                            </div>
-                                                            <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 24px; font-weight: 500; letter-spacing: 1px;">
-                                                                <a href="#">
-                                                                    Professor Tom comments on voluntary recalls by snack brands
-                                                                </a>
-                                                            </h3>
-                                                            <div class="gdlr-core-blog-content clearfix">
-                                                                <a class="gdlr-core-excerpt-read-more gdlr-core-plain-text" href="#">
-                                                                    Read More<i class="fa fa-long-arrow-right"></i>
-                                                                </a>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </li>
-                                                <li class="gdlr-core-item-mglr">
-                                                    <div
-                                                        class="gdlr-core-blog-grid gdlr-core-style-4 gdlr-core-js gdlr-core-left-button gdlr-core-blog-grid-with-frame gdlr-core-item-mgb gdlr-core-skin-e-background gdlr-core-outer-frame-element gdlr-core-with-thumbnail"
-                                                        style="box-shadow: 0 20px 35px rgba(10, 10, 10, 0.1); -moz-box-shadow: 0 20px 35px rgba(10, 10, 10, 0.1); -webkit-box-shadow: 0 20px 35px rgba(10, 10, 10, 0.1);"
-                                                        data-sync-height="blog-item-1"
-                                                    >
-                                                        <div class="gdlr-core-blog-thumbnail gdlr-core-media-image gdlr-core-opacity-on-hover">
-                                                            <a href="#">
-                                                                <img src="upload/iStock-1093522584-700x450.jpg" alt="" width="700" height="450" title="iStock-1093522584" />
-                                                            </a>
-                                                        </div>
-                                                        <div class="gdlr-core-blog-grid-frame gdlr-core-sync-height-space-position clearfix">
-                                                            <div class="gdlr-core-blog-grid-top-info clearfix">
-                                                                <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">
-                                                                    <a href="#">June 6, 2016</a>
-                                                                </span>
-                                                                <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-tag">
-                                                                    <a href="#" rel="tag">Article</a><span class="gdlr-core-sep">,</span> <a href="#" rel="tag">Research</a>
-                                                                </span>
-                                                            </div>
-                                                            <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 24px; font-weight: 500; letter-spacing: 1px;">
-                                                                <a href="#">Professor Alexa is interviewed about Twitter&#8217;s valuation</a>
-                                                            </h3>
-                                                            <div class="gdlr-core-blog-content clearfix">
-                                                                <a class="gdlr-core-excerpt-read-more gdlr-core-plain-text" href="#">
-                                                                    Read More<i class="fa fa-long-arrow-right"></i>
-                                                                </a>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </li>
-                                                <li class="gdlr-core-item-mglr">
-                                                    <div
-                                                        class="gdlr-core-blog-grid gdlr-core-style-4 gdlr-core-js gdlr-core-left-button gdlr-core-blog-grid-with-frame gdlr-core-item-mgb gdlr-core-skin-e-background gdlr-core-outer-frame-element gdlr-core-with-thumbnail"
-                                                        style="box-shadow: 0 20px 35px rgba(10, 10, 10, 0.1); -moz-box-shadow: 0 20px 35px rgba(10, 10, 10, 0.1); -webkit-box-shadow: 0 20px 35px rgba(10, 10, 10, 0.1);"
-                                                        data-sync-height="blog-item-1"
-                                                    >
-                                                        <div class="gdlr-core-blog-thumbnail gdlr-core-media-image gdlr-core-opacity-on-hover">
-                                                            <a href="#">
-                                                                <img src="upload/iStock-539246041-700x450.jpg" alt="" width="700" height="450" title="iStock-539246041" />
-                                                            </a>
-                                                        </div>
-                                                        <div class="gdlr-core-blog-grid-frame gdlr-core-sync-height-space-position clearfix">
-                                                            <div class="gdlr-core-blog-grid-top-info clearfix">
-                                                                <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">
-                                                                    <a href="#">June 6, 2016</a>
-                                                                </span>
-                                                                <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-tag">
-                                                                    <a href="#" rel="tag">Event</a><span class="gdlr-core-sep">,</span> <a href="#" rel="tag">Student</a>
-                                                                </span>
-                                                            </div>
-                                                            <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 24px; font-weight: 500; letter-spacing: 1px;">
-                                                                <a href="#">PIRNGADI Public Safety Survey open through Nov. 30</a>
-                                                            </h3>
-                                                            <div class="gdlr-core-blog-content clearfix">
-                                                                <a class="gdlr-core-excerpt-read-more gdlr-core-plain-text" href="#">
-                                                                    Read More<i class="fa fa-long-arrow-right"></i>
-                                                                </a>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </li>
-                                            </ul>
+                                    <div class="gdlr-core-column-service-item gdlr-core-item-pdb gdlr-core-left-align gdlr-core-column-service-icon-top gdlr-core-no-caption gdlr-core-item-pdlr" id="div_1dd7_32">
+                                        <div class="gdlr-core-column-service-media gdlr-core-media-image" id="div_1dd7_33"><img src="upload/col-icon-1.png" alt="" width="41" height="41" title="col-icon-1" /></div>
+                                        <div class="gdlr-core-column-service-content-wrapper">
+                                            <div class="gdlr-core-column-service-title-wrap">
+                                                <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" id="h3_1dd7_6">Pendidikan Anak Usia Dini</h3>
+                                            </div>
+                                            <div class="gdlr-core-column-service-content" id="div_1dd7_34">
+                                                <p>YBPPK Pirngadi menyediakan program pendidikan anak usia dini yang dirancang untuk mempersiapkan anak-anak dengan keterampilan dasar yang penting untuk perkembangan mereka.</p>
+                                                <a class="gdlr-core-column-service-read-more gdlr-core-info-font" href="#" id="a_1dd7_1">Pelajari Lebih Lanjut</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="gdlr-core-pbf-column gdlr-core-column-15" id="gdlr-core-column-5">
+                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js">
+                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js">
+                                <div class="gdlr-core-pbf-element">
+                                    <div class="gdlr-core-column-service-item gdlr-core-item-pdb gdlr-core-left-align gdlr-core-column-service-icon-top gdlr-core-no-caption gdlr-core-item-pdlr" id="div_1dd7_35">
+                                        <div class="gdlr-core-column-service-media gdlr-core-media-image" id="div_1dd7_36"><img src="upload/col-icon-2.png" alt="" width="43" height="45" title="col-icon-2" /></div>
+                                        <div class="gdlr-core-column-service-content-wrapper">
+                                            <div class="gdlr-core-column-service-title-wrap">
+                                                <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" id="h3_1dd7_7">Pendidikan Dasar</h3>
+                                            </div>
+                                            <div class="gdlr-core-column-service-content" id="div_1dd7_37">
+                                                <p>Program pendidikan dasar di YBPPK Pirngadi fokus pada pengembangan keterampilan dasar dan akademik yang esensial untuk siswa di tingkat SD.</p>
+                                                <a class="gdlr-core-column-service-read-more gdlr-core-info-font" href="#" id="a_1dd7_2">Pelajari Lebih Lanjut</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="gdlr-core-pbf-column gdlr-core-column-15" id="gdlr-core-column-6">
+                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js">
+                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js">
+                                <div class="gdlr-core-pbf-element">
+                                    <div class="gdlr-core-column-service-item gdlr-core-item-pdb gdlr-core-left-align gdlr-core-column-service-icon-top gdlr-core-no-caption gdlr-core-item-pdlr" id="div_1dd7_38">
+                                        <div class="gdlr-core-column-service-media gdlr-core-media-image" id="div_1dd7_39"><img src="upload/col-icon-3.png" alt="" width="40" height="43" title="col-icon-3" /></div>
+                                        <div class="gdlr-core-column-service-content-wrapper">
+                                            <div class="gdlr-core-column-service-title-wrap">
+                                                <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" id="h3_1dd7_8">Pendidikan Menengah Pertama</h3>
+                                            </div>
+                                            <div class="gdlr-core-column-service-content" id="div_1dd7_40">
+                                                <p>Pendidikan Menengah Pertama di YBPPK Pirngadi mempersiapkan siswa dengan keterampilan akademik dan sosial yang penting untuk melanjutkan pendidikan mereka ke tingkat berikutnya.</p>
+                                                <a class="gdlr-core-column-service-read-more gdlr-core-info-font" href="#" id="a_1dd7_3">Pelajari Lebih Lanjut</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="gdlr-core-pbf-column gdlr-core-column-15" id="gdlr-core-column-7">
+                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js">
+                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js">
+                                <div class="gdlr-core-pbf-element">
+                                    <div class="gdlr-core-column-service-item gdlr-core-item-pdb gdlr-core-left-align gdlr-core-column-service-icon-top gdlr-core-no-caption gdlr-core-item-pdlr" id="div_1dd7_41">
+                                        <div class="gdlr-core-column-service-media gdlr-core-media-image" id="div_1dd7_42"><img src="upload/col-icon-4.png" alt="" width="47" height="47" title="col-icon-4" /></div>
+                                        <div class="gdlr-core-column-service-content-wrapper">
+                                            <div class="gdlr-core-column-service-title-wrap">
+                                                <h3 class="gdlr-core-column-service-title gdlr-core-skin-title" id="h3_1dd7_9">Pendidikan Menengah Atas</h3>
+                                            </div>
+                                            <div class="gdlr-core-column-service-content" id="div_1dd7_43">
+                                                <p>Pendidikan Menengah Atas di YBPPK Pirngadi memberikan pengetahuan dan keterampilan yang diperlukan untuk mempersiapkan siswa menghadapi ujian akhir dan dunia kerja.</p>
+                                                <a class="gdlr-core-column-service-read-more gdlr-core-info-font" href="#" id="a_1dd7_4">Pelajari Lebih Lanjut</a>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -979,10 +252,113 @@ Bukti Pembayaran
                         </div>
                     </div>
                 </div>
+                
             </div>
-        </div> --}}
-     
+        </div>
+      
+        <div class="gdlr-core-pbf-wrapper " id="div_1dd7_72">
+            <div class="gdlr-core-pbf-background-wrap">
+                <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" id="div_1dd7_73" data-parallax-speed="0.2"></div>
+            </div>
+            <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
+                <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container-custom" id="div_1dd7_74">
+                    <div class="gdlr-core-pbf-element">
+                        <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align">
+                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" >
+                                <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?app=desktop&v=ug5mNCOS1Ak"><img src="upload/icon-play.png" alt="" width="82" height="82" title="icon-play" /></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="gdlr-core-pbf-element">
+                        <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-center-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
+                            <div class="gdlr-core-title-item-title-wrap clearfix">
+                                <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_23">Video Tour YBPPK PIRGADI</h3></div>
+                        </div>
+                    </div>
+                    <div class="gdlr-core-pbf-element">
+                        <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align" id="div_1dd7_77">
+                            <div class="gdlr-core-text-box-item-content" id="div_1dd7_78">
+                                <p>Video Profile.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="gdlr-core-pbf-wrapper " id="div_1dd7_79">
+            <div class="gdlr-core-pbf-background-wrap" id="div_1dd7_80"></div>
+            <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
+                <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
+                    <div class="gdlr-core-pbf-element">
+                        <div class="gdlr-core-tab-item gdlr-core-js gdlr-core-item-pdb  gdlr-core-left-align gdlr-core-tab-style1-horizontal gdlr-core-item-pdlr">
+                            
+                            <div class="gdlr-core-tab-item-content-image-wrap clearfix">
+                                <div class="gdlr-core-tab-item-image  gdlr-core-active" data-tab-id="1">
+                                    <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=-172xbujEyc">
+                                        <span class="gdlr-core-tab-item-image-background" id="span_1dd7_1"  ></span>
+                                        <i class="fa fa-play" ></i>
+                                    </a>
+                                </div>
+                                <div class="gdlr-core-tab-item-image " data-tab-id="2">
+                                    <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=3a47ld6qTRU">
+                                        <span class="gdlr-core-tab-item-image-background" id="span_1dd7_2"  ></span>
+                                        <i class="fa fa-play" ></i>
+                                    </a>
+                                </div>
+                                <div class="gdlr-core-tab-item-image " data-tab-id="3">
+                                    <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=PTgU7tdcc24&t=1s">
+                                        <span class="gdlr-core-tab-item-image-background" id="span_1dd7_3"  ></span>
+                                        <i class="fa fa-play" ></i>
+                                    </a>
+                                </div>
+                                <div class="gdlr-core-tab-item-image " data-tab-id="4">
+                                    <a class="gdlr-core-lightgallery gdlr-core-js " href="https://www.youtube.com/watch?v=C5pKtnmHTxg">
+                                        <span class="gdlr-core-tab-item-image-background" id="span_1dd7_4"  ></span>
+                                        <i class="fa fa-play" ></i>
+                                    </a>
+                                </div>
+                            </div>
+
+                            <div class="gdlr-core-tab-item-wrap">
+                                <div class="gdlr-core-tab-item-title-wrap clearfix gdlr-core-title-font">
+                                    <div class="gdlr-core-tab-item-title  gdlr-core-active" data-tab-id="1">Pendidikan dan Pelatihan</div>
+                                    <div class="gdlr-core-tab-item-title " data-tab-id="2">Pengembangan Keterampilan</div>
+                                    <div class="gdlr-core-tab-item-title " data-tab-id="3">Kegiatan Sosial</div>
+                                </div>
+                                <div class="gdlr-core-tab-item-content-wrap clearfix">
+                                    <div class="gdlr-core-tab-item-content  gdlr-core-active" data-tab-id="1" >
+                                        <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top">
+                                            <div class="gdlr-core-title-item-title-wrap ">
+                                                <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_24">Value Yang di berikan YBPPK PIRNGADI?<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
+                                        </div>
+                                        <p>Memberikan akses pendidikan dan pelatihan kepada anak-anak dan remaja, terutama yang berasal dari latar belakang kurang mampu.</p>
+                                    </div>
+                                    <div class="gdlr-core-tab-item-content " data-tab-id="2" >
+                                        <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top">
+                                            <div class="gdlr-core-title-item-title-wrap ">
+                                                <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_25">Value Yang di berikan YBPPK PIRNGADI?<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
+                                        </div>
+                                        <p>Mengadakan program untuk mengembangkan keterampilan hidup dan keterampilan kerja yang akan membantu anak-anak menjadi mandiri di masa depan.</p>
+                                    </div>
+                                    <div class="gdlr-core-tab-item-content " data-tab-id="3" >
+                                        <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top">
+                                            <div class="gdlr-core-title-item-title-wrap ">
+                                                <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_26">Value Yang di berikan YBPPK PIRNGADI?<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div>
+                                        </div>
+                                        <p>Mengorganisir berbagai kegiatan sosial yang dapat membantu anak-anak belajar tentang tanggung jawab sosial dan kepedulian terhadap orang lain.</p>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
        
+      
+      
     </div>
 </div>
 @endsection
