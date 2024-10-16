@@ -10,10 +10,13 @@
                             <li class="menu-itemmenu-item-home current-menu-item page_item page-item-6208 current_page_item  kingster-normal-menu">
                                 <a href="/">Home</a>
                             </li>
-                            <li class="menu-item kingster-normal-menu"><a href="https://sma-kristen.pirngadi.sch.id/">SMA</a></li>
+                            <li class="menu-item kingster-normal-menu"><a href="#sejarah-section">Sejarah</a></li>
+                            <li class="menu-item kingster-normal-menu"><a href="https://sma-kristen.pirngadi.sch.id/">Lambang</a></li>
+                            <li class="menu-item kingster-normal-menu"><a href="https://sma-kristen.pirngadi.sch.id/">Visi & Misi</a></li>
+                            {{-- <li class="menu-item kingster-normal-menu"><a href="https://sma-kristen.pirngadi.sch.id/">SMA</a></li>
                             <li class="menu-item kingster-normal-menu"><a href="https://smp-kristen.pirngadi.sch.id/">SMP</a></li>
                             <li class="menu-item kingster-normal-menu"><a href="https://sd-kristen.pirngadi.sch.id/">SD</a></li>
-                            <li class="menu-item kingster-normal-menu"><a href="https://tk-kristen.pirngadi.sch.id/">Montessori Kindergarten</a></li>
+                            <li class="menu-item kingster-normal-menu"><a href="https://tk-kristen.pirngadi.sch.id/">Montessori Kindergarten</a></li> --}}
                             <li class="kingster-center-nav-menu-item">
                                 <div class="kingster-logo kingster-item-pdlr">
                                     <div class="kingster-logo-inner">

@@ -5,7 +5,11 @@ Bukti Pembayaran
 @endsection
 
 @push('after-style')
-
+<style>
+    html {
+        scroll-behavior: smooth;
+    }
+</style>
 @endpush
 
 @section('content')
@@ -150,36 +154,119 @@ Bukti Pembayaran
                 </div>
             </div>
         </div>
-        <div class="gdlr-core-pbf-wrapper" style="padding: 0px 0px 100px 0px;" id="gdlr-core-wrapper-1">
+        <div class="gdlr-core-pbf-wrapper" id="sejarah-section">
             <div class="gdlr-core-pbf-background-wrap"></div>
             <div class="gdlr-core-pbf-wrapper-content gdlr-core-js">
                 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                    <div class="gdlr-core-pbf-column gdlr-core-column-60 gdlr-core-column-first" id="gdlr-core-column-19513">
-                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js" style="padding-bottom: 80px;">
-                            <div class="gdlr-core-pbf-background-wrap"></div>
-                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js" style="max-width: 700px;">
+                    <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first">
+                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js">
+                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js">
                                 <div class="gdlr-core-pbf-element">
-                                    <div
-                                        class="gdlr-core-title-item gdlr-core-item-pdb clearfix gdlr-core-center-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr"
-                                        style="padding-bottom: 28px;"
-                                        id="gdlr-core-title-item-1" >
-                                        <span
-                                            class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption"
-                                            style="font-size: 15px; font-style: normal; letter-spacing: 1px; text-transform: uppercase; color: #999999; margin-bottom: 20px;"
-                                        >
-                                            MENUJU PERJALANAN DI DEPAN
-                                        </span>
+                                    <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 40px;">
                                         <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 42px; font-weight: 400; color: #222222;">Sekolah Berbasis Montessori </h3>
+                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 22px; font-weight: 700; letter-spacing: 0px; text-transform: none;">Sejarah Singkat YBPPK PIRNGADI</h3>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align gdlr-core-no-p-space" style="padding-bottom: 48px;">
-                                        <div class="gdlr-core-text-box-item-content" style="font-size: 18px; font-weight: 400; letter-spacing: 0px; text-transform: none; color: #373737;">
+                                    <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 10px;">
+                                        <div class="gdlr-core-text-box-item-content" style="font-size: 17px; text-transform: none;">
                                             <p>
-                                                Kami sedang menciptakan pengalaman belajar yang luar biasa dan unik. Sekolah Pirngadi adalah institusi global dan modern pertama yang mengadopsi filosofi Montessori, melayani anak-anak dari usia 0 hingga 18 tahun. Kami tidak hanya ingin meningkatkan kehidupan siswa kami melalui pembelajaran yang berpusat pada anak, tetapi juga berharap dapat berkontribusi pada dunia pendidikan di setiap area, mendorong kemandirian, kreativitas, dan rasa ingin tahu yang mendalam dalam diri setiap siswa.
+                                                Yayasan Badan Pendidkan dan Pengajaran Kristen Pirngadi didirikan pada tanggal 13 Mei 1950, berdasarkan Akte Notaris Thedoor Robert Willem Vermeulen. Pada awal berdirinya Yayasan Badan Pendidikan dan Penagajan Kristen Pirngadi memiliki dua jenjang pendidikan yaitu Sekolah Dasar Latihan (SD Latihan) dan Sekoloh Guru (SPG).
                                             </p>
+                                            <h6>Sejarah Pendirian Ybppk Pirngadi</h6>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="gdlr-core-pbf-element">
+                                    <div class="gdlr-core-icon-list-item gdlr-core-item-pdlr gdlr-core-item-pdb clearfix gdlr-core-left-align gdlr-core-style-1" style="padding-bottom: 25px;">
+                                        <ul>
+                                            <li class="gdlr-core-skin-divider clearfix" style="margin-bottom: 22px;">
+                                                <span class="gdlr-core-icon-list-icon-wrap gdlr-core-left" style="margin-top: 5px;">
+                                                    <i class="gdlr-core-icon-list-icon fa fa-dot-circle-o" style="color: #0082fa; font-size: 18px; width: 18px;"></i>
+                                                </span>
+                                                <div class="gdlr-core-icon-list-content-wrap">
+                                                    <span class="gdlr-core-icon-list-content" style="font-size: 17px;">
+                                                         Pendirian : 01 Agustus 1957 </br>Didirikanlah sekolah Taman Kanak-kanak Kristen Pirngadi (TK)
+                                                    </span>
+                                                </div>
+                                            </li>
+                                            <li class="gdlr-core-skin-divider clearfix" style="margin-bottom: 22px;">
+                                                <span class="gdlr-core-icon-list-icon-wrap gdlr-core-left" style="margin-top: 5px;">
+                                                    <i class="gdlr-core-icon-list-icon fa fa-dot-circle-o" style="color: #0082fa; font-size: 18px; width: 18px;"></i>
+                                                </span>
+                                                <div class="gdlr-core-icon-list-content-wrap">
+                                                    <span class="gdlr-core-icon-list-content" style="font-size: 17px;">
+                                                        Pendirian : 01 Agustus 1957 </br>Didirikanlah sekolah Taman Kanak-kanak Kristen Pirngadi (TK)
+                                                   </span>
+                                                </div>
+                                            </li>
+                                            <li class="gdlr-core-skin-divider clearfix" style="margin-bottom: 22px;">
+                                                <span class="gdlr-core-icon-list-icon-wrap gdlr-core-left" style="margin-top: 5px;">
+                                                    <i class="gdlr-core-icon-list-icon fa fa-dot-circle-o" style="color: #0082fa; font-size: 18px; width: 18px;"></i>
+                                                </span>
+                                                <div class="gdlr-core-icon-list-content-wrap">
+                                                    <span class="gdlr-core-icon-list-content" style="font-size: 17px;">
+                                                        Pendirian : 01 Agustus 1957 </br>Didirikanlah sekolah Taman Kanak-kanak Kristen Pirngadi (TK)
+                                                   </span>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                               
+                            </div>
+                        </div>
+                    </div>
+                    <div class="gdlr-core-pbf-column gdlr-core-column-30">
+                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js">
+                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js">
+                                <div class="gdlr-core-pbf-element">
+                                    <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 40px;">
+                                        <div class="gdlr-core-title-item-title-wrap clearfix">
+                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 22px; font-weight: 700; letter-spacing: 0px; text-transform: none;">Sekolah Kami ?</h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="gdlr-core-pbf-element">
+                                    <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 40px;">
+                                        <div class="gdlr-core-text-box-item-content" style="text-transform: none;">
+                                            <div style="overflow-x: auto;">
+                                                <table style="min-width: 600px;">
+                                                    <tbody>
+                                                        <tr>
+                                                            <th>No</th>
+                                                            <th>Nama Sekolah</th>
+                                                            <th>Detail</th>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>1</td>
+                                                            <td>SMA Kristen Pirngadi (Smakpir)</td>
+                                                            <td><a href="https://sma-kristen.pirngadi.sch.id/" >Lihat</a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>2</td>
+                                                            <td>SMP Kristen Pirngadi (Smpkpir)</td>
+                                                            <td><a href="https://smp-kristen.pirngadi.sch.id/">Lihat</a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>3</td>
+                                                            <td>SD Kristen Pirngadi (Sdkpir)</td>
+                                                            <td><a href="https://sd-kristen.pirngadi.sch.id/" >Lihat</a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>4</td>
+                                                            <td>Paut Montessori Pirngadi (PAMONTI)</td>
+                                                            <td><a href="https://tk-kristen.pirngadi.sch.id/">Lihat</a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>5</td>
+                                                            <td>Daycare Montessori Pirngadi ()</td>
+                                                            <td><a href="https://daycare-montessori.pirngadi.sch.id/">Lihat</a></td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -190,68 +277,59 @@ Bukti Pembayaran
                 </div>
             </div>
         </div>
-      
-       
-       
-        <div class="gdlr-core-pbf-wrapper" style="padding: 100px 0px 450px 0px;" id="gdlr-core-wrapper-6">
-            <div class="gdlr-core-pbf-background-wrap" style="background-color: #f3f3f3;">
-                <div
-                    class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js"
-                    style="background-image: url(upload/Post01.jpg); background-repeat: no-repeat; background-position: top center;"
-                    data-parallax-speed="0.15"
-                ></div>
+        <div class="gdlr-core-pbf-wrapper " style="padding: 65px 0px 60px 0px;">
+            <div class="gdlr-core-pbf-background-wrap" style="background-color: #192f59 ;">
             </div>
-            <div class="gdlr-core-pbf-wrapper-content gdlr-core-js">
+            <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
                     <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first">
-                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js">
-                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js">
+                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="padding: 45px 0px 0px 0px;">
+                            <div class="gdlr-core-pbf-background-wrap">
+                            </div>
+                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
                                 <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-item-pdlr gdlr-core-left-align gdlr-core-style-vertical" style="margin-bottom: 50px;">
-                                        <div class="gdlr-core-divider-line gdlr-core-skin-divider" style="border-color: #d1d1d1; height: 100px;"></div>
+                                    <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 20px ;">
+                                        <div class="gdlr-core-text-box-item-content" style="font-size: 23px ;text-transform: none ;color: #ffffff ;">
+                                            <p>
+                                                Pada zaman setelah kemerdekaan Republik Indonesia tahun 1945. Di
+                                                Jalan Pirngadi Surabaya sudah berdiri Christelijke Kweek School
+                                                (Sekolah Kristen Guru Atas dan SD Kristen latihan 1 dan 2).
+                                            </p>
+                                        </div>
                                     </div>
                                 </div>
                                 <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
-                                        <span
-                                            class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption"
-                                            style="font-size: 15px; font-style: normal; letter-spacing: 1px; text-transform: uppercase; color: #333333;"
-                                        >
-                                            Kegiatan Pirngadi
-                                        </span>
-                                        <div class="gdlr-core-title-item-title-wrap clearfix">
-                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 42px; font-weight: 400; letter-spacing: 0px; color: #222222;">Kegiatan Terbaru Kami dan ikuti kegiatan kami</h3>
-                                        </div>
+                                    <div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
+                                        <a class="gdlr-core-button gdlr-core-button-solid gdlr-core-left-align gdlr-core-button-no-border" 
+                                        href="https://wa.me/6281803977779?text=Halo,%20saya%20ingin%20bertanya%20lebih%20dalam%20mengenai%20Pirngadi." 
+                                        target="_blank" 
+                                        style="font-size: 14px; font-weight: 700; letter-spacing: 0px; padding: 13px 26px 16px 30px; text-transform: none; margin: 0px 10px 10px 0px; border-radius: 2px; background: #0082fa;">
+                                            <span class="gdlr-core-content">Hubungi Kami</span>
+                                            <i class="gdlr-core-pos-right fa fa-external-link" style="font-size: 14px;"></i>
+                                        </a>
+                                     
+                                        <a class="gdlr-core-button gdlr-core-button-solid gdlr-core-left-align gdlr-core-button-no-border" 
+                                            href="{{ asset('Company.pdf') }}" 
+                                            style="font-size: 14px; font-weight: 700; letter-spacing: 0px; padding: 13px 26px 16px 30px; text-transform: none; border-radius: 2px; background: #0082fa;">
+                                            <span class="gdlr-core-content">Download Company Profile</span>
+                                            <i class="gdlr-core-pos-right fa fa-file-pdf-o" style="font-size: 14px;"></i>
+                                        </a>
+                                     
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="gdlr-core-pbf-column gdlr-core-column-30" id="gdlr-core-column-89816">
-                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js" style="padding-top: 240px;">
-                            <div class="gdlr-core-pbf-background-wrap"></div>
-                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js">
+                    <div class="gdlr-core-pbf-column gdlr-core-column-30" id="gdlr-core-column-4748">
+                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="margin: -123px 0px 0px 0px;padding: 0px 0px 0px 40px;">
+                            <div class="gdlr-core-pbf-background-wrap">
+                            </div>
+                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
                                 <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-right-align">
-                                        <a
-                                            class="gdlr-core-button gdlr-core-button-transparent gdlr-core-right-align gdlr-core-button-with-border"
-                                            href="#"
-                                            style="
-                                                font-size: 13px;
-                                                font-weight: 600;
-                                                letter-spacing: 1px;
-                                                color: #222222;
-                                                padding: 0px 0px 2px 0px;
-                                                text-transform: uppercase;
-                                                border-radius: 0px;
-                                                -moz-border-radius: 0px;
-                                                -webkit-border-radius: 0px;
-                                                border-width: 0px 0px 1px 0px;
-                                                border-color: #c5c5c5;
-                                            "
-                                        >
-                                            <span class="gdlr-core-content">SEMUA KEGIATAN KAMI</span><i class="gdlr-core-pos-right fa fa-long-arrow-right" style="font-size: 15px; color: #222222;"></i>
-                                        </a>
+                                    <div class="gdlr-core-image-item gdlr-core-item-pdb gdlr-core-center-align gdlr-core-item-pdlr">
+                                        <div class="gdlr-core-image-item-wrap gdlr-core-media-image gdlr-core-image-item-style-rectangle" style="border-width: 0px;">
+                                            <img src="{{ asset('upload/sejarah.png') }}" alt="" width="700" height="450" title="iStock-1152405564"/>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -260,195 +338,6 @@ Bukti Pembayaran
                 </div>
             </div>
         </div>
-        {{-- <div class="gdlr-core-pbf-wrapper gdlr-core-hide-in-tablet-mobile" style="margin: -448px 0px 0px 0px; padding: 0px 0px 90px 0px;" id="gdlr-core-wrapper-7">
-            <div class="gdlr-core-pbf-background-wrap"></div>
-            <div class="gdlr-core-pbf-wrapper-content gdlr-core-js">
-                <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                    <div class="gdlr-core-pbf-column gdlr-core-column-60 gdlr-core-column-first" id="gdlr-core-column-37730" style="z-index: 9;">
-                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js gdlr-core-item-mglr gdlr-core-item-mgb" style="margin: 0px 0px 0px 0px; padding-top: 50px; padding-bottom: 0px;">
-                            <div class="gdlr-core-pbf-background-wrap"></div>
-                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js">
-                                <div class="gdlr-core-pbf-element">
-                                    <div class="gdlr-core-blog-item gdlr-core-item-pdb clearfix gdlr-core-style-blog-column-with-frame gdlr-core-item-pdlr" style="padding-bottom: 0px;">
-                                        <div
-                                            class="gdlr-core-flexslider flexslider gdlr-core-js-2 gdlr-core-bullet-style-round3 gdlr-core-color-bullet"
-                                            data-type="carousel"
-                                            data-column="2"
-                                            data-move="1"
-                                            data-nav="bullet"
-                                            data-nav-parent="gdlr-core-blog-item"
-                                            data-controls-top-margin="70px"
-                                        >
-                                            <ul class="slides">
-                                                <li class="gdlr-core-item-mglr">
-                                                    <div
-                                                        class="gdlr-core-blog-grid gdlr-core-style-4 gdlr-core-js gdlr-core-left-button gdlr-core-blog-grid-with-frame gdlr-core-item-mgb gdlr-core-skin-e-background gdlr-core-outer-frame-element gdlr-core-with-thumbnail"
-                                                        style="box-shadow: 0 20px 35px rgba(10, 10, 10, 0.1); -moz-box-shadow: 0 20px 35px rgba(10, 10, 10, 0.1); -webkit-box-shadow: 0 20px 35px rgba(10, 10, 10, 0.1);"
-                                                        data-sync-height="blog-item-1"
-                                                    >
-                                                        <div class="gdlr-core-blog-thumbnail gdlr-core-media-image gdlr-core-opacity-on-hover">
-                                                            <a href="#">
-                                                                <img src="upload/3454568-1-700x450.jpg" alt="" width="700" height="450" title="3454568" />
-                                                            </a>
-                                                        </div>
-                                                        <div class="gdlr-core-blog-grid-frame gdlr-core-sync-height-space-position clearfix">
-                                                            <div class="gdlr-core-blog-grid-top-info clearfix">
-                                                                <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">
-                                                                    <a href="#">June 6, 2016</a>
-                                                                </span>
-                                                                <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-tag">
-                                                                    <a href="#" rel="tag">Admission</a><span class="gdlr-core-sep">,</span> <a href="#" rel="tag">Student</a>
-                                                                </span>
-                                                            </div>
-                                                            <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 24px; font-weight: 500; letter-spacing: 1px;">
-                                                                <a href="#">The Forum hosts a discussion with Niall Ferguson</a>
-                                                            </h3>
-                                                            <div class="gdlr-core-blog-content clearfix">
-                                                                <a class="gdlr-core-excerpt-read-more gdlr-core-plain-text" href="#">
-                                                                    Read More<i class="fa fa-long-arrow-right"></i>
-                                                                </a>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </li>
-                                                <li class="gdlr-core-item-mglr">
-                                                    <div
-                                                        class="gdlr-core-blog-grid gdlr-core-style-4 gdlr-core-js gdlr-core-left-button gdlr-core-blog-grid-with-frame gdlr-core-item-mgb gdlr-core-skin-e-background gdlr-core-outer-frame-element gdlr-core-with-thumbnail"
-                                                        style="box-shadow: 0 20px 35px rgba(10, 10, 10, 0.1); -moz-box-shadow: 0 20px 35px rgba(10, 10, 10, 0.1); -webkit-box-shadow: 0 20px 35px rgba(10, 10, 10, 0.1);"
-                                                        data-sync-height="blog-item-1"
-                                                    >
-                                                        <div class="gdlr-core-blog-thumbnail gdlr-core-media-image gdlr-core-opacity-on-hover">
-                                                            <a href="#">
-                                                                <img src="upload/shutterstock_62838724-700x450.jpg" alt="" width="700" height="450" title="shutterstock_62838724" />
-                                                            </a>
-                                                        </div>
-                                                        <div class="gdlr-core-blog-grid-frame gdlr-core-sync-height-space-position clearfix">
-                                                            <div class="gdlr-core-blog-grid-top-info clearfix">
-                                                                <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">
-                                                                    <a href="#">June 6, 2016</a>
-                                                                </span>
-                                                                <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-tag">
-                                                                    <a href="#" rel="tag">Hot</a><span class="gdlr-core-sep">,</span> <a href="#" rel="tag">Updates</a>
-                                                                </span>
-                                                            </div>
-                                                            <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 24px; font-weight: 500; letter-spacing: 1px;">
-                                                                <a href="#">Can Biology and Chemistry work to save the world?</a>
-                                                            </h3>
-                                                            <div class="gdlr-core-blog-content clearfix">
-                                                                <a class="gdlr-core-excerpt-read-more gdlr-core-plain-text" href="#">
-                                                                    Read More<i class="fa fa-long-arrow-right"></i>
-                                                                </a>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </li>
-                                                <li class="gdlr-core-item-mglr">
-                                                    <div
-                                                        class="gdlr-core-blog-grid gdlr-core-style-4 gdlr-core-js gdlr-core-left-button gdlr-core-blog-grid-with-frame gdlr-core-item-mgb gdlr-core-skin-e-background gdlr-core-outer-frame-element gdlr-core-with-thumbnail"
-                                                        style="box-shadow: 0 20px 35px rgba(10, 10, 10, 0.1); -moz-box-shadow: 0 20px 35px rgba(10, 10, 10, 0.1); -webkit-box-shadow: 0 20px 35px rgba(10, 10, 10, 0.1);"
-                                                        data-sync-height="blog-item-1"
-                                                    >
-                                                        <div class="gdlr-core-blog-thumbnail gdlr-core-media-image gdlr-core-opacity-on-hover">
-                                                            <a href="#">
-                                                                <img src="upload/shutterstock_1102460810-700x450.jpg" alt="" width="700" height="450" title="shutterstock_1102460810" />
-                                                            </a>
-                                                        </div>
-                                                        <div class="gdlr-core-blog-grid-frame gdlr-core-sync-height-space-position clearfix">
-                                                            <div class="gdlr-core-blog-grid-top-info clearfix">
-                                                                <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">
-                                                                    <a href="#">June 6, 2016</a>
-                                                                </span>
-                                                                <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-tag">
-                                                                    <a href="#" rel="tag">Admission</a><span class="gdlr-core-sep">,</span> <a href="#" rel="tag">Event</a>
-                                                                </span>
-                                                            </div>
-                                                            <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 24px; font-weight: 500; letter-spacing: 1px;">
-                                                                <a href="#">
-                                                                    Professor Tom comments on voluntary recalls by snack brands
-                                                                </a>
-                                                            </h3>
-                                                            <div class="gdlr-core-blog-content clearfix">
-                                                                <a class="gdlr-core-excerpt-read-more gdlr-core-plain-text" href="#">
-                                                                    Read More<i class="fa fa-long-arrow-right"></i>
-                                                                </a>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </li>
-                                                <li class="gdlr-core-item-mglr">
-                                                    <div
-                                                        class="gdlr-core-blog-grid gdlr-core-style-4 gdlr-core-js gdlr-core-left-button gdlr-core-blog-grid-with-frame gdlr-core-item-mgb gdlr-core-skin-e-background gdlr-core-outer-frame-element gdlr-core-with-thumbnail"
-                                                        style="box-shadow: 0 20px 35px rgba(10, 10, 10, 0.1); -moz-box-shadow: 0 20px 35px rgba(10, 10, 10, 0.1); -webkit-box-shadow: 0 20px 35px rgba(10, 10, 10, 0.1);"
-                                                        data-sync-height="blog-item-1"
-                                                    >
-                                                        <div class="gdlr-core-blog-thumbnail gdlr-core-media-image gdlr-core-opacity-on-hover">
-                                                            <a href="#">
-                                                                <img src="upload/iStock-1093522584-700x450.jpg" alt="" width="700" height="450" title="iStock-1093522584" />
-                                                            </a>
-                                                        </div>
-                                                        <div class="gdlr-core-blog-grid-frame gdlr-core-sync-height-space-position clearfix">
-                                                            <div class="gdlr-core-blog-grid-top-info clearfix">
-                                                                <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">
-                                                                    <a href="#">June 6, 2016</a>
-                                                                </span>
-                                                                <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-tag">
-                                                                    <a href="#" rel="tag">Article</a><span class="gdlr-core-sep">,</span> <a href="#" rel="tag">Research</a>
-                                                                </span>
-                                                            </div>
-                                                            <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 24px; font-weight: 500; letter-spacing: 1px;">
-                                                                <a href="#">Professor Alexa is interviewed about Twitter&#8217;s valuation</a>
-                                                            </h3>
-                                                            <div class="gdlr-core-blog-content clearfix">
-                                                                <a class="gdlr-core-excerpt-read-more gdlr-core-plain-text" href="#">
-                                                                    Read More<i class="fa fa-long-arrow-right"></i>
-                                                                </a>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </li>
-                                                <li class="gdlr-core-item-mglr">
-                                                    <div
-                                                        class="gdlr-core-blog-grid gdlr-core-style-4 gdlr-core-js gdlr-core-left-button gdlr-core-blog-grid-with-frame gdlr-core-item-mgb gdlr-core-skin-e-background gdlr-core-outer-frame-element gdlr-core-with-thumbnail"
-                                                        style="box-shadow: 0 20px 35px rgba(10, 10, 10, 0.1); -moz-box-shadow: 0 20px 35px rgba(10, 10, 10, 0.1); -webkit-box-shadow: 0 20px 35px rgba(10, 10, 10, 0.1);"
-                                                        data-sync-height="blog-item-1"
-                                                    >
-                                                        <div class="gdlr-core-blog-thumbnail gdlr-core-media-image gdlr-core-opacity-on-hover">
-                                                            <a href="#">
-                                                                <img src="upload/iStock-539246041-700x450.jpg" alt="" width="700" height="450" title="iStock-539246041" />
-                                                            </a>
-                                                        </div>
-                                                        <div class="gdlr-core-blog-grid-frame gdlr-core-sync-height-space-position clearfix">
-                                                            <div class="gdlr-core-blog-grid-top-info clearfix">
-                                                                <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">
-                                                                    <a href="#">June 6, 2016</a>
-                                                                </span>
-                                                                <span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-tag">
-                                                                    <a href="#" rel="tag">Event</a><span class="gdlr-core-sep">,</span> <a href="#" rel="tag">Student</a>
-                                                                </span>
-                                                            </div>
-                                                            <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 24px; font-weight: 500; letter-spacing: 1px;">
-                                                                <a href="#">PIRNGADI Public Safety Survey open through Nov. 30</a>
-                                                            </h3>
-                                                            <div class="gdlr-core-blog-content clearfix">
-                                                                <a class="gdlr-core-excerpt-read-more gdlr-core-plain-text" href="#">
-                                                                    Read More<i class="fa fa-long-arrow-right"></i>
-                                                                </a>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div> --}}
-     
-       
     </div>
 </div>
 @endsection
