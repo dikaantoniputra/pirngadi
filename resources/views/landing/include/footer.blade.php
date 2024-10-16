@@ -11,16 +11,7 @@
                             Sekolah Pirngadi
                             Pendidikan Berkualitas untuk Masa Depan Cerah,Mencetak Generasi Unggul untuk Masa Depan
                         </p>
-                        <p>
-                            
-                            <a href="https://wa.me/6281803977779?text=Halo%20Saya%20ingin%20mendapatkan%20informasi" style="font-size: 15px; color: #ffffff;">+62 818-0397-7779</a><br />
-
-                            <span class="gdlr-core-space-shortcode" style="margin-top: -20px;"></span><br />
-                            <a style="font-size: 15px; color: #8dd7e5;" href="#">
-                                <span class="__cf_email__">sekretariat@pirngadi.sch.id</span>
-                            </a><br/>
-                            <span style="font-size: 15px; color: #ffffff;">Jl. Pirngadi No. 4-14 Surabaya</span><br />
-                        </p>
+                        
                     </div>
                 </div>
             </div>

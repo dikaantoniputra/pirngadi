@@ -12,7 +12,7 @@
                             </li>
                             <li class="menu-item kingster-normal-menu"><a href="#sejarah-section">Sejarah</a></li>
                             <li class="menu-item kingster-normal-menu"><a href="#lambang">Lambang</a></li>
-                            <li class="menu-item kingster-normal-menu"><a href="https://sma-kristen.pirngadi.sch.id/">Visi & Misi</a></li>
+                            <li class="menu-item kingster-normal-menu"><a href="#visi-misi">Visi & Misi</a></li>
                             {{-- <li class="menu-item kingster-normal-menu"><a href="https://sma-kristen.pirngadi.sch.id/">SMA</a></li>
                             <li class="menu-item kingster-normal-menu"><a href="https://smp-kristen.pirngadi.sch.id/">SMP</a></li>
                             <li class="menu-item kingster-normal-menu"><a href="https://sd-kristen.pirngadi.sch.id/">SD</a></li>
@@ -24,12 +24,12 @@
                                     </div>
                                 </div>
                             </li>
-                          
-                            <li class="menu-item kingster-normal-menu"><a href="https://daycare-montessori.pirngadi.sch.id/">Montessori Daycare</a></li>                            </a></li>
-                            <li class="menu-item kingster-normal-menu"><a href="https://ybppkpirngadi.or.id/">YBPPK Pirngadi</a></li>
+                            <li class="menu-item kingster-normal-menu"><a href="#news">News Pirngadi</a></li>
+                            <li class="menu-item kingster-normal-menu"><a href="#kontak">Kontak Kami</a></li> </a></li>
+                           
                          
                             <li class="menu-itemmenu-item-has-children  kingster-mega-menu">
-                                <a href="#" class="sf-with-ul-pre">E-PIRNGADI</a>
+                                <a href="#" class="sf-with-ul-pre">Sekolah Kami</a>
                                 <div class="sf-mega sf-mega-full" style="background-image: url('upload/mega-menu-bg.jpg'); background-position: bottom right; background-repeat: no-repeat;"  alt="pirngadi">
                                     <ul class="sub-menu">
                                         <li class="menu-item menu-item-has-children " data-size="15">
