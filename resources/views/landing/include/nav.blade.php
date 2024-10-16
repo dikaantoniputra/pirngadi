@@ -11,7 +11,7 @@
                                 <a href="/">Home</a>
                             </li>
                             <li class="menu-item kingster-normal-menu"><a href="#sejarah-section">Sejarah</a></li>
-                            <li class="menu-item kingster-normal-menu"><a href="https://sma-kristen.pirngadi.sch.id/">Lambang</a></li>
+                            <li class="menu-item kingster-normal-menu"><a href="#lambang">Lambang</a></li>
                             <li class="menu-item kingster-normal-menu"><a href="https://sma-kristen.pirngadi.sch.id/">Visi & Misi</a></li>
                             {{-- <li class="menu-item kingster-normal-menu"><a href="https://sma-kristen.pirngadi.sch.id/">SMA</a></li>
                             <li class="menu-item kingster-normal-menu"><a href="https://smp-kristen.pirngadi.sch.id/">SMP</a></li>

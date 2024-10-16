@@ -86,7 +86,7 @@ Bukti Pembayaran
                                             <a
                                                 id="slider-1-slide-1-layer-14"
                                                 class="rs-layer lebeaune-font"
-                                                href="#"
+                                                href="#sejarah-section"
                                                 target="_self"
                                                 rel="nofollow"
                                                 data-type="text"
@@ -300,21 +300,9 @@ Bukti Pembayaran
                                 </div>
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
-                                        <a class="gdlr-core-button gdlr-core-button-solid gdlr-core-left-align gdlr-core-button-no-border" 
-                                        href="https://wa.me/6281803977779?text=Halo,%20saya%20ingin%20bertanya%20lebih%20dalam%20mengenai%20Pirngadi." 
-                                        target="_blank" 
-                                        style="font-size: 14px; font-weight: 700; letter-spacing: 0px; padding: 13px 26px 16px 30px; text-transform: none; margin: 0px 10px 10px 0px; border-radius: 2px; background: #0082fa;">
-                                            <span class="gdlr-core-content">Hubungi Kami</span>
-                                            <i class="gdlr-core-pos-right fa fa-external-link" style="font-size: 14px;"></i>
-                                        </a>
-                                     
-                                        <a class="gdlr-core-button gdlr-core-button-solid gdlr-core-left-align gdlr-core-button-no-border" 
-                                            href="{{ asset('Company.pdf') }}" 
-                                            style="font-size: 14px; font-weight: 700; letter-spacing: 0px; padding: 13px 26px 16px 30px; text-transform: none; border-radius: 2px; background: #0082fa;">
-                                            <span class="gdlr-core-content">Download Company Profile</span>
-                                            <i class="gdlr-core-pos-right fa fa-file-pdf-o" style="font-size: 14px;"></i>
-                                        </a>
-                                     
+                                        <a class="gdlr-core-button gdlr-core-button-solid gdlr-core-left-align gdlr-core-button-no-border" href="https://wa.me/6281803977779?text=Halo,%20saya%20ingin%20bertanya%20lebih%20dalam%20mengenai%20Pirngadi." 
+                                        style="font-size: 14px ;font-weight: 700 ;letter-spacing: 0px ;padding: 13px 26px 16px 30px;text-transform: none ;margin: 0px 10px 10px 0px;border-radius: 2px;-moz-border-radius: 2px;-webkit-border-radius: 2px;background: #0082fa ;"><span class="gdlr-core-content">Kontak</span><i class="gdlr-core-pos-right fa fa-external-link" style="font-size: 14px ;"></i></a>
+                                        <a class="gdlr-core-button gdlr-core-button-solid gdlr-core-left-align gdlr-core-button-no-border" href="{{ asset('Company.pdf') }}" style="font-size: 14px ;font-weight: 700 ;letter-spacing: 0px ;padding: 13px 26px 16px 30px;text-transform: none ;border-radius: 2px;-moz-border-radius: 2px;-webkit-border-radius: 2px;background: #0082fa ;"><span class="gdlr-core-content">Download Company Profile</span><i class="gdlr-core-pos-right fa fa-file-pdf-o" style="font-size: 14px ;"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -338,11 +326,149 @@ Bukti Pembayaran
                 </div>
             </div>
         </div>
+        <div class="gdlr-core-pbf-wrapper" style="padding: 90px 0px 50px 0px;" id="lambang">
+            <div class="gdlr-core-pbf-background-wrap"></div>
+            <div class="gdlr-core-pbf-wrapper-content gdlr-core-js">
+                <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
+                    <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first">
+                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js" style="padding: 0px 10px 0px 0px;">
+                            <div class="gdlr-core-pbf-background-wrap"></div>
+                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js">
+                                <div class="gdlr-core-pbf-element">
+                                    <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 35px;">
+                                        <div class="gdlr-core-title-item-title-wrap clearfix">
+                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 24px; font-weight: 600; letter-spacing: 0px; text-transform: none; color: #1a1a1a;">
+                                                MAKNA LOGO YBPPK PIRNGADI
+                                            </h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="gdlr-core-pbf-element">
+                                    <div class="gdlr-core-accordion-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-accordion-style-background-title-icon gdlr-core-left-align gdlr-core-icon-pos-right">
+                                        <div class="gdlr-core-accordion-item-tab clearfix gdlr-core-active">
+                                            <div class="gdlr-core-accordion-item-icon gdlr-core-js gdlr-core-skin-icon"></div>
+                                            <div class="gdlr-core-accordion-item-content-wrapper">
+                                                <h4 class="gdlr-core-accordion-item-title gdlr-core-js gdlr-core-skin-e-background gdlr-core-skin-e-content">Warna Dasar Biru</h4>
+                                                <div class="gdlr-core-accordion-item-content">
+                                                    <p>Kesetiaan terhadap visi dan misi
+                                                    </p>
+                                                   
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="gdlr-core-accordion-item-tab clearfix">
+                                            <div class="gdlr-core-accordion-item-icon gdlr-core-js gdlr-core-skin-icon"></div>
+                                            <div class="gdlr-core-accordion-item-content-wrapper">
+                                                <h4 class="gdlr-core-accordion-item-title gdlr-core-js gdlr-core-skin-e-background gdlr-core-skin-e-content">Bintang segi lima</h4>
+                                                <div class="gdlr-core-accordion-item-content">
+                                                    <p>Jiwa dan semangat Pancasila
+                                                    </p>
+                                                   
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="gdlr-core-accordion-item-tab clearfix">
+                                            <div class="gdlr-core-accordion-item-icon gdlr-core-js gdlr-core-skin-icon"></div>
+                                            <div class="gdlr-core-accordion-item-content-wrapper">
+                                                <h4 class="gdlr-core-accordion-item-title gdlr-core-js gdlr-core-skin-e-background gdlr-core-skin-e-content">Salib</h4>
+                                                <div class="gdlr-core-accordion-item-content">
+                                                    <p>Pengorbanan Yesus yang rela mati untuk menghidupkan dan menyelamatkan manusia.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="gdlr-core-accordion-item-tab clearfix">
+                                            <div class="gdlr-core-accordion-item-icon gdlr-core-js gdlr-core-skin-icon"></div>
+                                            <div class="gdlr-core-accordion-item-content-wrapper">
+                                                <h4 class="gdlr-core-accordion-item-title gdlr-core-js gdlr-core-skin-e-background gdlr-core-skin-e-content">Buku terbuka</h4>
+                                                <div class="gdlr-core-accordion-item-content">
+                                                    <p>Ilmu pengetahuan yang merupakan pelayanan utama lembaga pendidikan.
+                                                    </p>
+                                                   
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="gdlr-core-accordion-item-tab clearfix">
+                                            <div class="gdlr-core-accordion-item-icon gdlr-core-js gdlr-core-skin-icon"></div>
+                                            <div class="gdlr-core-accordion-item-content-wrapper">
+                                                <h4 class="gdlr-core-accordion-item-title gdlr-core-js gdlr-core-skin-e-background gdlr-core-skin-e-content">Warna kuning</h4>
+                                                <div class="gdlr-core-accordion-item-content">
+                                                    <p>Keluhuran cita-cita
+                                                    </p>
+                                                   
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="gdlr-core-accordion-item-tab clearfix">
+                                            <div class="gdlr-core-accordion-item-icon gdlr-core-js gdlr-core-skin-icon"></div>
+                                            <div class="gdlr-core-accordion-item-content-wrapper">
+                                                <h4 class="gdlr-core-accordion-item-title gdlr-core-js gdlr-core-skin-e-background gdlr-core-skin-e-content">Pirngadi</h4>
+                                                <div class="gdlr-core-accordion-item-content">
+                                                    <p>Nama seseorang yang berjasa bagi bangsa dan
+                                                        negara
+                                                    </p>
+                                                   
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="gdlr-core-pbf-column gdlr-core-column-30">
+                        <div class="gdlr-core-pbf-column-content-margin gdlr-core-js">
+                            <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js">
+                                <div class="gdlr-core-pbf-element">
+                                    <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 23px;">
+                                        <div class="gdlr-core-title-item-title-wrap clearfix">
+                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 18px; font-weight: 600; letter-spacing: 0px; text-transform: none;">Logo</h3>
+                                        </div>
+                                    </div>
+                                </div>
+                           
+                                <div class="gdlr-core-pbf-element">
+                                    <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 20px;">
+                                        <div class="gdlr-core-text-box-item-content" style="font-size: 15px; text-transform: none; color: #8f8f8f;">
+                                            <div style="display: flex; justify-content: center; align-items: center;">
+                                                <img src="{{ asset('upload/logo.png') }}" width="400" height="296" />
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="gdlr-core-pbf-element">
+                                    <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr" style="padding-bottom: 23px;">
+                                        <div class="gdlr-core-title-item-title-wrap clearfix">
+                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 18px; font-weight: 600; letter-spacing: 0px; text-transform: none;">Makna logo secara utuh</h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="gdlr-core-pbf-element">
+                                    <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 20px;">
+                                        <div class="gdlr-core-text-box-item-content" style="font-size: 15px; text-transform: none; color: #8f8f8f;">
+                                            <p>
+                                                Yayasan Badan Pendidikan dan Pengajaran
+                                                Kristen Pirngadi merupakan lembaga yang
+                                                berciri kristen, dengan jiwa dan semangat Pancasila mengemban misi mengantarkan generasi muda menjadi generasi yang cerdas berlandaskan iman kristen.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
+
 @endsection
 
 @push('after-script')
-
+<script>
+    AOS.init();
+  </script>
 
 @endpush
