@@ -13,10 +13,7 @@
                             <li class="menu-item kingster-normal-menu"><a href="#sejarah-section">Sejarah</a></li>
                             <li class="menu-item kingster-normal-menu"><a href="#lambang">Lambang</a></li>
                             <li class="menu-item kingster-normal-menu"><a href="#visi-misi">Visi & Misi</a></li>
-                            {{-- <li class="menu-item kingster-normal-menu"><a href="https://sma-kristen.pirngadi.sch.id/">SMA</a></li>
-                            <li class="menu-item kingster-normal-menu"><a href="https://smp-kristen.pirngadi.sch.id/">SMP</a></li>
-                            <li class="menu-item kingster-normal-menu"><a href="https://sd-kristen.pirngadi.sch.id/">SD</a></li>
-                            <li class="menu-item kingster-normal-menu"><a href="https://tk-kristen.pirngadi.sch.id/">Montessori Kindergarten</a></li> --}}
+                        
                             <li class="kingster-center-nav-menu-item">
                                 <div class="kingster-logo kingster-item-pdlr">
                                     <div class="kingster-logo-inner">
@@ -33,12 +30,14 @@
                                 <div class="sf-mega sf-mega-full" style="background-image: url('upload/mega-menu-bg.jpg'); background-position: bottom right; background-repeat: no-repeat;"  alt="pirngadi">
                                     <ul class="sub-menu">
                                         <li class="menu-item menu-item-has-children " data-size="15">
-                                            <a class="sf-with-ul-pre">Sistem Absensi</a>
+                                            <a class="sf-with-ul-pre">Website Sekolah Kami</a>
                                             <ul class="sub-menu">
-                                                <li class="menu-item">
-                                                    <a href="pengembangan-pirngadi">Absensi Guru</a>
-                                                </li>
-                                                <li class="menu-item"><a href="pengembangan-pirngadi">Absensi Siswa</a></li>
+                                                <li class="menu-item"><a href="https://sma-kristen.pirngadi.sch.id/">SMA Kristen Pirngadi</a></li>
+                                                <li class="menu-item"><a href="https://smp-kristen.pirngadi.sch.id/">SMP Kristen Pirngadi</a></li>
+                                                <li class="menu-item"><a href="https://sd-kristen.pirngadi.sch.id/">SD Kristen Pirngadi</a></li>
+                                                <li class="menu-item"><a href="https://tk-kristen.pirngadi.sch.id/">Montessori Kindergarten</a></li>
+                                                <li class="menu-item"><a href="https://daycare-montessori.pirngadi.sch.id/">Daycare Montessori Pirngadi</a></li>
+                                               
                                                 
                                             </ul>
                                         </li>
@@ -62,17 +61,18 @@
                                             </ul>
                                         </li>
                                         <li class="menu-item menu-item-has-children " data-size="15">
-                                            <a href="#" class="sf-with-ul-pre">Info</a>
+                                            <a href="#" class="sf-with-ul-pre">Informasi</a>
                                             <ul class="sub-menu">
-                                              
+                                                <li class="menu-item "><a href="pengembangan-pirngadi">Parent Card Daycare</a></li>
                                                 <li class="menu-item">
-                                                    <a href="tentang-pirngadi">Tentang Kami</a>
+                                                    <a href="tentang-pirngadi">Absen Guru Digital</a>
                                                 </li>
                                                 <li class="menu-item">
-                                                    <a href="visi-misi-pirngadi">Visi & Misi</a>
+                                                    <a href="visi-misi-pirngadi">Absen Murit Digital</a>
                                                 </li>
-                                                <li class="menu-item "><a href="kontak-pirngadi">Kontak</a></li>
-                                                <li class="menu-item "><a href="pengembangan-pirngadi">Blog</a></li>
+                                                <li class="menu-item "><a href="kontak-pirngadi">E-Spp</a></li>
+                                                <li class="menu-item "><a href="kontak-pirngadi">E-Rapot</a></li>
+                                                
                                             </ul>
                                         </li>
                                         <li class="menu-item " data-size="15">

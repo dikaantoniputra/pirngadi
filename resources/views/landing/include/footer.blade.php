@@ -49,7 +49,7 @@
                                 <a href="https://wa.me/6281803977779?text=Cara%20pendaftaran%20PPDB%20untuk%20SD" style="color: inherit;">Pendaftaran SD</a>
                             </li>
                             <li class="menu-item kingster-normal-menu">
-                                <a href="https://tk-kristen.pirngadi.sch.id/">Pendaftaran TK</a>
+                                <a href="https://wa.me/6281803977779?text=Cara%20pendaftaran%20PPDB%20untuk%20TK">Pendaftaran TK</a>
                             </li>
                             
                         </ul>
@@ -58,14 +58,20 @@
             </div>
             <div class="kingster-footer-column kingster-item-pdlr kingster-column-15">
                 <div id="gdlr-core-custom-menu-widget-4" class="widget widget_gdlr-core-custom-menu-widget kingster-widget">
-                    <h3 class="kingster-widget-title">Info Pirngadi</h3>
+                    <h3 class="kingster-widget-title">Teknologi Pirngadi</h3>
                     <span class="clear"></span>
                     <div class="menu-academics-container">
                         <ul id="menu-academics" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-plain">
-                            <li class="menu-item  kingster-normal-menu"><a href="tentang-pirngadi">Tentang Kami</a></li>
-                            <li class="menu-item  kingster-normal-menu"><a href="visi-misi-pirngadi">Visi & Misi</a></li>
-                            <li class="menu-item  kingster-normal-menu"><a href="kontak-pirngadi">Kontak</a></li>
-                            <li class="menu-item  kingster-normal-menu"><a href="pengembangan-pirngadi">Blog</a></li>
+                            <li class="menu-item kingster-normal-menu"><a href="pengembangan-pirngadi">News Pirngadi</a></li>
+                            <li class="menu-item kingster-normal-menu"><a href="pengembangan-pirngadi">Parent Card Daycare</a></li>
+                                                <li class="menu-item kingster-normal-menu">
+                                                    <a href="tentang-pirngadi">Absen Guru Digital</a>
+                                                </li>
+                                                <li class="menu-item kingster-normal-menu">
+                                                    <a href="visi-misi-pirngadi">Absen Murit Digital</a>
+                                                </li>
+                                                <li class="menu-item kingster-normal-menu"><a href="kontak-pirngadi">E-Spp</a></li>
+                                                <li class="menu-item kingster-normal-menu"><a href="kontak-pirngadi">E-Rapot</a></li>
                            
                         </ul>
                     </div>
