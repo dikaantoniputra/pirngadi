@@ -197,7 +197,7 @@ Bukti Pembayaran
                                                 </span>
                                                 <div class="gdlr-core-icon-list-content-wrap">
                                                     <span class="gdlr-core-icon-list-content" style="font-size: 17px;">
-                                                        Pendirian : 01 Agustus 1957 </br>Didirikanlah sekolah Taman Kanak-kanak Kristen Pirngadi (TK)
+                                                        Pendirian : 19 Januari 1967 </br>Didirikalah sekolah Menengah Pertama Kristen Pirngadi (SMP)
                                                    </span>
                                                 </div>
                                             </li>
@@ -207,7 +207,7 @@ Bukti Pembayaran
                                                 </span>
                                                 <div class="gdlr-core-icon-list-content-wrap">
                                                     <span class="gdlr-core-icon-list-content" style="font-size: 17px;">
-                                                        Pendirian : 01 Agustus 1957 </br>Didirikanlah sekolah Taman Kanak-kanak Kristen Pirngadi (TK)
+                                                        Pendirian : 01 Juni 1978 </br>Didirikanlah sekolah Menengah Atas Kristen Pirngadi (SMA)
                                                    </span>
                                                 </div>
                                             </li>

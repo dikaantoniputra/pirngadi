@@ -72,7 +72,7 @@
                                                 </li>
                                                 <li class="menu-item kingster-normal-menu"><a href="kontak-pirngadi">E-Spp</a></li>
                                                 <li class="menu-item kingster-normal-menu"><a href="kontak-pirngadi">E-Rapot</a></li>
-                           
+
                         </ul>
                     </div>
                 </div>
