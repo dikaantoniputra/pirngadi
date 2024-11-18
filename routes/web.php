@@ -12,23 +12,19 @@ use Illuminate\Support\Facades\Route;
 | contains the "web" middleware group. Now create something great!
 |
 */
-
+// halaman utama
 Route::get('/', function () {
     return view('landing.page.index');
 });
 
-Route::get('/tentang-pirngadi', function () {
-    return view('landing.page.about');
+Route::get('/info', function () {
+    return view('landing.page.modalinfo');
 });
 
-Route::get('/kontak-pirngadi', function () {
-    return view('landing.page.contact');
-});
 
-Route::get('/visi-misi-pirngadi', function () {
-    return view('landing.page.visi_misi');
-});
+// end 
 
-Route::get('/pengembangan-pirngadi', function () {
-    return view('landing.page.maintace');
+// 
+Route::get('/admin/index', function () {
+    return view('admin.page.index');
 });

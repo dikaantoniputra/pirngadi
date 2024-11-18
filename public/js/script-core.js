@@ -990,32 +990,31 @@
 			}
 		});
 
-		$('#kingster-top-search, #kingster-mobile-top-search').each(function(){
+		$('#kingster-top-search, #kingster-mobile-top-search').each(function () {
 
 			var search_wrap = $(this).siblings('.kingster-top-search-wrap');
 			search_wrap.appendTo('body');
-
-			// bind click button
-			$(this).on('click', function(){
-				search_wrap.fadeIn(200, function(){
-					$(this).addClass('kingster-active');
+		
+			// Langsung tampilkan elemen tanpa klik
+			search_wrap.fadeIn(0, function () {
+				$(this).addClass('kingster-active');
+			});
+		
+			// Bind close button (opsional, jika ingin menutup elemen dengan tombol close)
+			search_wrap.find('.kingster-top-search-close').on('click', function () {
+				search_wrap.fadeOut(200, function () {
+					$(this).removeClass('kingster-active');
 				});
 			});
-
-			// bind close button
-			search_wrap.find('.kingster-top-search-close').on('click', function(){
-				search_wrap.fadeOut(200, function(){
-					$(this).addClass('kingster-active');
-				});
-			});
-
-			// bind search button
-			search_wrap.find('.search-submit').on('click', function(){
-				if( search_wrap.find('.search-field').val().length == 0 ){
+		
+			// Bind search button
+			search_wrap.find('.search-submit').on('click', function () {
+				if (search_wrap.find('.search-field').val().length == 0) {
 					return false;
 				}
 			});
 		});
+		
 
 		$('#kingster-main-menu-cart, #kingster-mobile-menu-cart').each(function(){
 			

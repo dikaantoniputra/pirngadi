@@ -1,364 +1,830 @@
-@extends('layout.master')
+@extends('admin.layout.master')
 
 @push('after-style')
-<link href="{{ asset('') }}assets/libs/datatables.net-bs5/css/dataTables.bootstrap5.min.css" rel="stylesheet" type="text/css" />
-<link href="{{ asset('') }}assets/libs/datatables.net-responsive-bs5/css/responsive.bootstrap5.min.css" rel="stylesheet" type="text/css" />
-<link href="{{ asset('') }}assets/libs/datatables.net-buttons-bs5/css/buttons.bootstrap5.min.css" rel="stylesheet" type="text/css" />
-<link href="{{ asset('') }}assets/libs/datatables.net-select-bs5/css//select.bootstrap5.min.css" rel="stylesheet" type="text/css" />
+
 @endpush
 
 @section('content')
-
-<div class="row">
-
-    <div class="col-xl-3 col-md-6">
-        <div class="card">
-            <div class="card-body">
-               
-
-                <h4 class="header-title mt-0 mb-4">Siswa SMA</h4>
-
-                <div class="widget-chart-1">
-                    <div class="widget-chart-box-1 float-start" dir="ltr">
-                        <input data-plugin="knob" data-width="70" data-height="70" data-fgColor="#f05050 "
-                               data-bgColor="#F9B9B9" value="{{ $countsiswaSma }}"
-                               data-skin="tron" data-angleOffset="180" data-readOnly=true
-                               data-thickness=".15"/>
+<div class="main-content">
+    <!--breadcrumb-->
+              <div class="page-breadcrumb d-none d-sm-flex align-items-center mb-3">
+                  <div class="breadcrumb-title pe-3">Dashboard</div>
+                  <div class="ps-3">
+                      <nav aria-label="breadcrumb">
+                          <ol class="breadcrumb mb-0 p-0">
+                              <li class="breadcrumb-item"><a href="javascript:;"><i class="bx bx-home-alt"></i></a>
+                              </li>
+                              <li class="breadcrumb-item active" aria-current="page">Analysis</li>
+                          </ol>
+                      </nav>
+                  </div>
+                  <div class="ms-auto">
+                      <div class="btn-group">
+                          <button type="button" class="btn btn-outline-primary">Settings</button>
+                          <button type="button" class="btn btn-outline-primary split-bg-primary dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown">	<span class="visually-hidden">Toggle Dropdown</span>
+                          </button>
+                          <div class="dropdown-menu dropdown-menu-right dropdown-menu-lg-end">	<a class="dropdown-item" href="javascript:;">Action</a>
+                              <a class="dropdown-item" href="javascript:;">Another action</a>
+                              <a class="dropdown-item" href="javascript:;">Something else here</a>
+                              <div class="dropdown-divider"></div>	<a class="dropdown-item" href="javascript:;">Separated link</a>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+              <!--end breadcrumb-->
+   
+      <div class="row">
+        <div class="col-xxl-8 d-flex align-items-stretch">
+          <div class="card w-100 overflow-hidden rounded-4">
+            <div class="card-body position-relative p-4">
+              <div class="row">
+                <div class="col-12 col-sm-7">
+                  <div class="d-flex align-items-center gap-3 mb-5">
+                    <img src="{{ asset('') }}assets/images/avatars/01.png" class="rounded-circle bg-grd-info p-1"  width="60" height="60" alt="user">
+                    <div class="">
+                      <p class="mb-0 fw-semibold">Welcome back</p>
+                      <h4 class="fw-semibold mb-0 fs-4 mb-0">Jhon Anderson!</h4>
                     </div>
-
-                    <div class="widget-detail-1 text-end">
-                        <h2 class="fw-normal pt-2 mb-1">{{ $countsiswaSma }}</h2>
-                        <p class="text-muted mb-1">Jumlah</p>
+                  </div>
+                  <div class="d-flex align-items-center gap-5">
+                    <div class="">
+                      <h4 class="mb-1 fw-semibold d-flex align-content-center">$65.4K<i class="ti ti-arrow-up-right fs-5 lh-base text-success"></i>
+                      </h4>
+                      <p class="mb-3">Today's Sales</p>
+                      <div class="progress mb-0" style="height:5px;">
+                        <div class="progress-bar bg-grd-success" role="progressbar" style="width: 60%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                      </div>
                     </div>
+                    <div class="vr"></div>
+                    <div class="">
+                      <h4 class="mb-1 fw-semibold d-flex align-content-center">78.4%<i class="ti ti-arrow-up-right fs-5 lh-base text-success"></i>
+                      </h4>
+                      <p class="mb-3">Growth Rate</p>
+                      <div class="progress mb-0" style="height:5px;">
+                        <div class="progress-bar bg-grd-danger" role="progressbar" style="width: 60%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                      </div>
+                    </div>
+                  </div>
                 </div>
-            </div>
-        </div>
-    </div><!-- end col -->
-
-    <div class="col-xl-3 col-md-6">
-        <div class="card">
-            <div class="card-body">
-               
-
-                <h4 class="header-title mt-0 mb-4">Siswa SMP</h4>
-
-                <div class="widget-chart-1">
-                    <div class="widget-chart-box-1 float-start" dir="ltr">
-                        <input data-plugin="knob" data-width="70" data-height="70" data-fgColor="#f05050 "
-                               data-bgColor="#F9B9B9" value="{{ $countsiswaSmp }}"
-                               data-skin="tron" data-angleOffset="180" data-readOnly=true
-                               data-thickness=".15"/>
-                    </div>
-
-                    <div class="widget-detail-1 text-end">
-                        <h2 class="fw-normal pt-2 mb-1">{{ $countsiswaSmp }}</h2>
-                        <p class="text-muted mb-1">Jumlah</p>
-                    </div>
+                <div class="col-12 col-sm-5">
+                  <div class="welcome-back-img pt-4">
+                     <img src="{{ asset('') }}assets/images/gallery/welcome-back-3.png" height="180" alt="">
+                  </div>
                 </div>
+              </div><!--end row-->
             </div>
+          </div>
         </div>
-    </div><!-- end col -->
-
-    <div class="col-xl-3 col-md-6">
-        <div class="card">
+        <div class="col-xl-6 col-xxl-2 d-flex align-items-stretch">
+          <div class="card w-100 rounded-4">
             <div class="card-body">
-               
-
-                <h4 class="header-title mt-0 mb-4">Siswa SD</h4>
-
-                <div class="widget-chart-1">
-                    <div class="widget-chart-box-1 float-start" dir="ltr">
-                        <input data-plugin="knob" data-width="70" data-height="70" data-fgColor="#f05050 "
-                               data-bgColor="#F9B9B9" value="{{ $countsiswaSd }}"
-                               data-skin="tron" data-angleOffset="180" data-readOnly=true
-                               data-thickness=".15"/>
-                    </div>
-
-                    <div class="widget-detail-1 text-end">
-                        <h2 class="fw-normal pt-2 mb-1">{{ $countsiswaSd }}</h2>
-                        <p class="text-muted mb-1">Jumlah</p>
-                    </div>
+              <div class="d-flex align-items-start justify-content-between mb-1">
+                <div class="">
+                  <h5 class="mb-0">42.5K</h5>
+                  <p class="mb-0">Active Users</p>
                 </div>
-            </div>
-        </div>
-    </div><!-- end col -->
-
-    <div class="col-xl-3 col-md-6">
-        <div class="card">
-            <div class="card-body">
-               
-
-                <h4 class="header-title mt-0 mb-4">Siswa TK</h4>
-
-                <div class="widget-chart-1">
-                    <div class="widget-chart-box-1 float-start" dir="ltr">
-                        <input data-plugin="knob" data-width="70" data-height="70" data-fgColor="#f05050 "
-                               data-bgColor="#F9B9B9" value="{{ $countsiswaTk }}"
-                               data-skin="tron" data-angleOffset="180" data-readOnly=true
-                               data-thickness=".15"/>
-                    </div>
-
-                    <div class="widget-detail-1 text-end">
-                        <h2 class="fw-normal pt-2 mb-1">{{ $countsiswaTk }}</h2>
-                        <p class="text-muted mb-1">Jumlah</p>
-                    </div>
+                <div class="dropdown">
+                  <a href="javascript:;" class="dropdown-toggle-nocaret options dropdown-toggle"
+                    data-bs-toggle="dropdown">
+                    <span class="material-icons-outlined fs-5">more_vert</span>
+                  </a>
+                  <ul class="dropdown-menu">
+                    <li><a class="dropdown-item" href="javascript:;">Action</a></li>
+                    <li><a class="dropdown-item" href="javascript:;">Another action</a></li>
+                    <li><a class="dropdown-item" href="javascript:;">Something else here</a></li>
+                  </ul>
                 </div>
+              </div>
+              <div class="chart-container2">
+                <div id="chart1"></div>
+              </div>
+              <div class="text-center">
+                <p class="mb-0 font-12">24K users increased from last month</p>
+              </div>
             </div>
+          </div>
         </div>
-    </div><!-- end col -->
-
-    <div class="col-xl-3 col-md-6">
-        <div class="card">
+        <div class="col-xl-6 col-xxl-2 d-flex align-items-stretch">
+          <div class="card w-100 rounded-4">
             <div class="card-body">
-             
-
-                <h4 class="header-title mt-0 mb-3">SPP SMA <span id="currentMonth"></span></h4>
-
-
-                <div class="widget-box-2">
-                    <div class="widget-detail-2 text-end">
-                        <span class="badge bg-success rounded-pill float-start mt-3">32% <i class="mdi mdi-trending-up"></i> </span>
-                        <h2 class="fw-normal mb-1">{{ 'Rp ' . number_format($totalNominalBayarSMA, 0, ',', '.') }}</h2>
-                        <p class="text-muted mb-3">Nominal </p>
-                    </div>
-                    <span>*Catata: Pendapatan Awal bulan dan Akhir bulan</span>
+              <div class="d-flex align-items-start justify-content-between mb-3">
+                <div class="">
+                  <h5 class="mb-0">97.4K</h5>
+                  <p class="mb-0">Total Users</p>
                 </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="col-xl-3 col-md-6">
-        <div class="card">
-            <div class="card-body">
-             
-
-                <h4 class="header-title mt-0 mb-3">SPP SMP <span id="currentMonth"></span></h4>
-
-
-                <div class="widget-box-2">
-                    <div class="widget-detail-2 text-end">
-                        <span class="badge bg-success rounded-pill float-start mt-3">32% <i class="mdi mdi-trending-up"></i> </span>
-                        <h2 class="fw-normal mb-1">{{ 'Rp ' . number_format($totalNominalBayarSMP, 0, ',', '.') }}</h2>
-                        <p class="text-muted mb-3">Nominal </p>
-                    </div>
-                    <span>*Catata: Pendapatan Awal bulan dan Akhir bulan</span>
+                <div class="dropdown">
+                  <a href="javascript:;" class="dropdown-toggle-nocaret options dropdown-toggle"
+                    data-bs-toggle="dropdown">
+                    <span class="material-icons-outlined fs-5">more_vert</span>
+                  </a>
+                  <ul class="dropdown-menu">
+                    <li><a class="dropdown-item" href="javascript:;">Action</a></li>
+                    <li><a class="dropdown-item" href="javascript:;">Another action</a></li>
+                    <li><a class="dropdown-item" href="javascript:;">Something else here</a></li>
+                  </ul>
                 </div>
+              </div>
+              <div class="chart-container2">
+                <div id="chart2"></div>
+              </div>
+              <div class="text-center">
+                <p class="mb-0 font-12"><span class="text-success me-1">12.5%</span> from last month</p>
+              </div>
             </div>
+          </div>
         </div>
-    </div>
-
-    <div class="col-xl-3 col-md-6">
-        <div class="card">
+        <div class="col-xl-6 col-xxl-4 d-flex align-items-stretch">
+          <div class="card w-100 rounded-4">
             <div class="card-body">
-             
-
-                <h4 class="header-title mt-0 mb-3">SPP SD <span id="currentMonth"></span></h4>
-
-
-                <div class="widget-box-2">
-                    <div class="widget-detail-2 text-end">
-                        <span class="badge bg-success rounded-pill float-start mt-3">32% <i class="mdi mdi-trending-up"></i> </span>
-                        <h2 class="fw-normal mb-1">{{ 'Rp ' . number_format($totalNominalBayarSD, 0, ',', '.') }}</h2>
-                        <p class="text-muted mb-3">Nominal </p>
-                    </div>
-                    <span>*Catata: Pendapatan Awal bulan dan Akhir bulan</span>
+              <div class="text-center">
+                <h6 class="mb-0">Monthly Revenue</h6>
+              </div>
+              <div class="mt-4" id="chart5"></div>
+              <p>Avrage monthly sale for every author</p>
+              <div class="d-flex align-items-center gap-3 mt-4">
+                <div class="">
+                  <h1 class="mb-0 text-primary">68.9%</h1>
                 </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="col-xl-3 col-md-6">
-        <div class="card">
-            <div class="card-body">
-             
-
-                <h4 class="header-title mt-0 mb-3">SPP TK <span id="currentMonth"></span></h4>
-
-
-                <div class="widget-box-2">
-                    <div class="widget-detail-2 text-end">
-                        <span class="badge bg-success rounded-pill float-start mt-3">32% <i class="mdi mdi-trending-up"></i> </span>
-                        <h2 class="fw-normal mb-1">{{ 'Rp ' . number_format($totalNominalBayarTK, 0, ',', '.') }}</h2>
-                        <p class="text-muted mb-3">Nominal </p>
-                    </div>
-                    <span>*Catata: Pendapatan Awal bulan dan Akhir bulan</span>
+                <div class="d-flex align-items-center align-self-end">
+                  <p class="mb-0 text-success">34.5%</p>
+                  <span class="material-icons-outlined text-success">expand_less</span>
                 </div>
+              </div>
             </div>
+          </div>
         </div>
-    </div>
-
-
-
-
-
-</div>
-
-
-<div class="row">
-    <div class="col-12">
-        <div class="card">
+        <div class="col-xl-6 col-xxl-4 d-flex align-items-stretch">
+          <div class="card w-100 rounded-4">
             <div class="card-body">
-                <!-- Date Range Filter -->
-        
-                <h4>Transaksi Pada Bulan Sekarang</h4>
-                <table id="datatable-buttons" class="table table-striped table-bordered dt-responsive nowrap">
-                    <thead>
-                    <tr>
-                        <th>No</th>
-                        <th>Tgl-Transaksi</th>
-                        <th>No Va</th>
-                        <th>Siswa</th>
-                        <th>Kelas</th>
-                        <th>Type Pembayaran</th>
-                        <th>Bulan</th>
-                        <th>Nominal</th>
-                        <th>Keterangan</th>
-                        <th>Deskripsi</th>
-                    </tr>
-                    </thead>
+              <div class="d-flex flex-column gap-3">
+                <div class="d-flex align-items-start justify-content-between">
+                  <div class="">
+                    <h5 class="mb-0">Device Type</h5>
+                  </div>
+                  <div class="dropdown">
+                    <a href="javascript:;" class="dropdown-toggle-nocaret options dropdown-toggle"
+                      data-bs-toggle="dropdown">
+                      <span class="material-icons-outlined fs-5">more_vert</span>
+                    </a>
+                    <ul class="dropdown-menu">
+                      <li><a class="dropdown-item" href="javascript:;">Action</a></li>
+                      <li><a class="dropdown-item" href="javascript:;">Another action</a></li>
+                      <li><a class="dropdown-item" href="javascript:;">Something else here</a></li>
+                    </ul>
+                  </div>
+                </div>
+                <div class="position-relative">
+                  <div class="piechart-legend">
+                    <h2 class="mb-1">68%</h2>
+                    <h6 class="mb-0">Total Views</h6>
+                  </div>
+                  <div id="chart6"></div>
+                </div>
+                <div class="d-flex flex-column gap-3">
+                  <div class="d-flex align-items-center justify-content-between">
+                    <p class="mb-0 d-flex align-items-center gap-2 w-25"><span
+                        class="material-icons-outlined fs-6 text-primary">desktop_windows</span>Desktop</p>
+                    <div class="">
+                      <p class="mb-0">35%</p>
+                    </div>
+                  </div>
+                  <div class="d-flex align-items-center justify-content-between">
+                    <p class="mb-0 d-flex align-items-center gap-2 w-25"><span
+                        class="material-icons-outlined fs-6 text-danger">tablet_mac</span>Tablet</p>
+                    <div class="">
+                      <p class="mb-0">48%</p>
+                    </div>
+                  </div>
+                  <div class="d-flex align-items-center justify-content-between">
+                    <p class="mb-0 d-flex align-items-center gap-2 w-25"><span
+                        class="material-icons-outlined fs-6 text-success">phone_android</span>Mobile</p>
+                    <div class="">
+                      <p class="mb-0">27%</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-xxl-4">
+          <div class="row">
+            <div class="col-md-6 d-flex align-items-stretch">
+              <div class="card w-100 rounded-4">
+                <div class="card-body">
+                  <div class="d-flex align-items-start justify-content-between mb-1">
+                    <div class="">
+                      <h5 class="mb-0">82.7K</h5>
+                      <p class="mb-0">Total Clicks</p>
+                    </div>
+                    <div class="dropdown">
+                      <a href="javascript:;" class="dropdown-toggle-nocaret options dropdown-toggle"
+                        data-bs-toggle="dropdown">
+                        <span class="material-icons-outlined fs-5">more_vert</span>
+                      </a>
+                      <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="javascript:;">Action</a></li>
+                        <li><a class="dropdown-item" href="javascript:;">Another action</a></li>
+                        <li><a class="dropdown-item" href="javascript:;">Something else here</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div class="chart-container2">
+                    <div id="chart3"></div>
+                  </div>
+                  <div class="text-center">
+                    <p class="mb-0 font-12"><span class="text-success me-1">12.5%</span> from last month</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-sm-6 d-flex align-items-stretch">
+              <div class="card w-100 rounded-4">
+                <div class="card-body">
+                  <div class="d-flex align-items-start justify-content-between mb-1">
+                    <div class="">
+                      <h5 class="mb-0">68.4K</h5>
+                      <p class="mb-0">Total Views</p>
+                    </div>
+                    <div class="dropdown">
+                      <a href="javascript:;" class="dropdown-toggle-nocaret options dropdown-toggle"
+                        data-bs-toggle="dropdown">
+                        <span class="material-icons-outlined fs-5">more_vert</span>
+                      </a>
+                      <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="javascript:;">Action</a></li>
+                        <li><a class="dropdown-item" href="javascript:;">Another action</a></li>
+                        <li><a class="dropdown-item" href="javascript:;">Something else here</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div class="chart-container2">
+                    <div id="chart4"></div>
+                  </div>
+                  <div class="text-center">
+                    <p class="mb-0 font-12">35K users increased from last month</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="card rounded-4">
+            <div class="card-body">
+              <div class="d-flex align-items-center gap-3 mb-2">
+                <div class="">
+                  <h3 class="mb-0">85,247</h3>
+                </div>
+                <div class="flex-grow-0">
+                  <p
+                    class="dash-lable d-flex align-items-center gap-1 rounded mb-0 bg-success text-success bg-opacity-10">
+                    <span class="material-icons-outlined fs-6">arrow_downward</span>23.7%
+                  </p>
+                </div>
+              </div>
+              <p class="mb-0">Total Accounts</p>
+              <div id="chart7"></div>
+            </div>
+          </div>
+        </div>
+        <div class="col-xl-6 col-xxl-4 d-flex align-items-stretch">
+          <div class="card w-100 rounded-4">
+            <div class="card-body">
+              <div class="d-flex align-items-start justify-content-between mb-3">
+                <div class="">
+                  <h6 class="mb-0 fw-bold">Campaign Stats</h6>
+                </div>
+                <div class="dropdown">
+                  <a href="javascript:;" class="dropdown-toggle-nocaret options dropdown-toggle" data-bs-toggle="dropdown">
+                    <span class="material-icons-outlined fs-5">more_vert</span>
+                  </a>
+                  <ul class="dropdown-menu">
+                    <li><a class="dropdown-item" href="javascript:;">Action</a></li>
+                    <li><a class="dropdown-item" href="javascript:;">Another action</a></li>
+                    <li><a class="dropdown-item" href="javascript:;">Something else here</a></li>
+                  </ul>
+                </div>
+               </div>
 
-                    <tbody>
-                    @forelse ($transaksi as $transaksi)
-                    <tr>
-                        <td>{{ $loop->iteration }}</td>
-                        <td>{{ $transaksi->created_at ?? '' }}</td>
-                        <td>{{ $transaksi->tagihan->siswa->va_number ?? '' }}</td>
-                        <td>{{ $transaksi->tagihan->siswa->name ?? '' }}</td>
-                        <td>{{ $transaksi->tagihan->siswa->kelas ?? '' }}</td>
-                        <td>{{ $transaksi->type_pembayaran ?? '' }}</td>
-                        <td>{{ $transaksi->bulan ?? '' }}</td>
-                        <td>{{ $transaksi->nominal_bayar ?? '' }}</td>
-                        <td>{{ $transaksi->keterangan ?? '' }}</td>
-                        <td>{{ $transaksi->deskripsi ?? '' }}</td>
-                    </tr>
-                    @empty
-                        <div>
-                            Data Kosong
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item px-0 bg-transparent">
+                      <div class="d-flex align-items-center gap-3">
+                        <div class="wh-42 d-flex align-items-center justify-content-center rounded-3 bg-grd-primary">
+                          <span class="material-icons-outlined text-white">calendar_today</span>
                         </div>
-                    @endforelse
-                    </tbody>
-                </table>
-                <div>
-                    <h4 id="total-before-filter">Total Semua Pendapatan: 0</h4>
-                    <h4 id="total-after-filter">Total Hasil Filter: 0</h4>
-                </div>
+                        <div class="flex-grow-1">
+                          <h6 class="mb-0">Campaigns</h6>
+                        </div>
+                        <div class="d-flex align-items-center gap-3">
+                          <p class="mb-0">54</p>
+                          <p class="mb-0 fw-bold text-success">28%</p>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="list-group-item px-0 bg-transparent">
+                      <div class="d-flex align-items-center gap-3">
+                        <div class="wh-42 d-flex align-items-center justify-content-center rounded-3 bg-grd-success">
+                          <span class="material-icons-outlined text-white">email</span>
+                        </div>
+                        <div class="flex-grow-1">
+                          <h6 class="mb-0">Emailed</h6>
+                        </div>
+                        <div class="d-flex align-items-center gap-3">
+                          <p class="mb-0">245</p>
+                          <p class="mb-0 fw-bold text-danger">15%</p>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="list-group-item px-0 bg-transparent">
+                      <div class="d-flex align-items-center gap-3">
+                        <div class="wh-42 d-flex align-items-center justify-content-center rounded-3 bg-grd-branding">
+                          <span class="material-icons-outlined text-white">open_in_new</span>
+                        </div>
+                        <div class="flex-grow-1">
+                          <h6 class="mb-0">Opened</h6>
+                        </div>
+                        <div class="d-flex align-items-center gap-3">
+                          <p class="mb-0">54</p>
+                          <p class="mb-0 fw-bold text-success">30.5%</p>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="list-group-item px-0 bg-transparent">
+                      <div class="d-flex align-items-center gap-3">
+                        <div class="wh-42 d-flex align-items-center justify-content-center rounded-3 bg-grd-warning">
+                          <span class="material-icons-outlined text-white">ads_click</span>
+                        </div>
+                        <div class="flex-grow-1">
+                          <h6 class="mb-0">Clicked</h6>
+                        </div>
+                        <div class="d-flex align-items-center gap-3">
+                          <p class="mb-0">859</p>
+                          <p class="mb-0 fw-bold text-danger">34.6%</p>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="list-group-item px-0 bg-transparent">
+                      <div class="d-flex align-items-center gap-3">
+                        <div class="wh-42 d-flex align-items-center justify-content-center rounded-3 bg-grd-info">
+                          <span class="material-icons-outlined text-white">subscriptions</span>
+                        </div>
+                        <div class="flex-grow-1">
+                          <h6 class="mb-0">Subscribed</h6>
+                        </div>
+                        <div class="d-flex align-items-center gap-3">
+                          <p class="mb-0">24,758</p>
+                          <p class="mb-0 fw-bold text-success">53%</p>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="list-group-item px-0 bg-transparent">
+                      <div class="d-flex align-items-center gap-3">
+                        <div class="wh-42 d-flex align-items-center justify-content-center rounded-3 bg-grd-danger">
+                          <span class="material-icons-outlined text-white">inbox</span>
+                        </div>
+                        <div class="flex-grow-1">
+                          <h6 class="mb-0">Spam Message</h6>
+                        </div>
+                        <div class="d-flex align-items-center gap-3">
+                          <p class="mb-0">548</p>
+                          <p class="mb-0 fw-bold text-danger">47%</p>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="list-group-item px-0 bg-transparent">
+                      <div class="d-flex align-items-center gap-3">
+                        <div class="wh-42 d-flex align-items-center justify-content-center rounded-3 bg-grd-deep-blue">
+                          <span class="material-icons-outlined text-white">visibility</span>
+                        </div>
+                        <div class="flex-grow-1">
+                          <h6 class="mb-0">Views Mails</h6>
+                        </div>
+                        <div class="d-flex align-items-center gap-3">
+                          <p class="mb-0">9845</p>
+                          <p class="mb-0 fw-bold text-success">68%</p>
+                        </div>
+                      </div>
+                    </li>
+                </ul>
+
             </div>
+          </div>
         </div>
-    </div>
-</div>
+        <div class="col-xl-6 col-xxl-4 d-flex align-items-stretch">
+          <div class="card w-100 rounded-4">
+            <div class="card-body">
+              <div id="chart8"></div>
+              <div class="d-flex align-items-center gap-3 mt-4">
+                <div class="">
+                  <h1 class="mb-0">36.7%</h1>
+                </div>
+                <div class="d-flex align-items-center align-self-end gap-2">
+                  <span class="material-icons-outlined text-success">trending_up</span>
+                  <p class="mb-0 text-success">34.5%</p>
+                </div>
+              </div>
+              <p class="mb-4">Visitors Growth</p>
+              <div class="d-flex flex-column gap-3">
+                <div class="">
+                  <p class="mb-1">Cliks <span class="float-end">2589</span></p>
+                  <div class="progress" style="height: 5px;">
+                    <div class="progress-bar bg-grd-primary" style="width: 65%"></div>
+                  </div>
+                </div>
+                <div class="">
+                  <p class="mb-1">Likes <span class="float-end">6748</span></p>
+                  <div class="progress" style="height: 5px;">
+                    <div class="progress-bar bg-grd-warning" style="width: 55%"></div>
+                  </div>
+                </div>
+                <div class="">
+                  <p class="mb-1">Upvotes <span class="float-end">9842</span></p>
+                  <div class="progress" style="height: 5px;">
+                    <div class="progress-bar bg-grd-info" style="width: 45%"></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-xl-6 col-xxl-4 d-flex align-items-stretch">
+          <div class="card w-100 rounded-4">
+            <div class="card-body">
+              <div class="d-flex align-items-start justify-content-between mb-3">
+                <div class="">
+                  <h5 class="mb-0 fw-bold">Social Leads</h5>
+                </div>
+                <div class="dropdown">
+                  <a href="javascript:;" class="dropdown-toggle-nocaret options dropdown-toggle"
+                    data-bs-toggle="dropdown">
+                    <span class="material-icons-outlined fs-5">more_vert</span>
+                  </a>
+                  <ul class="dropdown-menu">
+                    <li><a class="dropdown-item" href="javascript:;">Action</a></li>
+                    <li><a class="dropdown-item" href="javascript:;">Another action</a></li>
+                    <li><a class="dropdown-item" href="javascript:;">Something else here</a></li>
+                  </ul>
+                </div>
+               </div>
+              <div class="d-flex flex-column justify-content-between gap-4">
+                <div class="d-flex align-items-center gap-4">
+                  <div class="d-flex align-items-center gap-3 flex-grow-1">
+                    <img src="{{ asset('') }}assets/images/apps/17.png" width="32" alt="">
+                    <p class="mb-0">Facebook</p>
+                  </div>
+                  <div class="">
+                    <p class="mb-0 fs-6">55%</p>
+                  </div>
+                  <div class="">
+                    <p class="mb-0 data-attributes">
+                      <span
+                        data-peity='{ "fill": ["#0d6efd", "rgb(255 255 255 / 10%)"], "innerRadius": 14, "radius": 18 }'>5/7</span>
+                    </p>
+                  </div>
+                </div>
+                <div class="d-flex align-items-center gap-4">
+                  <div class="d-flex align-items-center gap-3 flex-grow-1">
+                    <img src="{{ asset('') }}assets/images/apps/18.png" width="32" alt="">
+                    <p class="mb-0">LinkedIn</p>
+                  </div>
+                  <div class="">
+                    <p class="mb-0 fs-6">67%</p>
+                  </div>
+                  <div class="">
+                    <p class="mb-0 data-attributes">
+                      <span
+                        data-peity='{ "fill": ["#fc185a", "rgb(255 255 255 / 10%)"], "innerRadius": 14, "radius": 18 }'>5/7</span>
+                    </p>
+                  </div>
+                </div>
+                <div class="d-flex align-items-center gap-4">
+                  <div class="d-flex align-items-center gap-3 flex-grow-1">
+                    <img src="{{ asset('') }}assets/images/apps/19.png" width="32" alt="">
+                    <p class="mb-0">Instagram</p>
+                  </div>
+                  <div class="">
+                    <p class="mb-0 fs-6">78%</p>
+                  </div>
+                  <div class="">
+                    <p class="mb-0 data-attributes">
+                      <span
+                        data-peity='{ "fill": ["#02c27a", "rgb(255 255 255 / 10%)"], "innerRadius": 14, "radius": 18 }'>5/7</span>
+                    </p>
+                  </div>
+                </div>
+                <div class="d-flex align-items-center gap-4">
+                  <div class="d-flex align-items-center gap-3 flex-grow-1">
+                    <img src="{{ asset('') }}assets/images/apps/20.png" width="32" alt="">
+                    <p class="mb-0">Snapchat</p>
+                  </div>
+                  <div class="">
+                    <p class="mb-0 fs-6">46%</p>
+                  </div>
+                  <div class="">
+                    <p class="mb-0 data-attributes">
+                      <span
+                        data-peity='{ "fill": ["#fd7e14", "rgb(255 255 255 / 10%)"], "innerRadius": 14, "radius": 18 }'>5/7</span>
+                    </p>
+                  </div>
+                </div>
+                <div class="d-flex align-items-center gap-4">
+                  <div class="d-flex align-items-center gap-3 flex-grow-1">
+                    <img src="{{ asset('') }}assets/images/apps/05.png" width="32" alt="">
+                    <p class="mb-0">Google</p>
+                  </div>
+                  <div class="">
+                    <p class="mb-0 fs-6">38%</p>
+                  </div>
+                  <div class="">
+                    <p class="mb-0 data-attributes">
+                      <span
+                        data-peity='{ "fill": ["#0dcaf0", "rgb(255 255 255 / 10%)"], "innerRadius": 14, "radius": 18 }'>5/7</span>
+                    </p>
+                  </div>
+                </div>
+                <div class="d-flex align-items-center gap-4">
+                  <div class="d-flex align-items-center gap-3 flex-grow-1">
+                    <img src="{{ asset('') }}assets/images/apps/08.png" width="32" alt="">
+                    <p class="mb-0">Altaba</p>
+                  </div>
+                  <div class="">
+                    <p class="mb-0 fs-6">15%</p>
+                  </div>
+                  <div class="">
+                    <p class="mb-0 data-attributes">
+                      <span
+                        data-peity='{ "fill": ["#6f42c1", "rgb(255 255 255 / 10%)"], "innerRadius": 14, "radius": 18 }'>5/7</span>
+                    </p>
+                  </div>
+                </div>
+                <div class="d-flex align-items-center gap-4">
+                  <div class="d-flex align-items-center gap-3 flex-grow-1">
+                    <img src="{{ asset('') }}assets/images/apps/07.png" width="32" alt="">
+                    <p class="mb-0">Spotify</p>
+                  </div>
+                  <div class="">
+                    <p class="mb-0 fs-6">12%</p>
+                  </div>
+                  <div class="">
+                    <p class="mb-0 data-attributes">
+                      <span
+                        data-peity='{ "fill": ["#ff00b3", "rgb(255 255 255 / 10%)"], "innerRadius": 14, "radius": 18 }'>5/7</span>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>  
+        </div>
+        <div class="col-xl-6 col-xxl-4 d-flex align-items-stretch">
+          <div class="card w-100 rounded-4">
+            <div class="card-header border-0 p-3 border-bottom">
+              <div class="d-flex align-items-start justify-content-between">
+                <div class="">
+                  <h5 class="mb-0">New Users</h5>
+                </div>
+                <div class="dropdown">
+                  <a href="javascript:;" class="dropdown-toggle-nocaret options dropdown-toggle" data-bs-toggle="dropdown">
+                    <span class="material-icons-outlined fs-5">more_vert</span>
+                  </a>
+                  <ul class="dropdown-menu">
+                    <li><a class="dropdown-item" href="javascript:;">Action</a></li>
+                    <li><a class="dropdown-item" href="javascript:;">Another action</a></li>
+                    <li><a class="dropdown-item" href="javascript:;">Something else here</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="card-body p-0">
+              <div class="user-list p-3">
+                <div class="d-flex flex-column gap-3">
+                  <div class="d-flex align-items-center gap-3">
+                    <img src="{{ asset('') }}assets/images/avatars/01.png" width="45" height="45" class="rounded-circle" alt="">
+                    <div class="flex-grow-1">
+                      <h6 class="mb-0">Elon Jonado</h6>
+                      <p class="mb-0">elon_deo</p>
+                    </div>
+                    <div class="form-check form-check-inline me-0">
+                      <input class="form-check-input ms-0" type="checkbox">
+                    </div>
+                  </div>
+                  <div class="d-flex align-items-center gap-3">
+                    <img src="{{ asset('') }}assets/images/avatars/02.png" width="45" height="45" class="rounded-circle" alt="">
+                    <div class="flex-grow-1">
+                      <h6 class="mb-0">Alexzender Clito</h6>
+                      <p class="mb-0">zli_alexzender</p>
+                    </div>
+                    <div class="form-check form-check-inline me-0">
+                      <input class="form-check-input ms-0" type="checkbox">
+                    </div>
+                  </div>
+                  <div class="d-flex align-items-center gap-3">
+                    <img src="{{ asset('') }}assets/images/avatars/03.png" width="45" height="45" class="rounded-circle" alt="">
+                    <div class="flex-grow-1">
+                      <h6 class="mb-0">Michle Tinko</h6>
+                      <p class="mb-0">tinko_michle</p>
+                    </div>
+                    <div class="form-check form-check-inline me-0">
+                      <input class="form-check-input ms-0" type="checkbox">
+                    </div>
+                  </div>
+                  <div class="d-flex align-items-center gap-3">
+                    <img src="{{ asset('') }}assets/images/avatars/04.png" width="45" height="45" class="rounded-circle" alt="">
+                    <div class="flex-grow-1">
+                      <h6 class="mb-0">KailWemba</h6>
+                      <p class="mb-0">wemba_kl</p>
+                    </div>
+                    <div class="form-check form-check-inline me-0">
+                      <input class="form-check-input ms-0" type="checkbox">
+                    </div>
+                  </div>
+                  <div class="d-flex align-items-center gap-3">
+                    <img src="{{ asset('') }}assets/images/avatars/05.png" width="45" height="45" class="rounded-circle" alt="">
+                    <div class="flex-grow-1">
+                      <h6 class="mb-0">Henhco Tino</h6>
+                      <p class="mb-0">Henhco_tino</p>
+                    </div>
+                    <div class="form-check form-check-inline me-0">
+                      <input class="form-check-input ms-0" type="checkbox">
+                    </div>
+                  </div>
+                  <div class="d-flex align-items-center gap-3">
+                    <img src="{{ asset('') }}assets/images/avatars/06.png" width="45" height="45" class="rounded-circle" alt="">
+                    <div class="flex-grow-1">
+                      <h6 class="mb-0">Gonjiko Fernando</h6>
+                      <p class="mb-0">gonjiko_fernando</p>
+                    </div>
+                    <div class="form-check form-check-inline me-0">
+                      <input class="form-check-input ms-0" type="checkbox">
+                    </div>
+                  </div>
+                  <div class="d-flex align-items-center gap-3">
+                    <img src="{{ asset('') }}assets/images/avatars/08.png" width="45" height="45" class="rounded-circle" alt="">
+                    <div class="flex-grow-1">
+                      <h6 class="mb-0">Specer Kilo</h6>
+                      <p class="mb-0">specer_kilo</p>
+                    </div>
+                    <div class="form-check form-check-inline me-0">
+                      <input class="form-check-input ms-0" type="checkbox">
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="card-footer bg-transparent p-3">
+              <div class="d-flex align-items-center justify-content-between gap-3">
+                <a href="javascript:;" class="sharelink"><i class="material-icons-outlined">share</i></a>
+                <a href="javascript:;" class="sharelink"><i class="material-icons-outlined">textsms</i></a>
+                <a href="javascript:;" class="sharelink"><i class="material-icons-outlined">email</i></a>
+                <a href="javascript:;" class="sharelink"><i class="material-icons-outlined">attach_file</i></a>
+                <a href="javascript:;" class="sharelink"><i class="material-icons-outlined">event</i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-12 col-xxl-8 d-flex align-items-stretch">
+          <div class="card w-100 rounded-4">
+            <div class="card-body">
+             <div class="d-flex align-items-start justify-content-between mb-3">
+                <div class="">
+                  <h5 class="mb-0">Recent Orders</h5>
+                </div>
+                <div class="dropdown">
+                  <a href="javascript:;" class="dropdown-toggle-nocaret options dropdown-toggle"
+                    data-bs-toggle="dropdown">
+                    <span class="material-icons-outlined fs-5">more_vert</span>
+                  </a>
+                  <ul class="dropdown-menu">
+                    <li><a class="dropdown-item" href="javascript:;">Action</a></li>
+                    <li><a class="dropdown-item" href="javascript:;">Another action</a></li>
+                    <li><a class="dropdown-item" href="javascript:;">Something else here</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="order-search position-relative my-3">
+                <input class="form-control rounded-5 px-5" type="text" placeholder="Search">
+                <span class="material-icons-outlined position-absolute ms-3 translate-middle-y start-0 top-50">search</span>
+              </div>
+               <div class="table-responsive">
+                   <table class="table align-middle">
+                     <thead>
+                      <tr>
+                        <th>Item Name</th>
+                        <th>Amount</th>
+                        <th>Vendor</th>
+                        <th>Status</th>
+                        <th>Rating</th>
+                      </tr>
+                     </thead>
+                      <tbody>
+                        <tr>
+                          <td>
+                            <div class="d-flex align-items-center gap-3">
+                               <div class="">
+                                  <img src="{{ asset('') }}assets/images/top-products/01.png" class="rounded-circle" width="50" height="50" alt="">
+                               </div>
+                               <p class="mb-0">Sports Shoes</p>
+                            </div>
+                          </td>
+                          <td>$149</td>
+                          <td>Julia Sunota</td>
+                          <td><p class="dash-lable mb-0 bg-success bg-opacity-10 text-success rounded-2">Completed</p></td>
+                          <td>
+                            <div class="d-flex align-items-center gap-1">
+                              <p class="mb-0">5.0</p>
+                              <i class="material-icons-outlined text-warning fs-6">star</i>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
+                            <div class="d-flex align-items-center gap-3">
+                               <div class="">
+                                  <img src="{{ asset('') }}assets/images/top-products/02.png" class="rounded-circle" width="50" height="50" alt="">
+                               </div>
+                               <p class="mb-0">Goldan Watch</p>
+                            </div>
+                          </td>
+                          <td>$168</td>
+                          <td>Julia Sunota</td>
+                          <td><p class="dash-lable mb-0 bg-success bg-opacity-10 text-success rounded-2">Completed</p></td>
+                          <td>
+                            <div class="d-flex align-items-center gap-1">
+                              <p class="mb-0">5.0</p>
+                              <i class="material-icons-outlined text-warning fs-6">star</i>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
+                            <div class="d-flex align-items-center gap-3">
+                               <div class="">
+                                  <img src="{{ asset('') }}assets/images/top-products/03.png" class="rounded-circle" width="50" height="50" alt="">
+                               </div>
+                               <p class="mb-0">Men Polo Tshirt</p>
+                            </div>
+                          </td>
+                          <td>$124</td>
+                          <td>Julia Sunota</td>
+                          <td><p class="dash-lable mb-0 bg-warning bg-opacity-10 text-warning rounded-2">Pending</p></td>
+                          <td>
+                            <div class="d-flex align-items-center gap-1">
+                              <p class="mb-0">4.0</p>
+                              <i class="material-icons-outlined text-warning fs-6">star</i>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
+                            <div class="d-flex align-items-center gap-3">
+                               <div class="">
+                                  <img src="{{ asset('') }}assets/images/top-products/04.png" class="rounded-circle" width="50" height="50" alt="">
+                               </div>
+                               <p class="mb-0">Blue Jeans Casual</p>
+                            </div>
+                          </td>
+                          <td>$289</td>
+                          <td>Julia Sunota</td>
+                          <td><p class="dash-lable mb-0 bg-success bg-opacity-10 text-success rounded-2">Completed</p></td>
+                          <td>
+                            <div class="d-flex align-items-center gap-1">
+                              <p class="mb-0">3.0</p>
+                              <i class="material-icons-outlined text-warning fs-6">star</i>
+                            </div>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
+                            <div class="d-flex align-items-center gap-3">
+                               <div class="">
+                                  <img src="{{ asset('') }}assets/images/top-products/06.png" class="rounded-circle" width="50" height="50" alt="">
+                               </div>
+                               <p class="mb-0">Fancy Shirts</p>
+                            </div>
+                          </td>
+                          <td>$389</td>
+                          <td>Julia Sunota</td>
+                          <td><p class="dash-lable mb-0 bg-danger bg-opacity-10 text-danger rounded-2">Canceled</p></td>
+                          <td>
+                            <div class="d-flex align-items-center gap-1">
+                              <p class="mb-0">2.0</p>
+                              <i class="material-icons-outlined text-warning fs-6">star</i>
+                            </div>
+                          </td>
+                        </tr>
+
+                      </tbody>
+                   </table>
+               </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+  </div>
 
 @endsection
 
 @push('after-script')
 
-
-
-<script src="{{ asset('') }}assets/libs/datatables.net/js/jquery.dataTables.min.js"></script>
-<script src="{{ asset('') }}assets/libs/datatables.net-bs5/js/dataTables.bootstrap5.min.js"></script>
-<script src="{{ asset('') }}assets/libs/datatables.net-responsive/js/dataTables.responsive.min.js"></script>
-<script src="{{ asset('') }}assets/libs/datatables.net-responsive-bs5/js/responsive.bootstrap5.min.js"></script>
-<script src="{{ asset('') }}assets/libs/datatables.net-buttons/js/dataTables.buttons.min.js"></script>
-<script src="{{ asset('') }}assets/libs/datatables.net-buttons-bs5/js/buttons.bootstrap5.min.js"></script>
-<script src="{{ asset('') }}assets/libs/datatables.net-buttons/js/buttons.html5.min.js"></script>
-<script src="{{ asset('') }}assets/libs/datatables.net-buttons/js/buttons.flash.min.js"></script>
-<script src="{{ asset('') }}assets/libs/datatables.net-buttons/js/buttons.print.min.js"></script>
-<script src="{{ asset('') }}assets/libs/datatables.net-keytable/js/dataTables.keyTable.min.js"></script>
-<script src="{{ asset('') }}assets/libs/datatables.net-select/js/dataTables.select.min.js"></script>
-<script src="{{ asset('') }}assets/libs/pdfmake/build/pdfmake.min.js"></script>
-<script src="{{ asset('') }}assets/libs/pdfmake/build/vfs_fonts.js"></script>
-
-<script>
-    // Fungsi untuk mendapatkan nama bulan saat ini
-    const months = [
-        'Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni', 
-        'Juli', 'Agustus', 'September', 'Oktober', 'November', 'Desember'
-    ];
-
-    const currentMonth = new Date().getMonth();
-    document.getElementById('currentMonth').textContent = 'Pada bulan ' + months[currentMonth];
-</script>
-
-
-<!-- third party js ends -->
-<script>
-    $(document).ready(function() {
-      var table = $("#datatable-buttons").DataTable({
-          lengthChange: false,
-          dom: "Bfrtip",
-          buttons: [
-              {
-                  extend: "copy",
-                  text: "Copy",
-              },
-              {
-                  extend: "csv",
-                  text: "CSV",
-              },
-              {
-                  extend: "pdf",
-                  text: "PDF",
-                  orientation: "landscape",
-                  pageSize: "A4",
-                  customize: function (doc) {
-                      if (doc.pageOrientation !== "landscape") {
-                          doc.pageOrientation = "landscape";
-                      }
-                  }
-              }
-          ]
-      });
-  
-      table.buttons().container().appendTo("#datatable-buttons_wrapper .col-md-6:eq(0)");
-      $("#datatable_length select[name*='datatable_length']").addClass("form-select form-select-sm").removeClass("custom-select custom-select-sm");
-      $(".dataTables_length label").addClass("form-label");
-  
-      // Function to calculate total of nominal_bayar column
-      function calculateTotal() {
-          var total = 0;
-          table.rows({ filter: 'applied' }).every(function() {
-              var data = this.data();
-              var nominal = parseFloat(data[7]); // Index of nominal_bayar column
-              if (!isNaN(nominal)) {
-                  total += nominal;
-              }
-          });
-          return total;
-      }
-  
-      // Display total before filtering
-      $('#total-before-filter').text('Total Before Filter: ' + calculateTotal());
-  
-      // Update total after filtering
-      table.on('draw', function() {
-          $('#total-after-filter').text('Total After Filter: ' + calculateTotal());
-      });
-  
-      // Date Range Filter
-      $.fn.dataTable.ext.search.push(function(settings, data, dataIndex) {
-          var startDate = new Date($('#start_date').val());
-          var endDate = new Date($('#end_date').val());
-          var createdAt = new Date(data[1]);
-  
-          startDate.setHours(0, 0, 0, 0);
-          endDate.setHours(23, 59, 59, 999);
-          createdAt.setHours(0, 0, 0, 0);
-  
-          if (
-              (isNaN(startDate.getTime()) && isNaN(endDate.getTime())) ||
-              (isNaN(startDate.getTime()) && createdAt <= endDate) ||
-              (startDate <= createdAt && isNaN(endDate.getTime())) ||
-              (startDate <= createdAt && createdAt <= endDate)
-          ) {
-              return true;
-          }
-          return false;
-      });
-  
-      $('#start_date, #end_date').on('change', function() {
-          table.draw();
-      });
-  });
-  
-</script>
 
 @endpush

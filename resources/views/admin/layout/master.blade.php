@@ -3,77 +3,33 @@
 
 <head>
     @stack('before-style')
-    @include('include.head')
+    @include('admin.include.head')
     @stack('after-style')
 </head>
 
 <!-- body start -->
 
-<body class="loading" data-layout-mode="horizontal" data-layout-color="light" data-layout-size="fluid" data-topbar-color="dark" data-leftbar-position="fixed">
+<body>
 
-    <!-- Begin page -->
-    <div id="wrapper">
+       
+        @include('admin.include.navbar')
+        
+        @include('admin.include.leftsidebar')
+       
+        <main class="main-wrapper">
+            @yield('content')
+        </main>
 
-
-        <!-- Topbar Start -->
-        @include('include.navbar')
-        <!-- end Topbar -->
-
-        <!-- ========== Left Sidebar Start ========== -->
-        @include('include.leftsidebar')
-        <!-- Left Sidebar End -->
-
-        <!-- ============================================================== -->
-        <!-- Start Page Content here -->
-        <!-- ============================================================== -->
-
-        <div class="content-page">
-            <div class="content">
-
-                <!-- Start Content-->
-                <div class="container-fluid">
-
-                    <div class="row">
-                        <div class="col-12">
-                            <div class="page-title-box">
-                                <div class="page-title-right">
-                                    <ol class="breadcrumb m-0">
-                                        <li class="breadcrumb-item"><a href="javascript: void(0);">Pirngadi</a></li>
-                                        <li class="breadcrumb-item"><a href="javascript: void(0);">SPP</a></li>
-                                        <li class="breadcrumb-item active">Terbadu</li>
-                                    </ol>
-                                </div>
-                                <h4 class="page-title">Laporan SPP</h4>
-                            </div>
-                        </div>
-                    </div> 
-
-                    @yield('content')
-                </div> <!-- content -->
-
-                <!-- Footer Start -->
-                @include('include.footer')
-                <!-- end Footer -->
-    
-            </div>
-            <!-- ============================================================== -->
-            <!-- End Page content -->
-            <!-- ============================================================== -->
-    
-    
-        </div>
-
-    <!-- Right Sidebar -->
-    @include('include.rightsidebar')
-    <!-- /Right-bar -->
-
-    <!-- Right bar overlay-->
-    <div class="rightbar-overlay"></div>
-
-    <!-- Vendor -->
+        <div class="overlay btn-toggle"></div>
+        
+        @include('admin.include.footer')
+           
+        <!--start cart-->
+        @include('admin.include.rightsidebar')
+        <!--start switcher-->
 
     @stack('before-script')
-    @include('include.script')
+    @include('admin.include.script')
     @stack('after-script')
 
 
