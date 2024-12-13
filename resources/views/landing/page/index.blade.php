@@ -706,7 +706,7 @@
                                             <div class="gdlr-core-image-item-wrap gdlr-core-media-image gdlr-core-image-item-style-rectangle"
                                                 style="border-width: 0px;">
                                                 <img src="{{ asset('upload/upacara.jpg') }}" alt=""
-                                                    width="350" height="217" title="scholarship-student" />
+                                                    width="350" height="217" title="scholarship-PIRNGADI" />
                                             </div>
                                         </div>
                                     </div>
@@ -824,7 +824,7 @@
                                                                     <div
                                                                         class="gdlr-core-blog-thumbnail gdlr-core-media-image gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
                                                                         <a href="#">
-                                                                            <img src="upload/3454568-1-700x430.jpg"
+                                                                            <img src="{{ asset('flyer.png') }}"
                                                                                 alt="" width="700"
                                                                                 height="430" title="3454568" />
                                                                         </a>
@@ -834,126 +834,65 @@
                                                                             class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider">
                                                                             <span
                                                                                 class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">
-                                                                                <a href="#">June 6, 2016</a>
+                                                                                <a href="#">Jan 20. 2025</a>
                                                                             </span>
                                                                             <span
                                                                                 class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-tag">
                                                                                 <a href="#"
-                                                                                    rel="tag">Admission</a><span
+                                                                                    rel="tag">YBPPK</a><span
                                                                                     class="gdlr-core-sep">,</span> <a
                                                                                     href="#"
-                                                                                    rel="tag">Student</a>
+                                                                                    rel="tag">PIRNGADI</a>
                                                                             </span>
                                                                         </div>
                                                                         <h3 class="gdlr-core-blog-title gdlr-core-skin-title"
                                                                             style="font-size: 19px; font-weight: 700; letter-spacing: 0px;">
-                                                                            <a href="#">The Forum hosts a discussion
-                                                                                with Niall Ferguson</a>
+                                                                            <a href="#">Event Lomba Pirngadi Creative Future Fest</a>
                                                                         </h3>
-                                                                        <a class="gdlr-core-block-item-read-more"
+                                                                        {{-- <a class="gdlr-core-block-item-read-more"
                                                                             href="https://demo.goodlayers.com/kingster/blog-full-right-sidebar-with-frame/"
                                                                             target="_self" style="color: #3db166;">Read
-                                                                            All News</a>
+                                                                            All News</a> --}}
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                         <div class="gdlr-core-item-list-wrap gdlr-core-column-30">
-                                                            <div
-                                                                class="gdlr-core-item-list gdlr-core-blog-widget gdlr-core-item-mglr clearfix gdlr-core-style-small">
-                                                                <div
-                                                                    class="gdlr-core-blog-thumbnail gdlr-core-media-image gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                                                                    <a href="#">
-                                                                        <img src="upload/shutterstock_62838724-150x150.jpg"
-                                                                            alt="" width="150" height="150"
-                                                                            title="shutterstock_62838724" />
-                                                                    </a>
-                                                                </div>
-                                                                <div class="gdlr-core-blog-widget-content">
+                                                            <div class="gdlr-core-item-list-inner gdlr-core-item-mglr">
+                                                                <div class="gdlr-core-blog-grid">
                                                                     <div
-                                                                        class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider">
-                                                                        <span
-                                                                            class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">
-                                                                            <a href="#">June 6, 2016</a>
-                                                                        </span>
-                                                                        <span
-                                                                            class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-tag">
-                                                                            <a href="#" rel="tag">Hot</a><span
-                                                                                class="gdlr-core-sep">,</span> <a
-                                                                                href="#" rel="tag">Updates</a>
-                                                                        </span>
-                                                                    </div>
-                                                                    <h3 class="gdlr-core-blog-title gdlr-core-skin-title"
-                                                                        style="font-size: 16px; font-weight: 700; letter-spacing: 0px;">
-                                                                        <a href="#">Can Biology and Chemistry work to
-                                                                            save the world?</a>
-                                                                    </h3>
-                                                                </div>
-                                                            </div>
-                                                            <div
-                                                                class="gdlr-core-item-list gdlr-core-blog-widget gdlr-core-item-mglr clearfix gdlr-core-style-small">
-                                                                <div
-                                                                    class="gdlr-core-blog-thumbnail gdlr-core-media-image gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                                                                    <a href="#">
-                                                                        <img src="upload/shutterstock_1102460810-150x150.jpg"
-                                                                            alt="" width="150" height="150"
-                                                                            title="shutterstock_1102460810" />
-                                                                    </a>
-                                                                </div>
-                                                                <div class="gdlr-core-blog-widget-content">
-                                                                    <div
-                                                                        class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider">
-                                                                        <span
-                                                                            class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">
-                                                                            <a href="#">June 6, 2016</a>
-                                                                        </span>
-                                                                        <span
-                                                                            class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-tag">
-                                                                            <a href="#"
-                                                                                rel="tag">Admission</a><span
-                                                                                class="gdlr-core-sep">,</span> <a
-                                                                                href="#" rel="tag">Event</a>
-                                                                        </span>
-                                                                    </div>
-                                                                    <h3 class="gdlr-core-blog-title gdlr-core-skin-title"
-                                                                        style="font-size: 16px; font-weight: 700; letter-spacing: 0px;">
+                                                                        class="gdlr-core-blog-thumbnail gdlr-core-media-image gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
                                                                         <a href="#">
-                                                                            Professor Tom comments on voluntary recalls by
-                                                                            snack brands
+                                                                            <img src="{{ asset('poster.png') }}"
+                                                                                alt="" width="700"
+                                                                                height="430" title="3454568" />
                                                                         </a>
-                                                                    </h3>
-                                                                </div>
-                                                            </div>
-                                                            <div
-                                                                class="gdlr-core-item-list gdlr-core-blog-widget gdlr-core-item-mglr clearfix gdlr-core-style-small">
-                                                                <div
-                                                                    class="gdlr-core-blog-thumbnail gdlr-core-media-image gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                                                                    <a href="#">
-                                                                        <img src="upload/iStock-1093522584-150x150.jpg"
-                                                                            alt="" width="150" height="150"
-                                                                            title="iStock-1093522584" />
-                                                                    </a>
-                                                                </div>
-                                                                <div class="gdlr-core-blog-widget-content">
-                                                                    <div
-                                                                        class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider">
-                                                                        <span
-                                                                            class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">
-                                                                            <a href="#">June 6, 2016</a>
-                                                                        </span>
-                                                                        <span
-                                                                            class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-tag">
-                                                                            <a href="#"
-                                                                                rel="tag">Article</a><span
-                                                                                class="gdlr-core-sep">,</span> <a
-                                                                                href="#" rel="tag">Research</a>
-                                                                        </span>
                                                                     </div>
-                                                                    <h3 class="gdlr-core-blog-title gdlr-core-skin-title"
-                                                                        style="font-size: 16px; font-weight: 700; letter-spacing: 0px;">
-                                                                        <a href="#">Professor Alexa is interviewed
-                                                                            about Twitter&#8217;s valuation</a>
-                                                                    </h3>
+                                                                    <div class="gdlr-core-blog-grid-content-wrap">
+                                                                        <div
+                                                                            class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider">
+                                                                            <span
+                                                                                class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date">
+                                                                                <a href="#">Jan 20. 2025</a>
+                                                                            </span>
+                                                                            <span
+                                                                                class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-tag">
+                                                                                <a href="#"
+                                                                                    rel="tag">YBPPK</a><span
+                                                                                    class="gdlr-core-sep">,</span> <a
+                                                                                    href="#"
+                                                                                    rel="tag">PIRNGADI</a>
+                                                                            </span>
+                                                                        </div>
+                                                                        <h3 class="gdlr-core-blog-title gdlr-core-skin-title"
+                                                                            style="font-size: 19px; font-weight: 700; letter-spacing: 0px;">
+                                                                            <a href="#">Pirngadi Creative Future Fest</a>
+                                                                        </h3>
+                                                                        {{-- <a class="gdlr-core-block-item-read-more"
+                                                                            href="https://demo.goodlayers.com/kingster/blog-full-right-sidebar-with-frame/"
+                                                                            target="_self" style="color: #3db166;">Read
+                                                                            All News</a> --}}
+                                                                    </div>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -988,104 +927,45 @@
                                                             <div class="gdlr-core-event-widget clearfix">
                                                                 <span
                                                                     class="gdlr-core-event-item-info gdlr-core-skin-caption gdlr-core-type-start-date-month">
-                                                                    <span class="gdlr-core-date">07</span><span
+                                                                    <span class="gdlr-core-date">20</span><span
                                                                         class="gdlr-core-month">Jan</span>
                                                                 </span>
                                                                 <div class="gdlr-core-event-item-content-wrap">
                                                                     <h3 class="gdlr-core-event-item-title"
                                                                         style="letter-spacing: 0px; text-transform: none;">
-                                                                        <a href="#">Reunion Event : Kingster’s Alumni
-                                                                            Golf Tour</a>
+                                                                        <a href="#">PIRNGADI CREATIVE</a></BR>
+                                                                        <a href="#">FUTURE FEST</a></BR>
                                                                     </h3>
                                                                     <div class="gdlr-core-event-item-info-wrap">
                                                                         <span
                                                                             class="gdlr-core-event-item-info gdlr-core-skin-caption gdlr-core-type-time">
                                                                             <span class="gdlr-core-head"><i
                                                                                     class="icon_clock_alt"></i></span><span
-                                                                                class="gdlr-core-tail">7:00 am - 11:30
-                                                                                pm</span>
+                                                                                class="gdlr-core-tail">08:00 - 17:30
+                                                                            </span>
                                                                         </span>
-                                                                        <span
-                                                                            class="gdlr-core-event-item-info gdlr-core-skin-caption gdlr-core-type-location">
-                                                                            <span class="gdlr-core-head"><i
-                                                                                    class="icon_pin_alt"></i></span><span
-                                                                                class="gdlr-core-tail">Kingster Grand
-                                                                                Hall</span>
-                                                                        </span>
+
                                                                     </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="gdlr-core-event-item-list gdlr-core-item-pdlr gdlr-core-style-widget clearfix"
-                                                            style="margin-bottom: 38px;">
-                                                            <div class="gdlr-core-event-widget clearfix">
-                                                                <span
-                                                                    class="gdlr-core-event-item-info gdlr-core-skin-caption gdlr-core-type-start-date-month">
-                                                                    <span class="gdlr-core-date">01</span><span
-                                                                        class="gdlr-core-month">Jan</span>
-                                                                </span>
-                                                                <div class="gdlr-core-event-item-content-wrap">
-                                                                    <h3 class="gdlr-core-event-item-title"
-                                                                        style="letter-spacing: 0px; text-transform: none;">
-                                                                        <a href="#">Kingster’s Alumni Hot Air Ballon
-                                                                            Trip in Turkey</a>
-                                                                    </h3>
                                                                     <div class="gdlr-core-event-item-info-wrap">
                                                                         <span
-                                                                            class="gdlr-core-event-item-info gdlr-core-skin-caption gdlr-core-type-time">
-                                                                            <span class="gdlr-core-head"><i
-                                                                                    class="icon_clock_alt"></i></span><span
-                                                                                class="gdlr-core-tail">10:00 am - 4:30
-                                                                                pm</span>
-                                                                        </span>
-                                                                        <span
                                                                             class="gdlr-core-event-item-info gdlr-core-skin-caption gdlr-core-type-location">
                                                                             <span class="gdlr-core-head"><i
                                                                                     class="icon_pin_alt"></i></span><span
-                                                                                class="gdlr-core-tail">Kingster Grand
-                                                                                Hall</span>
+                                                                                class="gdlr-core-tail">Jl.Pirngadi no 4- 14
+                                                                                Bubutan Surabaya</span>
                                                                         </span>
                                                                     </div>
+
                                                                 </div>
                                                             </div>
+                                                            <img src="{{ asset('barcode.png') }}" alt=""
+                                                                width="700" height="430" title="3454568" />
                                                         </div>
-                                                        <div class="gdlr-core-event-item-list gdlr-core-item-pdlr gdlr-core-style-widget clearfix"
-                                                            style="margin-bottom: 38px;">
-                                                            <div class="gdlr-core-event-widget clearfix">
-                                                                <span
-                                                                    class="gdlr-core-event-item-info gdlr-core-skin-caption gdlr-core-type-start-date-month">
-                                                                    <span class="gdlr-core-date">17</span><span
-                                                                        class="gdlr-core-month">Dec</span>
-                                                                </span>
-                                                                <div class="gdlr-core-event-item-content-wrap">
-                                                                    <h3 class="gdlr-core-event-item-title"
-                                                                        style="letter-spacing: 0px; text-transform: none;">
-                                                                        <a href="#">Fintech &amp; Key Investment
-                                                                            Conference</a>
-                                                                    </h3>
-                                                                    <div class="gdlr-core-event-item-info-wrap">
-                                                                        <span
-                                                                            class="gdlr-core-event-item-info gdlr-core-skin-caption gdlr-core-type-time">
-                                                                            <span class="gdlr-core-head"><i
-                                                                                    class="icon_clock_alt"></i></span><span
-                                                                                class="gdlr-core-tail">1:00 pm - 5:00
-                                                                                pm</span>
-                                                                        </span>
-                                                                        <span
-                                                                            class="gdlr-core-event-item-info gdlr-core-skin-caption gdlr-core-type-location">
-                                                                            <span class="gdlr-core-head"><i
-                                                                                    class="icon_pin_alt"></i></span><span
-                                                                                class="gdlr-core-tail">Kingster Grand
-                                                                                Hall</span>
-                                                                        </span>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
+
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="gdlr-core-pbf-element">
+                                            {{-- <div class="gdlr-core-pbf-element">
                                                 <div
                                                     class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
                                                     <a class="gdlr-core-button gdlr-core-button-transparent gdlr-core-left-align gdlr-core-button-no-border"
@@ -1105,7 +985,7 @@
                                                             style="color: #475c87;"></i>
                                                     </a>
                                                 </div>
-                                            </div>
+                                            </div> --}}
                                         </div>
                                     </div>
                                 </div>
@@ -1271,5 +1151,4 @@
 @endsection
 
 @push('after-script')
-   
 @endpush
